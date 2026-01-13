@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Not_plotted/testing callout types.md",
-                "mode": "preview",
-                "source": true,
+                "file": "content/Radiocarbon Data mapping/0. Datset.md",
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "testing callout types"
+              "title": "0. Datset"
             }
           }
         ]
@@ -222,217 +222,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "8405939f2dea3e89",
-        "type": "window",
-        "children": [
-          {
-            "id": "9446c88130489502",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "58534ae8747e5551",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "content/Radiocarbon Data mapping/index.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "index"
-                }
-              },
-              {
-                "id": "49687ae59c606e0c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "content/Radiocarbon Data mapping/0. Datset.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "0. Datset"
-                }
-              },
-              {
-                "id": "4b594297133895ca",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "content/Radiocarbon Data mapping/B. Element.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "B. Element"
-                }
-              },
-              {
-                "id": "699b90ad1af7512b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "content/Radiocarbon Data mapping/C. Biological Age.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "C. Biological Age"
-                }
-              },
-              {
-                "id": "759a3abc0561610e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "content/Radiocarbon Data mapping/D. Site.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "D. Site"
-                }
-              },
-              {
-                "id": "b472324272d47e8e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "content/Radiocarbon Data mapping/E. Lab nr.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "E. Lab nr"
-                }
-              },
-              {
-                "id": "d2fe0363f59fa466",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "content/Radiocarbon Data mapping/F. BP.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "F. BP"
-                }
-              },
-              {
-                "id": "c6421ff108c20eb8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "content/SEAD/Tables/Site/tbl_site_references.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "tbl_site_references"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1708,
-        "y": 0,
-        "width": 1732,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "f43eeecf81df1d7d",
         "type": "window",
         "children": [
@@ -448,7 +237,7 @@
                   "state": {
                     "file": "content/Radiocarbon Data mapping/B. Element.md",
                     "mode": "source",
-                    "source": true,
+                    "source": false,
                     "backlinks": true,
                     "backlinkOpts": {
                       "collapseAll": false,
@@ -479,10 +268,13 @@
   },
   "active": "32862686a53ae703",
   "lastOpenFiles": [
-    "Pasted image 20251223105059.png",
+    "content/Radiocarbon Data mapping/B. Element.md",
+    "content/Radiocarbon Data mapping/index.md",
+    "content/Radiocarbon Data mapping/0. Datset.md",
     "content/images/testing callout types.png",
-    "public/images/testing-callout-types.png",
     "Not_plotted/testing callout types.md",
+    "Pasted image 20251223105059.png",
+    "public/images/testing-callout-types.png",
     "public/testing-callout-types-og-image.webp",
     "public/index-og-image.webp",
     "public/SEAD/index-og-image.webp",
@@ -490,7 +282,6 @@
     "public/SEAD/Tables/sSample/tbl_sample_notes-og-image.webp",
     "public/SEAD/Tables/sSample/tbl_sample_locations-og-image.webp",
     "public/SEAD/Tables/sSample/tbl_sample_location_types-og-image.webp",
-    "public/SEAD/Tables/sSample/tbl_sample_images-og-image.webp",
     "public/testing-callout-types.html",
     "public/index.html",
     "public/SEAD/Tables/sSample/tbl_sample_types.html",
@@ -506,9 +297,6 @@
     "content/SEAD/Columns/dataset_id.md",
     "content/SEAD/Tables/Dataset/tbl_analysis_entities.md",
     "content/SEAD/Columns/analysis_entity_id.md",
-    "content/Radiocarbon Data mapping/B. Element.md",
-    "content/Radiocarbon Data mapping/index.md",
-    "content/Radiocarbon Data mapping/0. Datset.md",
     "content/SEAD/Tables/Site/tbl_site_references.md",
     "content/Radiocarbon Data mapping/O. Source.md",
     "content/SEAD/Columns/site_reference_id.md",
