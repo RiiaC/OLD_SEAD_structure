@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Radiocarbon Data mapping/0. Datset.md",
+                "file": "content/Radiocarbon Data mapping/E. Lab nr.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0. Datset"
+              "title": "E. Lab nr"
             }
           }
         ]
@@ -259,18 +259,27 @@
         "direction": "vertical",
         "x": 1720,
         "y": 0,
-        "width": 1720,
-        "height": 1392,
+        "width": 1024,
+        "height": 752,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "32862686a53ae703",
+  "active": "7f3ecacaafed8327",
   "lastOpenFiles": [
+    "content/Radiocarbon Data mapping/H. δ13C.md",
+    "content/Radiocarbon Data mapping/N.to 2σ.md",
+    "content/Radiocarbon Data mapping/O. Source.md",
+    "content/Radiocarbon Data mapping/G. ±.md",
+    "content/Radiocarbon Data mapping/F. BP.md",
+    "content/Radiocarbon Data mapping/E. Lab nr.md",
+    "content/Radiocarbon Data mapping/D. Site.md",
+    "content/Radiocarbon Data mapping/C. Biological Age.md",
     "content/Radiocarbon Data mapping/B. Element.md",
-    "content/Radiocarbon Data mapping/index.md",
+    "content/SEAD/Columns/element_name.md",
     "content/Radiocarbon Data mapping/0. Datset.md",
+    "content/Radiocarbon Data mapping/index.md",
     "content/images/testing callout types.png",
     "Not_plotted/testing callout types.md",
     "Pasted image 20251223105059.png",
@@ -298,20 +307,12 @@
     "content/SEAD/Tables/Dataset/tbl_analysis_entities.md",
     "content/SEAD/Columns/analysis_entity_id.md",
     "content/SEAD/Tables/Site/tbl_site_references.md",
-    "content/Radiocarbon Data mapping/O. Source.md",
     "content/SEAD/Columns/site_reference_id.md",
-    "content/Radiocarbon Data mapping/E. Lab nr.md",
-    "content/Radiocarbon Data mapping/D. Site.md",
-    "content/Radiocarbon Data mapping/C. Biological Age.md",
-    "content/Radiocarbon Data mapping/F. BP.md",
     "content/Radiocarbon Data mapping/A. Map Fig.1.md",
     "content/SEAD/Columns/physical_sample_id.md",
     "content/SEAD/Tables/sSample/tbl_physical_samples.md",
     "content/SEAD/Columns/sample_name.md",
-    "content/SEAD/Columns/element_name.md",
     "content/SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
-    "content/SEAD/Columns/contact_id.md",
-    "content/SEAD/Columns/master_name.md",
-    "content/SEAD/Tables/Dataset/tbl_dataset_masters.md"
+    "content/SEAD/Columns/contact_id.md"
   ]
 }
