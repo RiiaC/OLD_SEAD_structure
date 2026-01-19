@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:\"content/Radiocarbon Data mapping\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Radiocarbon Data mapping\"  ",
+      "query": "path:\"content/Radiocarbon Data mapping\"  ",
       "color": {
         "a": 1,
-        "rgb": 15741747
+        "rgb": 14048348
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7545958473691461,
+  "scale": 1.0801228171608743,
   "close": true
 }
