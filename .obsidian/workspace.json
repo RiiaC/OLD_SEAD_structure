@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/SEAD/Tables/Provenance/tbl_methods.md",
+                "file": "content/SEAD/Columns/feature_name.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tbl_methods"
+              "title": "feature_name"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "O.",
+                "query": "tbl_f",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,11 +109,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 414.5
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -245,28 +246,35 @@
   },
   "active": "a65e583778f6e8d3",
   "lastOpenFiles": [
-    "content/SEAD/Columns/method_id.md",
+    "content/SEAD/Tables/Ungrouped/tbl_features.md",
+    "content/SEAD/Columns/feature_description.md",
+    "Not_plotted/date_updated.md",
+    "content/SEAD/Tables/sSample/tbl_sample_alt_refs.md",
+    "content/SEAD/Columns/alt_ref.md",
+    "content/SEAD/Tables/Taxonomy/tbl_taxa_common_names.md",
+    "content/SEAD/Columns/common_name.md",
+    "content/SEAD/Columns/analysis_taxon_count_id.md",
+    "content/SEAD/Columns/material_dated.md",
+    "content/SEAD/Tables/Ungrouped/tbl_dating_material.md",
+    "content/SEAD/Columns/abundance_element_id.md",
+    "content/SEAD/Columns/abundance_id.md",
+    "content/SEAD/Tables/Taxa Counts/tbl_abundances.md",
+    "content/SEAD/Columns/abundance.md",
     "content/Radiocarbon Data mapping/E. Lab nr.md",
-    "content/Radiocarbon Data mapping/D. Site.md",
-    "content/Radiocarbon Data mapping/0. Datset.md",
-    "content/Radiocarbon Data mapping/index.md",
-    "2026-01-19.md",
-    "node_modules/content-disposition/HISTORY.md",
-    "content/SEAD/Tables/Provenance/tbl_method_groups.md",
-    "content/SEAD/Tables/Geochronology/tbl_geochron_refs.md",
-    "content/SEAD/Tables/Geochronology/tbl_geochronology.md",
-    "content/SEAD/Tables/Ages/tbl_analysis_entity_ages.md",
-    "content/SEAD/Tables/Ages/index.md",
-    "content/Radiocarbon Data mapping/B. Element.md",
+    "content/SEAD/Tables/Ungrouped/tbl_dating_uncertainty.md",
+    "content/SEAD/Columns/dating_uncertainty_id.md",
+    "content/SEAD/Columns/sample_type_id.md",
+    "content/SEAD/Tables/sSample/tbl_sample_types.md",
+    "content/SEAD/Tables/Sample Groups/tbl_sample_group_descriptions.md",
+    "content/SEAD/Columns/sample_group_description_type_id.md",
     "content/Radiocarbon Data mapping/H. δ13C.md",
-    "content/Radiocarbon Data mapping/N.to 2σ.md",
-    "content/Radiocarbon Data mapping/O. Source.md",
     "content/Radiocarbon Data mapping/G. ±.md",
     "content/Radiocarbon Data mapping/F. BP.md",
-    "content/Radiocarbon Data mapping/C. Biological Age.md",
-    "content/SEAD/Columns/element_name.md",
+    "content/SEAD/Tables/Site/tbl_sites.md",
+    "content/SEAD/Columns/national_site_identifier.md",
+    "SEAD/Columns",
+    "SEAD",
     "content/images/testing callout types.png",
-    "Not_plotted/testing callout types.md",
     "Pasted image 20251223105059.png",
     "public/images/testing-callout-types.png",
     "public/testing-callout-types-og-image.webp",
@@ -283,13 +291,6 @@
     "public/SEAD/Tables/sSample/tbl_sample_locations.html",
     "public/SEAD/Tables/sSample/tbl_sample_location_types.html",
     "public/SEAD/Tables/sSample/tbl_sample_images.html",
-    "public/SEAD/Tables/sSample/tbl_sample_horizons.html",
-    "public/SEAD/Tables/sSample/tbl_sample_dimensions.html",
-    "public/SEAD/Tables/sSample/tbl_sample_descriptions.html",
-    "content/SEAD Glossary.md",
-    "content/SEAD/Tables/Dataset/tbl_datasets.md",
-    "content/SEAD/Columns/dataset_id.md",
-    "content/SEAD/Tables/Dataset/tbl_analysis_entities.md",
-    "content/SEAD/Columns/analysis_entity_id.md"
+    "public/SEAD/Tables/sSample/tbl_sample_horizons.html"
   ]
 }

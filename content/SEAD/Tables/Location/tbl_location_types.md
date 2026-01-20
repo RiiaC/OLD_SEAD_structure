@@ -5,6 +5,7 @@ columns:
   - "[[date_updated]]"
   - "[[source/docs/plugins/Description]]"
   - "[[location_type]]"
+date created: Friday, September 19th 2025, 3:37:16 pm
 ---
 
 Contains definitions for various geographical terms, specifying their resolution and context (e.g., administrative unit, historical administrative unit, lake, country).

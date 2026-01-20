@@ -10,6 +10,7 @@ columns:
 connected_tables:
   - "[[tbl_physical_samples]]"
   - "[[tbl_sample_location_types]]"
+date created: Friday, September 19th 2025, 3:37:16 pm
 ---
 
 Contains information about the locations of samples based on predefined types.
