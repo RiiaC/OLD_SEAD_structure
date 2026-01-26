@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/SEAD/Columns/feature_name.md",
+                "file": "content/SEAD/Tables/Ungrouped/tbl_features.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "feature_name"
+              "title": "tbl_features"
             }
           }
         ],
@@ -109,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -246,6 +245,7 @@
   },
   "active": "a65e583778f6e8d3",
   "lastOpenFiles": [
+    "content/SEAD/Columns/feature_name.md",
     "content/SEAD/Tables/Ungrouped/tbl_features.md",
     "content/SEAD/Columns/feature_description.md",
     "Not_plotted/date_updated.md",
@@ -271,7 +271,6 @@
     "content/Radiocarbon Data mapping/G. ±.md",
     "content/Radiocarbon Data mapping/F. BP.md",
     "content/SEAD/Tables/Site/tbl_sites.md",
-    "content/SEAD/Columns/national_site_identifier.md",
     "SEAD/Columns",
     "SEAD",
     "content/images/testing callout types.png",
