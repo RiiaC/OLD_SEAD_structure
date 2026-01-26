@@ -1,150 +1,24 @@
 {
   "collapse-filter": false,
-  "search": "path:SEAD  ",
+  "search": "path:content  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Tables/Taxonomy  ",
+      "query": "path:\"Radiocarbon Data mapping\"  ",
       "color": {
         "a": 1,
-        "rgb": 12852252
+        "rgb": 15741747
       }
     },
     {
-      "query": "path:Tables/Dendro  ",
+      "query": "path:content/SEAD  ",
       "color": {
         "a": 1,
-        "rgb": 14910082
-      }
-    },
-    {
-      "query": "path:Tables/Ages  ",
-      "color": {
-        "a": 1,
-        "rgb": 8817405
-      }
-    },
-    {
-      "query": "path:\"Tables/Analysis Values\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 9309651
-      }
-    },
-    {
-      "query": "path:Tables/Dendro  ",
-      "color": {
-        "a": 1,
-        "rgb": 1479685
-      }
-    },
-    {
-      "query": "path:Tables/Ecocode  ",
-      "color": {
-        "a": 1,
-        "rgb": 13433788
-      }
-    },
-    {
-      "query": "path:Tables/Geochronology  ",
-      "color": {
-        "a": 1,
-        "rgb": 1383074
-      }
-    },
-    {
-      "query": "path:Tables/Location  ",
-      "color": {
-        "a": 1,
-        "rgb": 10376965
-      }
-    },
-    {
-      "query": "path:\"Tables/Measured Value\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14190568
-      }
-    },
-    {
-      "query": "path:Tables/Project  ",
-      "color": {
-        "a": 1,
-        "rgb": 13084037
-      }
-    },
-    {
-      "query": "path:Tables/Provenance  ",
-      "color": {
-        "a": 1,
-        "rgb": 15160298
-      }
-    },
-    {
-      "query": "path:Tables/RDB  ",
-      "color": {
-        "a": 1,
-        "rgb": 11185856
-      }
-    },
-    {
-      "query": "path:\"Tables/Relative Dating\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11531517
-      }
-    },
-    {
-      "query": "path:\"Tables/Sample Groups\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11258738
-      }
-    },
-    {
-      "query": "path:Tables/Site  ",
-      "color": {
-        "a": 1,
-        "rgb": 15568908
-      }
-    },
-    {
-      "query": "path:Tables/sSample  ",
-      "color": {
-        "a": 1,
-        "rgb": 4038420
-      }
-    },
-    {
-      "query": "path:\"Tables/Taxa Counts\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14910082
-      }
-    },
-    {
-      "query": "path:Tables/Taxonomy  ",
-      "color": {
-        "a": 1,
-        "rgb": 12852252
-      }
-    },
-    {
-      "query": "path:Tables/Untitled  ",
-      "color": {
-        "a": 1,
-        "rgb": 14935011
-      }
-    },
-    {
-      "query": "path:SEAD/Tables/Bibliography  ",
-      "color": {
-        "a": 1,
-        "rgb": 6169347
+        "rgb": 3358423
       }
     }
   ],
@@ -158,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6612452765178972,
-  "close": false
+  "scale": 0.15454545061910768,
+  "close": true
 }

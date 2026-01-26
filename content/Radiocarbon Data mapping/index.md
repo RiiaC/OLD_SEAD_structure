@@ -8,22 +8,6 @@ title: Radiocarbon Data mapping
 
 This section documents the process of mapping a dataset to the SEAD database structure prior to importing the data, using an example dataset, in the form of a spreadsheet called radiocarbon_Glykou_etal_2021_input.xlsx. This folder contains one file for each of the columns in the first tab of that spreadsheet (**a1_radiocarbon_data tab**). 
 Three are three ways navigate the mapping:you can approach it from [[#The mapped SEAD tables used for this dataset]], via [[#The columns of this dataset]], or through the interactive graph. To access the graph-view, click on any of the files from these two menus and then click on the "expand" symbol in the upper right hand corner of the Graph.View. You can then drag nodes to activate labels and reveal the mapping, or click on a node to read more about that node.
-## The mapped SEAD tables used for this dataset
-Here follows a list of the SEAD tables to which these columns have been mapped, so far, with links to their mapping notes:
-
-- [[0. Datset#datasets]]
-- [[0. Datset#dataset masters]]
-- [[0. Datset#contacts]]
-- [[B. Element#abundance elements]]
-- [[B. Element#abundances]]
-- [[B. Element#analysis entities]]
-- [[D. Site#sites]] 
-- [[D. Site#locations]]
-- [[D. Site#site locations]]
-- [[E. Lab nr#sample groups]]
-- [[E. Lab nr#physical samples]]
-- [[O. Source#biblio]]
-- [[O. Source#site references]]
 ## The columns of this dataset
 Below is the list of all of the columns appearing in this data set. Clicking on a column name from the list below will show you how it is mapped to the SEAD database structure.
 
