@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Radiocarbon Data mapping/index.md",
+                "file": "content/SEAD/Tables/sSample/tbl_physical_samples.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,21 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "tbl_physical_samples"
             }
           },
           {
             "id": "262ee92f9d264bc5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "content/SEAD/Tables/Dataset/tbl_datasets.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "tbl_datasets"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -254,8 +267,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "262ee92f9d264bc5",
+  "active": "a65e583778f6e8d3",
   "lastOpenFiles": [
+    "content/SEAD/Tables/Provenance/tbl_methods.md",
+    "content/SEAD/Tables/Dataset/tbl_datasets.md",
+    "content/SEAD/Tables/sSample/tbl_physical_samples.md",
+    "content/SEAD/Tables/Sample Groups/tbl_sample_groups.md",
+    "content/Radiocarbon Data mapping/index.md",
+    "content/SEAD/Tables/Dataset/tbl_analysis_entities.md",
     "content/Radiocarbon Data mapping/B. Element.md",
     "content/Radiocarbon Data mapping/A. Map Fig.1.md",
     "content/Radiocarbon Data mapping/0. Datset.md",
@@ -264,7 +283,6 @@
     "content/Radiocarbon Data mapping/K. from 1σ.md",
     "content/Radiocarbon Data mapping/I. R(t).md",
     "N..md",
-    "content/Radiocarbon Data mapping/index.md",
     "content/Radiocarbon Data mapping/O. Source.md",
     "content/Radiocarbon Data mapping/D. Site.md",
     "content/SEAD/Tables/Ungrouped/tbl_features.md",
@@ -277,11 +295,6 @@
     "content/SEAD/Columns/common_name.md",
     "content/SEAD/Columns/analysis_taxon_count_id.md",
     "content/SEAD/Columns/material_dated.md",
-    "content/SEAD/Tables/Ungrouped/tbl_dating_material.md",
-    "content/SEAD/Columns/abundance_element_id.md",
-    "content/SEAD/Columns/abundance_id.md",
-    "content/SEAD/Tables/Taxa Counts/tbl_abundances.md",
-    "content/SEAD/Columns/abundance.md",
     "SEAD/Columns",
     "SEAD",
     "content/images/testing callout types.png",
