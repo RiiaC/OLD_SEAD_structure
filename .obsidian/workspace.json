@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/SEAD/Tables/sSample/tbl_sample_coordinates.md",
+                "file": "content/SEAD/Columns/authors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tbl_sample_coordinates"
+              "title": "authors"
             }
           },
           {
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coord",
+                "query": "meth",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,8 +132,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -269,14 +268,21 @@
   },
   "active": "32862686a53ae703",
   "lastOpenFiles": [
+    "content/SEAD/Tables/Bibliography/tbl_biblio.md",
+    "content/SEAD/Columns/authors.md",
+    "node_modules/buffer/AUTHORS.md",
+    "content/SEAD/Columns/biblio_id.md",
+    "content/SEAD/Tables/Provenance/tbl_methods.md",
+    "content/SEAD/Columns/method_id.md",
+    "content/Radiocarbon Data mapping/0. Datset.md",
+    "content/SEAD/Tables/sSample/tbl_sample_coordinates.md",
+    "content/Radiocarbon Data mapping/B. Element.md",
     "content/SEAD/Columns/coordinate_method_dimension_id.md",
     "content/SEAD/Tables/Ungrouped/tbl_coordinate_method_dimensions.md",
     "content/SEAD/Tables/Ungrouped/tbl_dimensions.md",
-    "content/SEAD/Tables/sSample/tbl_sample_coordinates.md",
     "content/SEAD/Columns/sample_coordinate_id.md",
     "content/SEAD/Tables/Site/tbl_sites.md",
     "content/SEAD/Tables/Site/tbl_site_locations.md",
-    "content/Radiocarbon Data mapping/0. Datset.md",
     "content/SEAD/Columns/measurement.md",
     "content/SEAD/Columns/dimension_id.md",
     "Not_plotted/date_updated.md",
@@ -284,17 +290,10 @@
     "content/SEAD/Columns/accuracy.md",
     "content/SEAD/Tables/Sample Groups/tbl_sample_group_coordinates.md",
     "content/SEAD/Tables/sSample/tbl_physical_samples.md",
-    "content/SEAD/Tables/Provenance/tbl_methods.md",
     "content/SEAD/Tables/Dataset/tbl_datasets.md",
     "content/SEAD/Tables/Sample Groups/tbl_sample_groups.md",
     "content/Radiocarbon Data mapping/index.md",
     "content/SEAD/Tables/Dataset/tbl_analysis_entities.md",
-    "content/Radiocarbon Data mapping/B. Element.md",
-    "content/Radiocarbon Data mapping/A. Map Fig.1.md",
-    "content/Radiocarbon Data mapping/F. BP.md",
-    "content/Radiocarbon Data mapping/L. to 1σ.md",
-    "content/Radiocarbon Data mapping/K. from 1σ.md",
-    "content/Radiocarbon Data mapping/I. R(t).md",
     "SEAD/Columns",
     "SEAD",
     "content/images/testing callout types.png",
