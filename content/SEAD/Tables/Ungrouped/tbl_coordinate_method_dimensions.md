@@ -11,6 +11,7 @@ columns:
 connected_tables:
   - "[[tbl_dimensions]]"
   - "[[tbl_methods]]"
+date created: Friday, September 19th 2025, 3:37:16 pm
 ---
 
 Defines the dimensions applicable to each coordinate system method and specifies any legal values for these dimensions. Each entry associates a coordinate system method with its corresponding dimensions and their permissible value ranges.

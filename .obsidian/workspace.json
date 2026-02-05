@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Radiocarbon Data mapping/0. Datset.md",
+                "file": "content/SEAD/Tables/sSample/tbl_sample_coordinates.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0. Datset"
+              "title": "tbl_sample_coordinates"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/SEAD/Tables/sSample/tbl_physical_samples.md",
+                "file": "content/SEAD/Tables/sSample/tbl_sample_coordinates.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tbl_physical_samples"
+              "title": "tbl_sample_coordinates"
             }
           },
           {
@@ -79,8 +79,7 @@
               "title": "tbl_datasets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tbl_f",
+                "query": "coord",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,11 +132,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 350.5
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -267,34 +267,34 @@
       "templates:Insert template": false
     }
   },
-  "active": "a65e583778f6e8d3",
+  "active": "32862686a53ae703",
   "lastOpenFiles": [
+    "content/SEAD/Columns/coordinate_method_dimension_id.md",
+    "content/SEAD/Tables/Ungrouped/tbl_coordinate_method_dimensions.md",
+    "content/SEAD/Tables/Ungrouped/tbl_dimensions.md",
+    "content/SEAD/Tables/sSample/tbl_sample_coordinates.md",
+    "content/SEAD/Columns/sample_coordinate_id.md",
+    "content/SEAD/Tables/Site/tbl_sites.md",
+    "content/SEAD/Tables/Site/tbl_site_locations.md",
+    "content/Radiocarbon Data mapping/0. Datset.md",
+    "content/SEAD/Columns/measurement.md",
+    "content/SEAD/Columns/dimension_id.md",
+    "Not_plotted/date_updated.md",
+    "content/Radiocarbon Data mapping/D. Site.md",
+    "content/SEAD/Columns/accuracy.md",
+    "content/SEAD/Tables/Sample Groups/tbl_sample_group_coordinates.md",
+    "content/SEAD/Tables/sSample/tbl_physical_samples.md",
     "content/SEAD/Tables/Provenance/tbl_methods.md",
     "content/SEAD/Tables/Dataset/tbl_datasets.md",
-    "content/SEAD/Tables/sSample/tbl_physical_samples.md",
     "content/SEAD/Tables/Sample Groups/tbl_sample_groups.md",
     "content/Radiocarbon Data mapping/index.md",
     "content/SEAD/Tables/Dataset/tbl_analysis_entities.md",
     "content/Radiocarbon Data mapping/B. Element.md",
     "content/Radiocarbon Data mapping/A. Map Fig.1.md",
-    "content/Radiocarbon Data mapping/0. Datset.md",
     "content/Radiocarbon Data mapping/F. BP.md",
     "content/Radiocarbon Data mapping/L. to 1σ.md",
     "content/Radiocarbon Data mapping/K. from 1σ.md",
     "content/Radiocarbon Data mapping/I. R(t).md",
-    "N..md",
-    "content/Radiocarbon Data mapping/O. Source.md",
-    "content/Radiocarbon Data mapping/D. Site.md",
-    "content/SEAD/Tables/Ungrouped/tbl_features.md",
-    "content/SEAD/Columns/feature_name.md",
-    "content/SEAD/Columns/feature_description.md",
-    "Not_plotted/date_updated.md",
-    "content/SEAD/Tables/sSample/tbl_sample_alt_refs.md",
-    "content/SEAD/Columns/alt_ref.md",
-    "content/SEAD/Tables/Taxonomy/tbl_taxa_common_names.md",
-    "content/SEAD/Columns/common_name.md",
-    "content/SEAD/Columns/analysis_taxon_count_id.md",
-    "content/SEAD/Columns/material_dated.md",
     "SEAD/Columns",
     "SEAD",
     "content/images/testing callout types.png",

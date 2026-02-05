@@ -9,6 +9,7 @@ connected_tables:
   - "[[tbl_measured_value_dimensions]]"
   - "[[tbl_sample_dimensions]]"
   - "[[tbl_sample_group_dimensions]]"
+date created: Friday, September 19th 2025, 3:37:16 pm
 ---
 
 Specifies the specific dimension being measured  (e.g., length, width, height)..
