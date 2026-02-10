@@ -2,7 +2,6 @@
 table_name: tbl_biblio
 primary_key: "[[biblio_id]]"
 columns:
-  - "[[authors]]"
   - "[[biblio_uuid]]"
   - "[[bugs_reference]]"
   - "[[date_updated]]"
@@ -13,6 +12,7 @@ columns:
   - "[[title]]"
   - "[[url]]"
   - "[[year]]"
+  - "[[content/SEAD/Columns/authors|authors]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
 ---
 

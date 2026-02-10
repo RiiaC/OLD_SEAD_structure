@@ -1,6 +1,6 @@
 ---
 best matched column:
-  - "[[authors]]"
+  - "[[Quartz AUTHORS]]"
   - "[[year]]"
 aliases:
   - O.
@@ -12,13 +12,13 @@ example_data:
 ---
 > [!info] The Source column
 > Gives a citation for each sample in the form of author-date or cites "this study" 
-> Therefore, this is a good match for both [[authors]] and [[year]], which are part of [[tbl_biblio]]
+> Therefore, this is a good match for both [[Quartz AUTHORS]] and [[year]], which are part of [[tbl_biblio]]
 
 ![[Radiocarbon data column O.png]]
 # biblio
 - [ ] create and fill in a sheet called **biblio** in the [radiocarbon_Glykou_etal_2021_input.xlsx](%5Bradiocarbon_Glykou_etal_2021_input.xlsx%5D(https://umeauniversity.sharepoint.com/:x:/r/sites/SEAD72/Shared%20Documents/Task%20force%20-%20System%20analysis%20of%20radiocarbon%20data/Datasets/AFL/input-data/radiocarbon_Glykou_etal_2021_input.xlsx?d=w34fa6e11a37c4afe9398f92ea68bd11c&csf=1&web=1&e=LaDqOd)) spreadsheet with the following columns
 - **system_id** This column is filled incrementally, starting with 1 and is used during the import process to keep track of the data in this sheet, and to cross-reference its connections to the other sheets.
-- [[authors]] *(fill this information in from the bibliography of the paper(s) provided with the dataset)*
+- [[Quartz AUTHORS]] *(fill this information in from the bibliography of the paper(s) provided with the dataset)*
 - [[year]] *(fill this information in from the bibliography of the paper(s) provided with the dataset)*
 - [[title]] *(fill this information in from the bibliography of the paper(s) provided with the dataset)*
 - [[full_reference]] *(fill this information in from the bibliography of the paper(s) provided with the dataset)*

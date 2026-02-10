@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/SEAD/Columns/authors.md",
+                "file": "content/SEAD/Tables/Bibliography/tbl_biblio.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "authors"
+              "title": "tbl_biblio"
             }
           },
           {
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "meth",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -266,11 +266,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "32862686a53ae703",
+  "active": "0591dbc0f0571636",
   "lastOpenFiles": [
+    "node_modules/buffer/Quartz AUTHORS.md",
     "content/SEAD/Tables/Bibliography/tbl_biblio.md",
     "content/SEAD/Columns/authors.md",
-    "node_modules/buffer/AUTHORS.md",
     "content/SEAD/Columns/biblio_id.md",
     "content/SEAD/Tables/Provenance/tbl_methods.md",
     "content/SEAD/Columns/method_id.md",
