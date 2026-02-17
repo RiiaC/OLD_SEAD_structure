@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/SEAD/Columns/site_name.md",
+                "file": "content/SEAD/Tables/Site/tbl_site_locations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "site_name"
+              "title": "tbl_site_locations"
             }
           },
           {
@@ -268,8 +268,9 @@
   },
   "active": "32862686a53ae703",
   "lastOpenFiles": [
-    "content/SEAD/Tables/Site/tbl_sites.md",
     "content/SEAD/Columns/site_id.md",
+    "content/SEAD/Tables/Site/tbl_sites.md",
+    "content/SEAD/Columns/site_name.md",
     "content/SEAD/Tables/Dataset/tbl_datasets.md",
     "content/SEAD/Columns/biblio_id.md",
     "content/SEAD/Tables/Bibliography/tbl_biblio.md",
@@ -293,7 +294,6 @@
     "content/SEAD/Tables/Sample Groups/tbl_sample_group_coordinates.md",
     "content/SEAD/Tables/sSample/tbl_physical_samples.md",
     "content/SEAD/Tables/Sample Groups/tbl_sample_groups.md",
-    "content/Radiocarbon Data mapping/index.md",
     "SEAD/Columns",
     "SEAD",
     "content/images/testing callout types.png",
