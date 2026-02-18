@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/SEAD/Tables/Site/tbl_site_locations.md",
+                "file": "content/SEAD/Tables/sSample/tbl_sample_location_types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tbl_site_locations"
+              "title": "tbl_sample_location_types"
             }
           },
           {
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "age",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 360.5
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -268,32 +268,32 @@
   },
   "active": "32862686a53ae703",
   "lastOpenFiles": [
-    "content/SEAD/Columns/site_id.md",
-    "content/SEAD/Tables/Site/tbl_sites.md",
-    "content/SEAD/Columns/site_name.md",
-    "content/SEAD/Tables/Dataset/tbl_datasets.md",
-    "content/SEAD/Columns/biblio_id.md",
-    "content/SEAD/Tables/Bibliography/tbl_biblio.md",
-    "content/Radiocarbon Data mapping/0. Datset.md",
-    "node_modules/buffer/Quartz AUTHORS.md",
-    "content/SEAD/Columns/authors.md",
-    "content/SEAD/Tables/Provenance/tbl_methods.md",
-    "content/SEAD/Columns/method_id.md",
-    "content/SEAD/Tables/sSample/tbl_sample_coordinates.md",
-    "content/Radiocarbon Data mapping/B. Element.md",
-    "content/SEAD/Columns/coordinate_method_dimension_id.md",
-    "content/SEAD/Tables/Ungrouped/tbl_coordinate_method_dimensions.md",
-    "content/SEAD/Tables/Ungrouped/tbl_dimensions.md",
-    "content/SEAD/Columns/sample_coordinate_id.md",
-    "content/SEAD/Tables/Site/tbl_site_locations.md",
-    "content/SEAD/Columns/measurement.md",
-    "content/SEAD/Columns/dimension_id.md",
-    "Not_plotted/date_updated.md",
-    "content/Radiocarbon Data mapping/D. Site.md",
-    "content/SEAD/Columns/accuracy.md",
-    "content/SEAD/Tables/Sample Groups/tbl_sample_group_coordinates.md",
+    "content/SEAD/Columns/sample_location_type_id.md",
+    "content/SEAD/Tables/sSample/tbl_sample_locations.md",
+    "content/SEAD/Columns/physical_sample_id.md",
     "content/SEAD/Tables/sSample/tbl_physical_samples.md",
-    "content/SEAD/Tables/Sample Groups/tbl_sample_groups.md",
+    "content/SEAD/Tables/Measured Value/tbl_measured_values.md",
+    "content/SEAD/Tables/Dataset/tbl_analysis_entities.md",
+    "content/SEAD/Columns/measured_value_id.md",
+    "content/SEAD/Tables/Measured Value/tbl_measured_value_dimensions.md",
+    "content/SEAD/Tables/Measured Value/tbl_analysis_entity_dimensions.md",
+    "content/SEAD/Columns/analysis_entity_id.md",
+    "content/SEAD/Tables/Ages/tbl_analysis_entity_ages.md",
+    "content/SEAD/Columns/age.md",
+    "content/Radiocarbon Data mapping/C. Biological Age.md",
+    "content/SEAD/Columns/abundance.md",
+    "content/SEAD/Tables/Taxa Counts/tbl_abundances.md",
+    "content/SEAD/Columns/abundance_id.md",
+    "content/SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
+    "content/SEAD/Columns/element_name.md",
+    "content/SEAD/Columns/abundance_element_id.md",
+    "content/SEAD/Columns/record_type_id.md",
+    "content/SEAD/Tables/Ungrouped/tbl_record_types.md",
+    "content/Radiocarbon Data mapping/B. Element.md",
+    "content/SEAD/Columns/biblio_id.md",
+    "content/SEAD/Tables/Site/tbl_site_references.md",
+    "content/SEAD/Tables/Bibliography/tbl_biblio.md",
+    "content/SEAD/Columns/sample_name.md",
     "SEAD/Columns",
     "SEAD",
     "content/images/testing callout types.png",

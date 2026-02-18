@@ -10,6 +10,7 @@ columns:
 connected_tables:
   - "[[tbl_analysis_entities]]"
   - "[[tbl_dimensions]]"
+date created: Friday, September 19th 2025, 3:37:16 pm
 ---
 
 Contains information about the physical dimensions of samples used for analysis, including both analyzed samples and non-analyzed residues.
