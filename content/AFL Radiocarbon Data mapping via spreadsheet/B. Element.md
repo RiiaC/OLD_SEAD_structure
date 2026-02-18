@@ -9,6 +9,7 @@ example_data:
   - Femur
   - Mandibula
 ---
+
 > [!info] Element refers to the types of things that were analysed for the dataset.
 > In this dataset the radiocarbon analyses were performed on bones, and this column specifies which type of bones were analysed (e.g. Femur, Mandibula, Humerus, etc.). 
 

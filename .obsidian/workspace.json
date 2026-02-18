@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity physical_samples.md",
+                "file": "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity abundances.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Entity physical_samples"
+              "title": "Entity abundances"
             }
           },
           {
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity physical_samples.md",
+                "file": "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity physical_samples.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -225,10 +225,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity physical_samples.md"
+                "file": "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity abundances.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Entity physical_samples"
+              "title": "File properties for Entity abundances"
             }
           }
         ],
@@ -251,37 +251,37 @@
       "templates:Insert template": false
     }
   },
-  "active": "0591dbc0f0571636",
+  "active": "32862686a53ae703",
   "lastOpenFiles": [
+    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity abundance_element.md",
+    "content/AFL Radiocarbon Data mapping via spreadsheet/C. Biological Age.md",
+    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity abundances.md",
+    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity site_location.md",
+    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity site.md",
+    "content/AFL Radiocarbon Data mapping via spreadsheet/B. Element.md",
+    "content/SEAD/Columns/abundance_id.md",
+    "content/SEAD/Tables/Taxa Counts/tbl_abundances.md",
+    "content/SEAD/Columns/abundance.md",
+    "content/SEAD/Columns/abundance_element_id.md",
+    "content/SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
+    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity physical_samples.md",
     "content/SEAD/Tables/sSample/tbl_physical_samples.md",
-    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity physical_samples.md",
     "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity samples.md",
-    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity measured_values.md",
-    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity location_type.md",
-    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity Location.md",
-    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity biblio.md",
-    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity abundance_element.md",
+    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity measured_values.md",
+    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity location_type.md",
+    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity Location.md",
+    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity biblio.md",
     "content/SEAD/Tables/Dataset/tbl_datasets.md",
     "content/SEAD/Tables/sSample/tbl_sample_coordinates.md",
-    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity site_references.md",
+    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity site_references.md",
     "Not_plotted/templates/template 2 Shape Shifter Foreign Keys.md",
-    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity site_location.md",
-    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity site.md",
     "Not_plotted/templates/template data mapping.md",
     "Not_plotted/templates/template Shape Shifter.md",
-    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/index.md",
+    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/index.md",
     "content/AFL Radiocarbon Data mapping via spreadsheet/index.md",
     "content/Untitled 2",
     "content/Untitled 1",
-    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter",
-    "content/SEAD/Tables/sSample/tbl_sample_location_types.md",
-    "content/SEAD/Columns/sample_location_type_id.md",
-    "content/SEAD/Tables/sSample/tbl_sample_locations.md",
-    "content/SEAD/Columns/physical_sample_id.md",
-    "content/SEAD/Tables/Measured Value/tbl_measured_values.md",
-    "content/SEAD/Tables/Dataset/tbl_analysis_entities.md",
-    "content/SEAD/Columns/measured_value_id.md",
-    "content/SEAD/Tables/Measured Value/tbl_measured_value_dimensions.md",
+    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter",
     "SEAD/Columns",
     "SEAD",
     "content/images/testing callout types.png",
