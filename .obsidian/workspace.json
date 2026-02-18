@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/SEAD/Tables/sSample/tbl_sample_location_types.md",
+                "file": "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tbl_sample_location_types"
+              "title": "index"
             }
           },
           {
@@ -136,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 549.5
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -268,6 +268,12 @@
   },
   "active": "32862686a53ae703",
   "lastOpenFiles": [
+    "content/AFL Radiocarbon Data mapping via spreadsheet/index.md",
+    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/index.md",
+    "content/Untitled 2",
+    "content/Untitled 1",
+    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter",
+    "content/SEAD/Tables/sSample/tbl_sample_location_types.md",
     "content/SEAD/Columns/sample_location_type_id.md",
     "content/SEAD/Tables/sSample/tbl_sample_locations.md",
     "content/SEAD/Columns/physical_sample_id.md",
@@ -280,7 +286,7 @@
     "content/SEAD/Columns/analysis_entity_id.md",
     "content/SEAD/Tables/Ages/tbl_analysis_entity_ages.md",
     "content/SEAD/Columns/age.md",
-    "content/Radiocarbon Data mapping/C. Biological Age.md",
+    "content/AFL Radiocarbon Data mapping via spreadsheet/C. Biological Age.md",
     "content/SEAD/Columns/abundance.md",
     "content/SEAD/Tables/Taxa Counts/tbl_abundances.md",
     "content/SEAD/Columns/abundance_id.md",
@@ -289,11 +295,8 @@
     "content/SEAD/Columns/abundance_element_id.md",
     "content/SEAD/Columns/record_type_id.md",
     "content/SEAD/Tables/Ungrouped/tbl_record_types.md",
-    "content/Radiocarbon Data mapping/B. Element.md",
+    "content/AFL Radiocarbon Data mapping via spreadsheet/B. Element.md",
     "content/SEAD/Columns/biblio_id.md",
-    "content/SEAD/Tables/Site/tbl_site_references.md",
-    "content/SEAD/Tables/Bibliography/tbl_biblio.md",
-    "content/SEAD/Columns/sample_name.md",
     "SEAD/Columns",
     "SEAD",
     "content/images/testing callout types.png",
@@ -310,9 +313,6 @@
     "public/index.html",
     "public/SEAD/Tables/sSample/tbl_sample_types.html",
     "public/SEAD/Tables/sSample/tbl_sample_notes.html",
-    "public/SEAD/Tables/sSample/tbl_sample_locations.html",
-    "public/SEAD/Tables/sSample/tbl_sample_location_types.html",
-    "public/SEAD/Tables/sSample/tbl_sample_images.html",
-    "public/SEAD/Tables/sSample/tbl_sample_horizons.html"
+    "public/SEAD/Tables/sSample/tbl_sample_locations.html"
   ]
 }
