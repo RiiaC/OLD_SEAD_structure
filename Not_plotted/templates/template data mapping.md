@@ -1,11 +1,12 @@
 ---
+best matched column:
+date created: Wednesday, December 3rd 2025, 4:48:48 pm
 example_data:
   - 
   - 
-  - 
-best matched column:
-date created: Wednesday, December 3rd 2025, 4:48:48 pm
+  -
 ---
+
 > [!info]  The __ column
 > Contains...
 > Therefore, it is a good match for __

@@ -489,6 +489,48 @@
         "scale": 1.0801228171608743,
         "close": true
       }
+    },
+    {
+      "type": "graph",
+      "ctime": 1771406690369,
+      "title": "shape shifter connections",
+      "options": {
+        "collapse-filter": false,
+        "search": "path:\"content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter\"  ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "path:\"Radiocarbon Data mapping\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 15741747
+            }
+          },
+          {
+            "query": "path:content/SEAD  ",
+            "color": {
+              "a": 1,
+              "rgb": 3358423
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.8370853856253658,
+        "close": false
+      }
     }
   ]
 }

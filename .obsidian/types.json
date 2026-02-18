@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "best matched column": "multitext",
-    "example_data": "multitext"
+    "example_data": "multitext",
+    "date_created": "text"
   }
 }

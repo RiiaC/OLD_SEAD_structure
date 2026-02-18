@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/index.md",
+                "file": "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity physical_samples.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Entity physical_samples"
             }
           },
           {
             "id": "a65e583778f6e8d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/SEAD/Tables/sSample/tbl_sample_coordinates.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "tbl_sample_coordinates"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -61,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/SEAD/Tables/Dataset/tbl_datasets.md",
+                "file": "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity physical_samples.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tbl_datasets"
+              "title": "Entity physical_samples"
             }
           }
         ]
@@ -111,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "age",
+                "query": "tbl_sample",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 549.5
+    "width": 270.5
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -239,19 +225,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/Radiocarbon Data mapping/O. Source.md"
+                "file": "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity physical_samples.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for O. Source"
+              "title": "File properties for Entity physical_samples"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 442.5,
-    "collapsed": true
+    "width": 442.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,37 +251,37 @@
       "templates:Insert template": false
     }
   },
-  "active": "32862686a53ae703",
+  "active": "0591dbc0f0571636",
   "lastOpenFiles": [
+    "content/SEAD/Tables/sSample/tbl_physical_samples.md",
+    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity physical_samples.md",
+    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity samples.md",
+    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity measured_values.md",
+    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity location_type.md",
+    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity Location.md",
+    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity biblio.md",
+    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity abundance_element.md",
+    "content/SEAD/Tables/Dataset/tbl_datasets.md",
+    "content/SEAD/Tables/sSample/tbl_sample_coordinates.md",
+    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity site_references.md",
+    "Not_plotted/templates/template 2 Shape Shifter Foreign Keys.md",
+    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity site_location.md",
+    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity site.md",
+    "Not_plotted/templates/template data mapping.md",
+    "Not_plotted/templates/template Shape Shifter.md",
+    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/index.md",
     "content/AFL Radiocarbon Data mapping via spreadsheet/index.md",
-    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/index.md",
     "content/Untitled 2",
     "content/Untitled 1",
-    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter",
+    "Not_plotted/AFL Radiocarbon Data Mapping via SEAD ShapeShifter",
     "content/SEAD/Tables/sSample/tbl_sample_location_types.md",
     "content/SEAD/Columns/sample_location_type_id.md",
     "content/SEAD/Tables/sSample/tbl_sample_locations.md",
     "content/SEAD/Columns/physical_sample_id.md",
-    "content/SEAD/Tables/sSample/tbl_physical_samples.md",
     "content/SEAD/Tables/Measured Value/tbl_measured_values.md",
     "content/SEAD/Tables/Dataset/tbl_analysis_entities.md",
     "content/SEAD/Columns/measured_value_id.md",
     "content/SEAD/Tables/Measured Value/tbl_measured_value_dimensions.md",
-    "content/SEAD/Tables/Measured Value/tbl_analysis_entity_dimensions.md",
-    "content/SEAD/Columns/analysis_entity_id.md",
-    "content/SEAD/Tables/Ages/tbl_analysis_entity_ages.md",
-    "content/SEAD/Columns/age.md",
-    "content/AFL Radiocarbon Data mapping via spreadsheet/C. Biological Age.md",
-    "content/SEAD/Columns/abundance.md",
-    "content/SEAD/Tables/Taxa Counts/tbl_abundances.md",
-    "content/SEAD/Columns/abundance_id.md",
-    "content/SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
-    "content/SEAD/Columns/element_name.md",
-    "content/SEAD/Columns/abundance_element_id.md",
-    "content/SEAD/Columns/record_type_id.md",
-    "content/SEAD/Tables/Ungrouped/tbl_record_types.md",
-    "content/AFL Radiocarbon Data mapping via spreadsheet/B. Element.md",
-    "content/SEAD/Columns/biblio_id.md",
     "SEAD/Columns",
     "SEAD",
     "content/images/testing callout types.png",
