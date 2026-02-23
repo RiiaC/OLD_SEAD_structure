@@ -62,7 +62,7 @@ connected_tables:
   - "[[tbl_languages]]"
   - "[[tbl_lithology]]"
   - "[[tbl_location_types]]"
-  - "[[tbl_locations]]"
+  - "[[SEAD/Columns/tbl_locations]]"
   - "[[tbl_mcr_names]]"
   - "[[tbl_mcr_summary_data]]"
   - "[[tbl_mcrdata_birmbeetledat]]"

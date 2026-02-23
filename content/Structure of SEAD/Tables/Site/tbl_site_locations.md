@@ -8,7 +8,7 @@ foreign_keys:
 columns:
   - "[[date_updated]]"
 connected_tables:
-  - "[[tbl_locations]]"
+  - "[[SEAD/Columns/tbl_locations]]"
   - "[[tbl_sites]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
 publish: publish

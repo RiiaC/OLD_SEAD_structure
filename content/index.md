@@ -11,11 +11,11 @@ title: SEAD Structure
 This web page was developed as a tool to assist with mapping new datasets to the SEAD structure, and is made publicly available for anyone who wishes to better understand the processes used for mapping a new data set to SEAD. Each section of the web page has different purposes:
 # [[SEAD Glossary]]
 Is a collection of terms used in SEAD and/or in database management, with definitions. If you encounter a term used in this page that is not in this list, please let me know.
-# [[content/SEAD/index|Structure of SEAD ]] 
+# [[content/Structure of SEAD/index|Structure of SEAD ]] 
 Contains pages for all of the tables and columns within SEADs with links between them making it possible to navigate through SEAD's structure. The primary purpose of this section is for linking information in new datasets to SEAD's structure during the mapping process.
 # [[content/SEAD Shape Shifter User Manual/index|SEAD Shape Shifter User Manuel]]
 Is an introduction to the Shape Shifter tool for data mapping. It is a tool developed for transforming and normalising data in preparation for inclusion in SEAD.
-# [[content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/index|Example dataset mapping]]
+# [[content/Example dataset mapping/index|Example dataset mapping]]
 Contains all of my notes for mapping a new dataset to SEAD
 
 If you have any questions, you may contact me directly.

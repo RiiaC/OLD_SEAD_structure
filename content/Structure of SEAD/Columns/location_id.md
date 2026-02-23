@@ -3,7 +3,7 @@ column_name: location_id
 data_type: integer
 connected_tables:
   - "[[tbl_contacts]]"
-  - "[[tbl_locations]]"
+  - "[[SEAD/Columns/tbl_locations]]"
   - "[[tbl_rdb]]"
   - "[[tbl_rdb_systems]]"
   - "[[tbl_relative_ages]]"

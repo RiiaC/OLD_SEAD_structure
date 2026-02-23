@@ -10,7 +10,7 @@ columns:
   - "[[date_updated]]"
 connected_tables:
   - "[[tbl_activity_types]]"
-  - "[[tbl_locations]]"
+  - "[[SEAD/Columns/tbl_locations]]"
   - "[[tbl_seasons]]"
   - "[[tbl_taxa_tree_master]]"
 date created: Friday, September 19th 2025, 3:37:16 pm

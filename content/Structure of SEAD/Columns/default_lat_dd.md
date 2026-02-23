@@ -2,7 +2,7 @@
 column_name: default_lat_dd
 data_type: numeric
 connected_tables:
-  - "[[tbl_locations]]"
+  - "[[SEAD/Columns/tbl_locations]]"
 publish: publish
 ---
 

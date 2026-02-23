@@ -6,7 +6,7 @@ foreign_keys:
   - "[[sample_description_type_id]]"
 columns:
   - "[[date_updated]]"
-  - "[[content/SEAD/Columns/description|description]]"
+  - "[[content/Structure of SEAD/Columns/description|description]]"
 connected_tables:
   - "[[tbl_physical_samples]]"
   - "[[tbl_sample_description_types]]"

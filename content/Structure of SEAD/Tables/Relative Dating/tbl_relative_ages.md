@@ -16,7 +16,7 @@ columns:
   - "[[relative_age_name]]"
   - "[[relative_age_uuid]]"
 connected_tables:
-  - "[[tbl_locations]]"
+  - "[[SEAD/Columns/tbl_locations]]"
   - "[[tbl_relative_age_types]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
 publish: publish
