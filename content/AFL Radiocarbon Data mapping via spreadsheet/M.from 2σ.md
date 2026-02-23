@@ -6,6 +6,7 @@ example_data:
   - "-4836"
   - "-2840"
   - "782"
+publish: publish
 ---
 > [!info] Calibrated age (to 2σ), given in years BCE
 > Values in the ‘from 2σ’ column represent the lower bound of the two–standard-deviation (95%) values calculated from the uncalibrated radiocarbon age range reported by the laboratory (column [F.](app://obsidian.md/F.%20BP)).

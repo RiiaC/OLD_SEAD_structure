@@ -11,6 +11,7 @@ connected_tables:
   - "[[tbl_dimensions]]"
   - "[[tbl_measured_values]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
+publish: publish
 ---
 
 Stores dimensional measurements of samples, such as weight before and after burning, volume, or other similar metrics.

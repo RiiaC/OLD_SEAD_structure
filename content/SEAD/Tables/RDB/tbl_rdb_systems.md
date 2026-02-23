@@ -14,6 +14,7 @@ columns:
 connected_tables:
   - "[[tbl_biblio]]"
   - "[[tbl_locations]]"
+publish: publish
 ---
 
 Details of rarity designation systems (commonly known as Red Data Books) and the regions where they are applicable.

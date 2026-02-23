@@ -24,7 +24,9 @@ connected_tables:
   - "[[tbl_text_biology]]"
   - "[[tbl_text_distribution]]"
   - "[[tbl_text_identification_keys]]"
+  - "[[tbl_taxa_common_names]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
+publish: publish
 ---
 
 Specifies the taxonomic unit related to this record.

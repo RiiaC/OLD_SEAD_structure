@@ -3,6 +3,7 @@ column_name: latitude_dd
 data_type: numeric
 connected_tables:
   - "[[tbl_sites]]"
+publish: publish
 ---
 
 The latitude of the site in decimal degrees.

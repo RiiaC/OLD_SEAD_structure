@@ -9,6 +9,7 @@ columns:
 connected_tables:
   - "[[tbl_horizons]]"
   - "[[tbl_physical_samples]]"
+publish: publish
 ---
 
 Represents the specific soil layer from which a sample is collected.

@@ -1,8 +1,9 @@
 [
-  "obsidian-git",
   "local-backup",
   "colored-text",
   "dataview",
   "dataview-serializer",
-  "obsidian-linter"
+  "obsidian-linter",
+  "quartz-syncer",
+  "multi-properties"
 ]

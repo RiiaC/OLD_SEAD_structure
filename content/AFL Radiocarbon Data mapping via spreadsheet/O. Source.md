@@ -9,6 +9,7 @@ example_data:
   - Bennike et al., 2008
   - Rundkvist et al., 2004
   - this study
+publish: publish
 ---
 > [!info] The Source column
 > Gives a citation for each sample in the form of author-date or cites "this study" 

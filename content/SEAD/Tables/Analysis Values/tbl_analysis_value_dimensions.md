@@ -9,6 +9,7 @@ columns:
 connected_tables:
   - "[[tbl_analysis_values]]"
   - "[[tbl_dimensions]]"
+publish: publish
 ---
 
 Storage for dimension of analysis value.

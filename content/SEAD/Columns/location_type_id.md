@@ -5,6 +5,7 @@ connected_tables:
   - "[[tbl_location_types]]"
   - "[[tbl_locations]]"
 date created: Friday, September 19th 2025, 3:37:17 pm
+publish: publish
 ---
 
 Primary key (automatically incremented).

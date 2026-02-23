@@ -1,4 +1,7 @@
 ---
+Entity_Name: site_references
+Type: Excel File(OpenPyXL)
+Public_ID: "[[site_reference_id]]"
 Target_Entity: "[[Entity site]]"
 Local_Keys:
   - "[[site_id]]"
@@ -8,7 +11,9 @@ Target_Entity_2: "[[Entity biblio]]"
 Local_Keys_2: "[[biblio_id]]"
 Remote_Keys_2: system_id
 date created: Wednesday, February 18th 2026, 10:19:01 am
+publish: publish
+status: complete
 ---
-
+![[Entity biblio schema.png]]
 
 

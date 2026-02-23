@@ -13,6 +13,8 @@ connected_tables:
   - "[[tbl_locations]]"
   - "[[tbl_seasons]]"
   - "[[tbl_taxa_tree_master]]"
+date created: Friday, September 19th 2025, 3:37:16 pm
+publish: publish
 ---
 
 Contains information about the specific parts of the year (e.g., Winter, June) during which certain activities or developmental stages of taxa occur (e.g., adult stage from June to August).

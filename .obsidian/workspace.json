@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity abundances.md",
+                "file": "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity methods.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,17 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Entity abundances"
+              "title": "Entity methods"
             }
           },
           {
             "id": "a65e583778f6e8d3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "content/index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           },
           {
@@ -47,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity physical_samples.md",
+                "file": "content/SEAD/Tables/Ungrouped/tbl_record_types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Entity physical_samples"
+              "title": "tbl_record_types"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -97,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tbl_sample",
+                "query": "taxon",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5
+    "width": 355.5
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -210,40 +225,30 @@
             }
           },
           {
-            "id": "a59e8941287a9711",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "17b284239fa76930",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity abundances.md"
+                "file": "content/index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Entity abundances"
+              "title": "File properties for index"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 456.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quartz-syncer:Quartz Syncer publication center": false,
       "local-backup:Run local backup": false,
       "bases:Create new base": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -251,53 +256,53 @@
       "templates:Insert template": false
     }
   },
-  "active": "32862686a53ae703",
+  "active": "a65e583778f6e8d3",
   "lastOpenFiles": [
-    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity abundance_element.md",
-    "content/AFL Radiocarbon Data mapping via spreadsheet/C. Biological Age.md",
-    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity abundances.md",
-    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity site_location.md",
-    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity site.md",
-    "content/AFL Radiocarbon Data mapping via spreadsheet/B. Element.md",
-    "content/SEAD/Columns/abundance_id.md",
-    "content/SEAD/Tables/Taxa Counts/tbl_abundances.md",
-    "content/SEAD/Columns/abundance.md",
-    "content/SEAD/Columns/abundance_element_id.md",
-    "content/SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
-    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity physical_samples.md",
-    "content/SEAD/Tables/sSample/tbl_physical_samples.md",
-    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity samples.md",
-    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity measured_values.md",
-    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity location_type.md",
-    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity Location.md",
-    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity biblio.md",
-    "content/SEAD/Tables/Dataset/tbl_datasets.md",
-    "content/SEAD/Tables/sSample/tbl_sample_coordinates.md",
-    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/Entity site_references.md",
-    "Not_plotted/templates/template 2 Shape Shifter Foreign Keys.md",
-    "Not_plotted/templates/template data mapping.md",
-    "Not_plotted/templates/template Shape Shifter.md",
-    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/index.md",
-    "content/AFL Radiocarbon Data mapping via spreadsheet/index.md",
+    "content/SEAD Shape Shifter User Manual/index.md",
+    "content/index.md",
+    "content/SEAD/index.md",
+    "content/SEAD Glossary.md",
+    "content/images/Entity method_groups schema.png",
+    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter YAML Window.png",
+    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Window form buttons.png",
+    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Welcome screen.png",
+    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Settings window.png",
+    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Reconcile.png",
+    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Schema Explorer.png",
+    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Project Window.png",
+    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Query Tester Window.png",
+    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Hierarchial Graph.png",
+    "content/SEAD Shape Shifter User Manual/images",
+    "content/SEAD Shape Shifter User Manual/7. Glossary.md",
+    "content/SEAD Shape Shifter User Manual/6. Settings.md",
+    "content/SEAD Shape Shifter User Manual/5. Query Tester Window.md",
+    "content/SEAD Shape Shifter User Manual/4. Schema Explorer Window.md",
+    "content/SEAD Shape Shifter User Manual/3. Data Sources Window.md",
+    "content/SEAD Shape Shifter User Manual/2.8 YAML.md",
+    "content/SEAD Shape Shifter User Manual/2.7 Metadata.md",
+    "content/SEAD Shape Shifter User Manual/2.6 Data Sources.md",
+    "content/SEAD Shape Shifter User Manual/2.5 Dispatch.md",
+    "content/SEAD Shape Shifter User Manual/2.4 Validate.md",
+    "content/SEAD Shape Shifter User Manual/2.3.3 Reconcile & Review.md",
+    "content/SEAD Shape Shifter User Manual/2.3.2 YAML.md",
+    "content/SEAD Shape Shifter User Manual/2.3.1 Configuration.md",
+    "content/SEAD Shape Shifter User Manual/2.3 Reconcile.md",
+    "content/SEAD Shape Shifter User Manual/2.2 Graph.md",
+    "content/SEAD Shape Shifter User Manual/2.1.7 YAML Tab.md",
+    "content/SEAD Shape Shifter User Manual/2.1.6 Extra Columns Tab.md",
+    "content/SEAD Shape Shifter User Manual/2.1.5 Append Tab.md",
+    "content/SEAD Shape Shifter User Manual/2.1.4 Unnest Tab.md",
+    "content/SEAD Shape Shifter User Manual/2.1.3 Filters Tab.md",
+    "content/SEAD Shape Shifter User Manual/2.1.2 Foreign Keys Tab.md",
+    "content/SEAD Shape Shifter User Manual/2.1.1 Basic Tab.md",
+    "content/SEAD Shape Shifter User Manual",
+    "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter/table of entities.base",
     "content/Untitled 2",
     "content/Untitled 1",
     "content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter",
     "SEAD/Columns",
     "SEAD",
-    "content/images/testing callout types.png",
-    "Pasted image 20251223105059.png",
-    "public/images/testing-callout-types.png",
-    "public/testing-callout-types-og-image.webp",
-    "public/index-og-image.webp",
-    "public/SEAD/index-og-image.webp",
-    "public/SEAD/Tables/sSample/tbl_sample_types-og-image.webp",
-    "public/SEAD/Tables/sSample/tbl_sample_notes-og-image.webp",
-    "public/SEAD/Tables/sSample/tbl_sample_locations-og-image.webp",
-    "public/SEAD/Tables/sSample/tbl_sample_location_types-og-image.webp",
     "public/testing-callout-types.html",
-    "public/index.html",
-    "public/SEAD/Tables/sSample/tbl_sample_types.html",
-    "public/SEAD/Tables/sSample/tbl_sample_notes.html",
-    "public/SEAD/Tables/sSample/tbl_sample_locations.html"
+    "public/index.html"
   ]
 }

@@ -11,6 +11,7 @@ columns:
 connected_tables:
   - "[[tbl_biblio]]"
   - "[[tbl_taxa_tree_master]]"
+publish: publish
 ---
 
 Contains descriptive distribution information for taxa, along with references to the source publications. For example, 'Scandinavia north of Tromsø, British Isles - rare.'

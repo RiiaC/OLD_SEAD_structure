@@ -5,6 +5,7 @@ columns:
   - "[[date_updated]]"
   - "[[source/docs/plugins/Description]]"
   - "[[stage_name]]"
+publish: publish
 ---
 
 Defines the various stages of an investigation, such as desktop study, prospection, full excavation, and reanalysis.

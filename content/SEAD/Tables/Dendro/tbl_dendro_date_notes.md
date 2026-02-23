@@ -8,6 +8,7 @@ columns:
   - "[[note]]"
 connected_tables:
   - "[[tbl_dendro_dates]]"
+publish: publish
 ---
 
 nan

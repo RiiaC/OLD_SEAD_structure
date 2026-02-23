@@ -15,6 +15,7 @@ connected_tables:
   - "[[tbl_analysis_entities]]"
   - "[[tbl_chronologies]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
+publish: publish
 ---
 
 Represents a virtual entity that defines a single proxy within a specific physical sample, acting as a statistical sample. A physical sample can contain multiple analysis entities, each linking various proxies. This structure facilitates the precise recording of specific species used in methods like radiocarbon dating.

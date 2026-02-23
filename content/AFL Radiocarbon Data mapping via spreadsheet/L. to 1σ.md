@@ -6,6 +6,7 @@ example_data:
   - "-4556"
   - "-2541"
   - "959"
+publish: publish
 ---
 > [!info]  Calibrated age (to 1σ), given in years BCE
 > Values in the ‘to 1σ’ column represent the upper bound of the calibrated age at one–standard-deviation (68%) calculated from the uncalibrated radiocarbon age range reported by the laboratory (column F. BP).

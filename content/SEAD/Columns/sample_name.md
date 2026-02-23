@@ -4,6 +4,7 @@ data_type: character varying
 connected_tables:
   - "[[tbl_physical_samples]]"
 date created: Friday, September 19th 2025, 3:37:17 pm
+publish: publish
 ---
 
 Primary reference number or name of the sample. Additional references can be recorded as alternative names.

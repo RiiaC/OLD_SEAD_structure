@@ -10,6 +10,7 @@ example_data:
   - Valby
   - Åker 303:1
   - Atteby gård
+publish: publish
 ---
 
 The official or commonly used name of the site.

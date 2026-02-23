@@ -11,6 +11,7 @@ connected_tables:
   - "[[tbl_site_references]]"
   - "[[tbl_sites]]"
 date created: Thursday, October 2nd 2025, 8:11:02 am
+publish: publish
 ---
 
 Specifies the site where the samples were collected, linking to additional site-specific information.

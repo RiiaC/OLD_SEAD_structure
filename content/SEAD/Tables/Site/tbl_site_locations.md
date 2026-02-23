@@ -11,6 +11,7 @@ connected_tables:
   - "[[tbl_locations]]"
   - "[[tbl_sites]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
+publish: publish
 ---
 
 Associates site identifiers with location names.

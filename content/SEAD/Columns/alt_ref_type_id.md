@@ -5,6 +5,7 @@ connected_tables:
   - "[[tbl_alt_ref_types]]"
   - "[[tbl_physical_samples]]"
   - "[[tbl_sample_alt_refs]]"
+publish: publish
 ---
 
 Primary key (automatically incremented).

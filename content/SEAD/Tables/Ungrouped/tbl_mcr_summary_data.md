@@ -15,6 +15,7 @@ columns:
   - "[[trange_lo]]"
 connected_tables:
   - "[[tbl_taxa_tree_master]]"
+publish: publish
 ---
 
 Contains concise summaries detailing the temperature tolerance limits of MCR species.

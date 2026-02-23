@@ -6,6 +6,7 @@ example_data:
   - "111"
   - "193"
   - "190"
+publish: publish
 ---
 > [!info] Column I. Reservoir offset, or R(t)
 > This is the difference in ¹⁴C (radiocarbon) content between the analysed sample and a specific carbon reservoir (like the ocean, a lake, or groundwater) and the atmosphere, making samples from these areas appear artificially older. This value is used when calculating the calibrated ages (reported in columns K. from 1σ, L. to 1σ, M.from 2σ, and N to 1σ, from the raw radiocarbon date F. BP).

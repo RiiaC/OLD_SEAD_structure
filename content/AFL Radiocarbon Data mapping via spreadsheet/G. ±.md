@@ -6,6 +6,7 @@ example_data:
   - "60"
   - "38"
   - "100"
+publish: publish
 ---
 > [!info] the margin of error in terms of years ± the given BP date
 > the values given range from 27 to 175

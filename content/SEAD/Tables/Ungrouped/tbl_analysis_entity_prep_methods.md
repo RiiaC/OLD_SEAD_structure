@@ -9,6 +9,7 @@ columns:
 connected_tables:
   - "[[tbl_analysis_entities]]"
   - "[[tbl_methods]]"
+publish: publish
 ---
 
 Links analysis entities with their respective preparation methods.

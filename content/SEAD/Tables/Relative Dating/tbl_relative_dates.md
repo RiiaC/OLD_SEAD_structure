@@ -14,6 +14,7 @@ connected_tables:
   - "[[tbl_dating_uncertainty]]"
   - "[[tbl_methods]]"
   - "[[tbl_relative_ages]]"
+publish: publish
 ---
 
 Records the relative dating information for samples by associating a relative age definition with a physical sample through an analysis entity. It includes details about dating methods, notes, and indications of uncertainty (e.g., 'from', 'ca', '<').

@@ -11,6 +11,7 @@ connected_tables:
   - "[[tbl_alt_ref_types]]"
   - "[[tbl_physical_samples]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
+publish: publish
 ---
 
 Contains various reference names for physical samples, such as laboratory or field numbers.

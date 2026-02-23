@@ -14,6 +14,7 @@ connected_tables:
   - "[[tbl_datasets]]"
   - "[[tbl_dataset_submission_types]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
+publish: publish
 ---
 
 Contains records of various submission events related to a dataset, such as initial recording, database entries, and integrations with SEAD.

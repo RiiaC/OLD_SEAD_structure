@@ -6,6 +6,7 @@ example_data:
   - "116"
   - "34"
   - "43"
+publish: publish
 ---
 > [!info] the margin of error for the given R(t) value
 

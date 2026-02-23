@@ -15,6 +15,7 @@ connected_tables:
   - "[[tbl_sample_locations]]"
   - "[[tbl_sample_notes]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
+publish: publish
 ---
 
 Identifies the specific physical sample.

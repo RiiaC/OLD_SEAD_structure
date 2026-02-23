@@ -8,6 +8,8 @@ columns:
   - "[[genus_name]]"
 connected_tables:
   - "[[tbl_taxa_tree_families]]"
+date created: Friday, September 19th 2025, 3:37:16 pm
+publish: publish
 ---
 
 Contains taxonomic genera information.

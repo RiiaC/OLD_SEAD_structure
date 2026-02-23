@@ -6,6 +6,7 @@ example_data:
   - "5401"
   - "4330"
   - "2910"
+publish: publish
 ---
 > [!info] The radiocarbon date, given in years before present (BP)
 > For this dataset, the values given range from 1246 to 5890 BP

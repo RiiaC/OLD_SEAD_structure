@@ -6,6 +6,7 @@ columns:
   - "[[location_type]]"
   - "[[location_type_description]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
+publish: publish
 ---
 
 Categorizes the different types of sample locations used within the system.

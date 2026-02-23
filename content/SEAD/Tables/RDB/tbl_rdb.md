@@ -11,6 +11,7 @@ connected_tables:
   - "[[tbl_locations]]"
   - "[[tbl_rdb_codes]]"
   - "[[tbl_taxa_tree_master]]"
+publish: publish
 ---
 
 Contains rarity data for taxa within specific geographical areas (e.g., threatened species in Sweden).

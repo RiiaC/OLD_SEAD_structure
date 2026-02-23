@@ -12,6 +12,7 @@ connected_tables:
   - "[[tbl_analysis_entities]]"
   - "[[tbl_dating_uncertainty]]"
   - "[[tbl_tephras]]"
+publish: publish
 ---
 
 Records tephrachronology-based sample dates, including associated uncertainties and additional notes.

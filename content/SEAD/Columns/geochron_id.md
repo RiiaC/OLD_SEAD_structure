@@ -5,6 +5,7 @@ connected_tables:
   - "[[tbl_dating_material]]"
   - "[[tbl_geochron_refs]]"
   - "[[tbl_geochronology]]"
+publish: publish
 ---
 
 Specifies the geochronological context of the dating material.

@@ -12,6 +12,7 @@ connected_tables:
   - "[[tbl_sample_group_references]]"
   - "[[tbl_sample_groups]]"
 date created: Friday, September 19th 2025, 3:37:17 pm
+publish: publish
 ---
 
 Identifies a sample group. linking lithology data to specific sample groups.

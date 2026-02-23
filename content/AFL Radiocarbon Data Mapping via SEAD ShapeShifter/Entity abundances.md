@@ -1,14 +1,27 @@
 ---
+foreign_keys:
+  - "[[rdb_system_id]]"
+Entity_Name: abundances
+Type: Data (Derived)
+Public_ID: "[[abundance_id]]"
 Target_Entity: "[[Entity abundance_element]]"
 Local_Keys:
   - element
 Remote_Keys: element
 SEAD_table: "[[tbl_abundances]]"
-date created: Wednesday, February 18th 2026, 9:38:29 am
-New_Column_Name: abundance
-Source_Column: "1"
+Target_Entity_2: "[[Entity taxa_tree_master]]"
+Local_Keys_2: "[[taxon_id]]"
+publish: publish
+status: needs more connections
 ---
+Assuming there is one bone for each sample, and all bones are from harp seals, I add extra columns:
 
-We are going with the assumption that there is one bone for each sample, therefore we also add an extra column, with a New Column Name of abundance, and a Source Column = 1, 
+| New Column Name | Source Column |
+| --------------- | ------------- |
+| abundance       | 1             |
+| taxon_id        | 1             |
 
-This join fills the [[abundance_element_id]] column of this entity with the appropriate numbers from the system_id row of the [[Entity abundance_element]] sheet
+The first join join fills the [[abundance_element_id]] column of this entity with the appropriate numbers for each bone from the system_id row of the [[Entity abundance_element]] sheet.
+The second join links the various taxa information to the abundances
+
+![[Entity abundances schema.png|1000]]

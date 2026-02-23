@@ -13,6 +13,7 @@ columns:
 connected_tables:
   - "[[tbl_ecocode_groups]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
+publish: publish
 ---
 
 Contains definitions for ecological, habitat, or ethnographic categories, which are linked to specific taxa within a defined classification system.

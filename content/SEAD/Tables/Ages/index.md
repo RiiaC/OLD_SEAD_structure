@@ -1,8 +1,10 @@
 ---
 date created: Thursday, December 4th 2025, 3:15:21 pm
-description: "Overview of SEAD database tables and their relationships."
-title: "Tables"
+description: Overview of SEAD database tables and their relationships.
+publish: publish
+title: Tables
 ---
+
 # Tables Overview
 
 This section contains notes for each of the Tables in the SEAD database, with properties showing their primary key, any other keys it may have, the columns associated with each table, plus connections to other tables. 

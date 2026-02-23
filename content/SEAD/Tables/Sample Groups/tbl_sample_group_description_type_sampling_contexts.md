@@ -9,6 +9,7 @@ columns:
 connected_tables:
   - "[[tbl_sample_group_description_types]]"
   - "[[tbl_sample_group_sampling_contexts]]"
+publish: publish
 ---
 
 Associates description types with sampling methods. Specifically used for dendrochronology to group description types based on detail levels, indicating how fields relate to dendrochronological analysis of buildings.

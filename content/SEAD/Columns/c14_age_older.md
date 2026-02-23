@@ -4,6 +4,7 @@ data_type: numeric
 connected_tables:
   - "[[tbl_relative_ages]]"
   - "[[tbl_tephras]]"
+publish: publish
 ---
 
 C14 age of the older boundary of the period, if applicable.

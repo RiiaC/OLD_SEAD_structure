@@ -6,6 +6,7 @@ columns:
   - "[[source/docs/plugins/Description]]"
   - "[[unit_abbrev]]"
   - "[[unit_name]]"
+publish: publish
 ---
 
 Specifies definitions of measurement units (e.g., mm for millimeters).

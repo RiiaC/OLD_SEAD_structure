@@ -13,6 +13,7 @@ columns:
 connected_tables:
   - "[[tbl_data_types]]"
   - "[[tbl_units]]"
+publish: publish
 ---
 
 Specifies actual type of values belonging to a value class

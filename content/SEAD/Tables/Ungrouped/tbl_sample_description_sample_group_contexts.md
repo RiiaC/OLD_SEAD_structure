@@ -9,6 +9,7 @@ columns:
 connected_tables:
   - "[[tbl_sample_description_types]]"
   - "[[tbl_sample_group_sampling_contexts]]"
+publish: publish
 ---
 
 Links sample descriptions to their respective group contexts, providing a structured way to manage and categorize sample data.

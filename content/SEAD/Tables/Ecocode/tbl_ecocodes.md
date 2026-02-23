@@ -9,6 +9,7 @@ columns:
 connected_tables:
   - "[[tbl_ecocode_definitions]]"
   - "[[tbl_taxa_tree_master]]"
+publish: publish
 ---
 
 Associates ecological classifications with specific taxa.

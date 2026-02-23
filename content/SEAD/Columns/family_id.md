@@ -5,6 +5,7 @@ connected_tables:
   - "[[tbl_taxa_synonyms]]"
   - "[[tbl_taxa_tree_families]]"
   - "[[tbl_taxa_tree_genera]]"
+publish: publish
 ---
 
 Specifies the taxonomic family related to the taxon synonym.

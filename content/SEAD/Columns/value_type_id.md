@@ -5,6 +5,7 @@ connected_tables:
   - "[[tbl_value_classes]]"
   - "[[tbl_value_type_items]]"
   - "[[tbl_value_types]]"
+publish: publish
 ---
 
  Identifies the type of value associated with the class.

@@ -5,6 +5,7 @@ columns:
   - "[[date_updated]]"
   - "[[source/docs/plugins/Description]]"
   - "[[image_type]]"
+publish: publish
 ---
 
 Specifies the purpose of images, such as site photos, sample group sketches, and core photos.

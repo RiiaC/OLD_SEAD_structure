@@ -6,6 +6,7 @@ connected_tables:
   - "[[tbl_ecocode_definitions]]"
   - "[[tbl_ecocode_groups]]"
   - "[[tbl_ecocode_systems]]"
+publish: publish
 ---
 
 A detailed explanation or description of the data type.

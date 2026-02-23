@@ -15,6 +15,7 @@ connected_tables:
   - "[[tbl_taxa_synonyms]]"
   - "[[tbl_tephra_dates]]"
   - "[[tbl_tephras]]"
+publish: publish
 ---
 
 Additional anlabels or comments related to the bibliographic entry.

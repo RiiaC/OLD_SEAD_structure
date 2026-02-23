@@ -9,6 +9,7 @@ columns:
 connected_tables:
   - "[[tbl_aggregate_datasets]]"
   - "[[tbl_analysis_entity_ages]]"
+publish: publish
 ---
 
 nan

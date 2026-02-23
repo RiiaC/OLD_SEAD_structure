@@ -10,6 +10,7 @@ columns:
 connected_tables:
   - "[[tbl_aggregate_datasets]]"
   - "[[tbl_analysis_entities]]"
+publish: publish
 ---
 
 20120504pib: can we drop aggregate sample name? seems excessive and unnecessary sample names can be traced.

@@ -19,6 +19,8 @@ connected_tables:
   - "[[tbl_taxa_tree_families]]"
   - "[[tbl_taxa_tree_genera]]"
   - "[[tbl_taxa_tree_master]]"
+date created: Friday, September 19th 2025, 3:37:16 pm
+publish: publish
 ---
 
 Contains alternative scientific names for taxa, along with primary references for their definition or usage.

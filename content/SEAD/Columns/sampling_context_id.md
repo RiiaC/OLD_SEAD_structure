@@ -8,6 +8,7 @@ connected_tables:
   - "[[tbl_sample_groups]]"
   - "[[tbl_sample_location_type_sampling_contexts]]"
 date created: Friday, September 19th 2025, 3:37:17 pm
+publish: publish
 ---
 
 Specifies the sampling context, providing contextual details about the sampling environment.

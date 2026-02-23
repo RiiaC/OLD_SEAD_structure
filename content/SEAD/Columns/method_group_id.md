@@ -5,6 +5,7 @@ connected_tables:
   - "[[tbl_dimensions]]"
   - "[[tbl_method_groups]]"
   - "[[tbl_methods]]"
+publish: publish
 ---
 
 Specifies the method group, limiting dimension application by group (e.g., size measurements, coordinate systems).

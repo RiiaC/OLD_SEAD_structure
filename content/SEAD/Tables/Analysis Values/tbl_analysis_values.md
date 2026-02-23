@@ -16,6 +16,7 @@ columns:
 connected_tables:
   - "[[tbl_analysis_entities]]"
   - "[[tbl_value_classes]]"
+publish: publish
 ---
 
 Stores results from an analysis as a (untyped) string value.

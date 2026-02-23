@@ -5,6 +5,7 @@ connected_tables:
   - "[[tbl_data_type_groups]]"
   - "[[tbl_data_types]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
+publish: publish
 ---
 
 Primary key (automatically incremented).

@@ -8,6 +8,7 @@ example_data:
   - Phalanx
   - Femur
   - Mandibula
+publish: publish
 ---
 
 > [!info] Element refers to the types of things that were analysed for the dataset.

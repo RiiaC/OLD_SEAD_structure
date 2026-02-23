@@ -9,6 +9,7 @@ columns:
   - "[[sort_order]]"
 connected_tables:
   - "[[tbl_record_types]]"
+publish: publish
 ---
 
 Represents the taxonomic order level within the taxonomic hierarchy.
