@@ -11,7 +11,7 @@ title: SEAD Structure
 This web page was developed as a tool to assist with mapping new datasets to the SEAD structure, and is made publicly available for anyone who wishes to better understand the processes used for mapping a new data set to SEAD. Each section of the web page has different purposes:
 # [[SEAD Glossary]]
 Is a collection of terms used in SEAD and/or in database management, with definitions. If you encounter a term used in this page that is not in this list, please let me know.
-# [[content/Structure of SEAD/index|Structure of SEAD ]] 
+# [[content/Structure of SEAD/index]] 
 Contains pages for all of the tables and columns within SEADs with links between them making it possible to navigate through SEAD's structure. The primary purpose of this section is for linking information in new datasets to SEAD's structure during the mapping process.
 # [[content/SEAD Shape Shifter User Manual/index|SEAD Shape Shifter User Manuel]]
 Is an introduction to the Shape Shifter tool for data mapping. It is a tool developed for transforming and normalising data in preparation for inclusion in SEAD.
@@ -22,6 +22,8 @@ If you have any questions, you may contact me directly.
 
 --[Riia ](https://www.umu.se/en/staff/riia-chmielowski/), SEAD Project Assistant/Data Steward
 2026-02-23
+
+PS. In the long run it is hoped that the links between the various SEAD tables and columns in their meta data (Properties) will transform into working links between them on this web page. The developers of [Quartz](https://quartz.jzhao.xyz/), the tool with which this page was built, tell me that feature will come in the next release. In the meantime, to follow the links you can copy the name of a table into the search bar for the page.
 
 
 
