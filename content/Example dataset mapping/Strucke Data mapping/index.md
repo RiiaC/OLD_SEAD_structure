@@ -1,0 +1,2 @@
+This folder contains my notes from working with the C14_Strucke_merge_2026_02_02.csv document in [SEAD Shape Shifter.](https://shape-shifter.sead.se/). That file is not the final, complete version of the Strucke collection of radiocarbon data, but it is close enough to the final form to begin doing serious mapping work with it, in preparation for receipt of the final document. 
+This folder will contains one page for each entity created in the mapping process in Shape Shifter, plus any explications or questions encountered in the process.

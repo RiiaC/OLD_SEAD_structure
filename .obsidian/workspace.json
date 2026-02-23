@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Example dataset mapping/Strucke Data mapping/Entity site_references.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,17 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "262ee92f9d264bc5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Entity site_references"
             }
           }
         ],
@@ -123,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 387.5
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -216,10 +206,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/index.md"
+                "file": "content/Example dataset mapping/Strucke Data mapping/Entity site_references.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for index"
+              "title": "File properties for Entity site_references"
             }
           }
         ],
@@ -244,15 +234,34 @@
   },
   "active": "a65e583778f6e8d3",
   "lastOpenFiles": [
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping via spreadsheet/0. Datset.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity site_references.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site_references.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity biblio.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity location.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity datasheet.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity biblio.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site_location.md",
+    "content/Structure of SEAD/Tables/Ages/tbl_analysis_entity_ages.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/D. Site.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity abundance_element.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/A. Map Fig.1.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/E. Lab nr.md",
+    "Not_plotted/templates/template 2 Shape Shifter Foreign Keys.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity datasheet.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity site.md",
+    "content/Example dataset mapping/Strucke Data mapping/Site.md",
+    "content/Example dataset mapping/Strucke Data mapping/index.md",
+    "Not_plotted/templates/template Shape Shifter.md",
+    "Not_plotted/templates/template data mapping.md",
+    "content/Example dataset mapping/index.md",
+    "content/Example dataset mapping/Strucke Data mapping",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity location.md",
     "content/index.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/0. Datset.md",
     "content/SEAD Glossary.md",
     "content/Structure of SEAD/Columns/index.md",
-    "content/Structure of SEAD/index.md",
-    "content/Structure of SEAD/Tables/index.md",
-    "content/SEAD Shape Shifter User Manual/2.7 Metadata.md",
-    "content/SEAD/Untitled.md",
-    "content/SEAD Shape Shifter User Manual/index.md",
     "content/images/Entity method_groups schema.png",
     "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter YAML Window.png",
     "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Window form buttons.png",
@@ -264,31 +273,12 @@
     "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Query Tester Window.png",
     "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Hierarchial Graph.png",
     "content/SEAD Shape Shifter User Manual/images",
-    "content/SEAD Shape Shifter User Manual/7. Glossary.md",
-    "content/SEAD Shape Shifter User Manual/6. Settings.md",
-    "content/SEAD Shape Shifter User Manual/5. Query Tester Window.md",
-    "content/SEAD Shape Shifter User Manual/4. Schema Explorer Window.md",
-    "content/SEAD Shape Shifter User Manual/3. Data Sources Window.md",
-    "content/SEAD Shape Shifter User Manual/2.8 YAML.md",
-    "content/SEAD Shape Shifter User Manual/2.6 Data Sources.md",
-    "content/SEAD Shape Shifter User Manual/2.5 Dispatch.md",
-    "content/SEAD Shape Shifter User Manual/2.4 Validate.md",
-    "content/SEAD Shape Shifter User Manual/2.3.3 Reconcile & Review.md",
-    "content/SEAD Shape Shifter User Manual/2.3.2 YAML.md",
-    "content/SEAD Shape Shifter User Manual/2.3.1 Configuration.md",
-    "content/SEAD Shape Shifter User Manual/2.3 Reconcile.md",
-    "content/SEAD Shape Shifter User Manual/2.2 Graph.md",
-    "content/SEAD Shape Shifter User Manual/2.1.7 YAML Tab.md",
-    "content/SEAD Shape Shifter User Manual/2.1.6 Extra Columns Tab.md",
-    "content/SEAD Shape Shifter User Manual/2.1.5 Append Tab.md",
     "content/SEAD Shape Shifter User Manual",
-    "content/Example dataset mapping/table of entities.base",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/table of entities.base",
     "content/Untitled 2",
     "content/Untitled 1",
     "content/Example dataset mapping",
     "SEAD/Columns",
-    "SEAD",
-    "public/testing-callout-types.html",
-    "public/index.html"
+    "SEAD"
   ]
 }
