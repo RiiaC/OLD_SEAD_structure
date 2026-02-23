@@ -11,9 +11,9 @@ title: SEAD Structure
 This web page was developed as a tool to assist with mapping new datasets to the SEAD structure, and is made publicly available for anyone who wishes to better understand the processes used for mapping a new data set to SEAD. Each section of the web page has different purposes:
 
 - [[SEAD Glossary]] Is a collection of terms used in SEAD and/or in database management, with definitions. If you encounter a term used in this page that is not in this list, please let me know.
-- [[content/Structure of SEAD/index]] Contains pages for all of the tables and columns within SEADs with links between them making it possible to navigate through SEAD's structure. The primary purpose of this section is for linking information in new datasets to SEAD's structure during the mapping process.
-- [[content/SEAD Shape Shifter User Manual/index|SEAD Shape Shifter User Manuel]] Is an introduction to the Shape Shifter tool for data mapping. It is a tool developed for transforming and normalising data in preparation for inclusion in SEAD.
-- [[content/Example dataset mapping/index|Example dataset mapping]] Contains all of my notes for mapping a new dataset to SEAD
+- Structure of SEAD ([[content/Structure of SEAD/index]]) Contains pages for  each of the tables and columns within SEAD. The "Properties" section of each page is a summary of the connections between them, and is an echo of the information available on the official [sead_staging.public page](https://humlab-sead.github.io/sead-schema/). The primary purpose of this section is for linking information in new datasets to SEAD's structure during the mapping process.
+- SEAD Shape Shifter User Manuel] ([[content/SEAD Shape Shifter User Manual/index]]) Is an introduction to the Shape Shifter tool for data mapping. It is a tool developed for transforming and normalising data in preparation for inclusion in SEAD.
+- Example dataset mapping ([[content/Example dataset mapping/index|index]]) Contains all of my notes for mapping a new dataset to SEAD
 
 If you have any questions, you may contact me directly.
 

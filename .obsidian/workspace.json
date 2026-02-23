@@ -59,24 +59,10 @@
             "id": "262ee92f9d264bc5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/SEAD/Tables/Ungrouped/tbl_record_types.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "tbl_record_types"
+              "title": "New tab"
             }
           }
         ],
@@ -258,13 +244,13 @@
   },
   "active": "a65e583778f6e8d3",
   "lastOpenFiles": [
+    "content/index.md",
+    "content/SEAD Glossary.md",
     "content/Structure of SEAD/Columns/index.md",
     "content/Structure of SEAD/index.md",
     "content/Structure of SEAD/Tables/index.md",
     "content/SEAD Shape Shifter User Manual/2.7 Metadata.md",
     "content/SEAD/Untitled.md",
-    "content/index.md",
-    "content/SEAD Glossary.md",
     "content/SEAD Shape Shifter User Manual/index.md",
     "content/images/Entity method_groups schema.png",
     "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter YAML Window.png",
