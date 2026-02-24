@@ -3,10 +3,10 @@ views:
     name: ShapeShifter progress notes
     filters:
       and:
-        - file.path.startsWith("content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter")
+        - file.path.startsWith("content/Example dataset mapping/AFL Radiocarbon Data mapping")
+        - '!file.path.contains("AFL Radiocarbon Data spreadsheet")'
+        - file.name != "index"
         - file.name != "table of entities.base"
-        - and:
-            - file.name != "index"
     order:
       - status
       - file.name

@@ -2,7 +2,7 @@
 Entity_Name: physical _samples
 Type: Data (Derived)
 Public_ID: "[[physical_sample_id]]"
-Target_Entity: "[[Entity sample_groups]]"
+Target_Entity: "[[content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity sample_groups]]"
 Local_Keys:
   - lab_nr
 Remote_Keys: lab-nr

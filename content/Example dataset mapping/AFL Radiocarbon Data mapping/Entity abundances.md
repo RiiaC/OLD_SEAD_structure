@@ -4,7 +4,7 @@ foreign_keys:
 Entity_Name: abundances
 Type: Data (Derived)
 Public_ID: "[[abundance_id]]"
-Target_Entity: "[[Entity abundance_element]]"
+Target_Entity: "[[content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity abundance_element]]"
 Local_Keys:
   - element
 Remote_Keys: element
@@ -21,7 +21,7 @@ Assuming there is one bone for each sample, and all bones are from harp seals, I
 | abundance       | 1             |
 | taxon_id        | 1             |
 
-The first join join fills the [[abundance_element_id]] column of this entity with the appropriate numbers for each bone from the system_id row of the [[Entity abundance_element]] sheet.
+The first join join fills the [[abundance_element_id]] column of this entity with the appropriate numbers for each bone from the system_id row of the [[content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity abundance_element]] sheet.
 The second join links the various taxa information to the abundances
 
 ![[Entity abundances schema.png|1000]]
