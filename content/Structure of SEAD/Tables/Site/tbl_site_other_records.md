@@ -4,8 +4,8 @@ primary_key: "[[site_other_records_id]]"
 foreign_keys:
   - "[[biblio_id]]"
   - "[[record_type_id]]"
-  - "[[SEAD/Columns/tbl_locations]]"
   - "[[site_id]]"
+  - "[[tbl_locations]]"
 columns:
   - "[[date_updated]]"
   - "[[source/docs/plugins/Description]]"

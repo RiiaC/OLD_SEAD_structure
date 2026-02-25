@@ -8,9 +8,9 @@ foreign_keys:
 columns:
   - "[[date_updated]]"
 connected_tables:
-  - "[[SEAD/Columns/tbl_locations]]"
   - "[[tbl_rdb_codes]]"
   - "[[tbl_taxa_tree_master]]"
+  - "[[tbl_locations]]"
 publish: publish
 ---
 

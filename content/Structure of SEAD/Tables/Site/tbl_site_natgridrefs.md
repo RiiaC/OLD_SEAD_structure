@@ -3,8 +3,8 @@ table_name: tbl_site_natgridrefs
 primary_key: "[[site_natgridref_id]]"
 foreign_keys:
   - "[[method_id]]"
-  - "[[SEAD/Columns/tbl_locations]]"
   - "[[site_id]]"
+  - "[[tbl_locations]]"
 columns:
   - "[[date_updated]]"
   - "[[natgridref]]"

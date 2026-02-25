@@ -2,7 +2,7 @@
 table_name: tbl_site_preservation_status
 primary_key: "[[site_preservation_status_id]]"
 foreign_keys:
-  - "[[SEAD/Columns/tbl_locations]]"
+  - "[[tbl_locations]]"
 columns:
   - "[[Evaluation_date]]"
   - "[[assessment_author_contact_id]]"

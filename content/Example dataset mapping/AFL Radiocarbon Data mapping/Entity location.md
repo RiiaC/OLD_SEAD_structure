@@ -6,7 +6,7 @@ Target_Entity: "[[Entity location_type]]"
 Local_Keys:
   - "[[location_type_id]]"
 Remote_Keys: "[[location_type_id]]"
-SEAD_table: "[[SEAD/Columns/tbl_locations|tbl_locations]]"
+SEAD_table: "[[tbl_locations]]"
 publish: publish
 status: complete
 ---

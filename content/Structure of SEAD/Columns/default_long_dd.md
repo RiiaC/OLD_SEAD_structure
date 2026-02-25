@@ -2,7 +2,7 @@
 column_name: default_long_dd
 data_type: numeric
 connected_tables:
-  - "[[SEAD/Columns/tbl_locations]]"
+  - "[[tbl_locations]]"
 publish: publish
 ---
 

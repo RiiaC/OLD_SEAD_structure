@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Example dataset mapping/Strucke Data mapping/Entity sample_groups.md",
+                "file": "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/D. Site.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Entity sample_groups"
+              "title": "D. Site"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "taxon",
+                "query": "file:tbl_locations",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/Example dataset mapping/Strucke Data mapping/Entity sample_groups.md"
+                "file": "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/D. Site.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Entity sample_groups"
+              "title": "File properties for D. Site"
             }
           }
         ],
@@ -217,8 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5,
-    "collapsed": true
+    "width": 456.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,73 +232,38 @@
       "templates:Insert template": false
     }
   },
-  "floating": {
-    "id": "4f850b85ffaf86d7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c5982b384660ccc9",
-        "type": "window",
-        "children": [
-          {
-            "id": "ff2e2ae9e8c0627f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a65e583778f6e8d3",
-                "type": "leaf",
-                "state": {
-                  "type": "bases",
-                  "state": {
-                    "file": "content/Example dataset mapping/AFL Radiocarbon Data mapping/table of entities.base",
-                    "viewName": "ShapeShifter progress notes"
-                  },
-                  "icon": "lucide-table",
-                  "title": "table of entities"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1720,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6a65f0a2a0ae8820",
+  "active": "a0b5dfdb96bf0407",
   "lastOpenFiles": [
-    "content/Example dataset mapping/Strucke Data mapping/Strucke list of entities.base",
-    "content/Example dataset mapping/Strucke Data mapping/Entity abundance_element.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity abundance_element.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity sample_groups.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/table of entities.base",
-    "content/Example dataset mapping/Strucke Data mapping/Entity site.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity sample_groups.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity biblio.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity location.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity datasheet.md",
-    "content/Structure of SEAD/Columns/location.md",
-    "content/Structure of SEAD/Tables/sSample/tbl_sample_locations.md",
-    "content/Structure of SEAD/Tables/sSample/tbl_sample_location_types.md",
-    "content/Structure of SEAD/Columns/location_type_description.md",
-    "content/Structure of SEAD/Columns/location_type.md",
-    "content/Structure of SEAD/Tables/Location/tbl_location_types.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity site_location.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity location 1.md",
-    "content/Structure of SEAD/Tables/Site/tbl_sites.md",
-    "content/Structure of SEAD/Columns/site_description.md",
-    "content/Structure of SEAD/Columns/national_site_identifier.md",
-    "content/Structure of SEAD/Columns/site_name.md",
+    "SEAD/Columns/tbl_locations.md",
     "Not_plotted/date_updated.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity biblio.md",
-    "content/Structure of SEAD/Columns/full_reference.md",
-    "content/Structure of SEAD/Tables/Bibliography/tbl_biblio.md",
-    "content/Example dataset mapping/Strucke Data mapping/index.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/D. Site.md",
+    "content/Structure of SEAD/Columns/location_name.md",
+    "content/Structure of SEAD/Columns/location_id.md",
+    "content/Structure of SEAD/Columns/default_long_dd.md",
+    "content/Structure of SEAD/Columns/location_type_id.md",
+    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_seasonality.md",
+    "content/Structure of SEAD/Tables/Site/tbl_site_references.md",
+    "content/Structure of SEAD/Tables/Site/tbl_site_preservation_status.md",
+    "SEAD/Columns",
+    "SEAD",
+    "content/Structure of SEAD/Tables/Site/tbl_site_other_records.md",
+    "content/Structure of SEAD/Tables/Site/tbl_site_natgridrefs.md",
+    "content/Structure of SEAD/Tables/Site/tbl_site_locations.md",
+    "content/Structure of SEAD/Tables/Site/tbl_site_images.md",
+    "content/Structure of SEAD/Tables/Sample Groups/tbl_sample_groups.md",
+    "content/Structure of SEAD/Tables/Relative Dating/tbl_relative_ages.md",
+    "content/Structure of SEAD/Tables/RDB/tbl_rdb_systems.md",
+    "content/Structure of SEAD/Tables/RDB/tbl_rdb.md",
+    "content/Structure of SEAD/Tables/Location/tbl_locations.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity location.md",
+    "content/Structure of SEAD/Columns/default_lat_dd.md",
+    "content/Structure of SEAD/Columns/site_id.md",
+    "content/Structure of SEAD/Tables/Site/tbl_sites.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site_location.md",
+    "content/Structure of SEAD/Columns/site_location_id.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/table of entities.base",
+    "content/Example dataset mapping/Strucke Data mapping/Strucke list of entities.base",
     "content/Example dataset mapping/Strucke Data mapping",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping",
     "content/images/Entity method_groups schema.png",
@@ -314,8 +279,6 @@
     "content/SEAD Shape Shifter User Manual/images",
     "content/SEAD Shape Shifter User Manual",
     "content/Untitled 2",
-    "content/Untitled 1",
-    "content/Example dataset mapping",
-    "SEAD/Columns"
+    "content/Untitled 1"
   ]
 }

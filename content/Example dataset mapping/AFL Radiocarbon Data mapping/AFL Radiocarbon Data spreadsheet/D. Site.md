@@ -30,7 +30,7 @@ publish: publish
   
  > [!info] all sites have a location--they are located in a country, and perhaps part of a province, county, town, or parish, therefore we also need to:
  
- - [ ] create a sheet called **locations** which contains the following columns from [[SEAD/Columns/tbl_locations]]
+ - [ ] create a sheet called **locations** which contains the following columns 
  
 - **system_id** This column is filled incrementally, starting with 1 and is used during the import process to keep track of the data in this sheet, and to cross-reference its connections to the other sheets.
  - **[[location_name]]** Fill in all of the location names associated with the above sites. If a dataset is missing this information, one can open the site coordinates in GoogleMaps, and obtain the country +/- a local place name there.

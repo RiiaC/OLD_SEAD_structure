@@ -4,8 +4,8 @@ primary_key: "[[site_image_id]]"
 foreign_keys:
   - "[[contact_id]]"
   - "[[image_type_id]]"
-  - "[[SEAD/Columns/tbl_locations]]"
   - "[[site_id]]"
+  - "[[tbl_locations]]"
 columns:
   - "[[credit]]"
   - "[[date_taken]]"

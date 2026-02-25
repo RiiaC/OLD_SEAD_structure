@@ -3,8 +3,8 @@ table_name: tbl_site_references
 primary_key: "[[site_reference_id]]"
 foreign_keys:
   - "[[biblio_id]]"
-  - "[[SEAD/Columns/tbl_locations]]"
   - "[[site_id]]"
+  - "[[tbl_locations]]"
 columns:
   - "[[date_updated]]"
 connected_tables:

@@ -62,7 +62,6 @@ connected_tables:
   - "[[tbl_languages]]"
   - "[[tbl_lithology]]"
   - "[[tbl_location_types]]"
-  - "[[SEAD/Columns/tbl_locations]]"
   - "[[tbl_mcr_names]]"
   - "[[tbl_mcr_summary_data]]"
   - "[[tbl_mcrdata_birmbeetledat]]"
@@ -142,6 +141,7 @@ connected_tables:
   - "[[tbl_text_identification_keys]]"
   - "[[tbl_units]]"
   - "[[tbl_years_types]]"
+  - "[[content/Structure of SEAD/Tables/Location/tbl_locations|tbl_locations]]"
 date created: Friday, September 19th 2025, 5:27:22 pm
 ---
 

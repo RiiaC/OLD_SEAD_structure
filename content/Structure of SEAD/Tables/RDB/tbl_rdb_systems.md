@@ -13,7 +13,7 @@ columns:
   - "[[rdb_version]]"
 connected_tables:
   - "[[tbl_biblio]]"
-  - "[[SEAD/Columns/tbl_locations]]"
+  - "[[tbl_locations]]"
 publish: publish
 ---
 

@@ -4,8 +4,8 @@ primary_key: "[[sample_group_id]]"
 foreign_keys:
   - "[[method_id]]"
   - "[[sampling_context_id]]"
-  - "[[SEAD/Columns/tbl_locations]]"
   - "[[site_id]]"
+  - "[[tbl_locations]]"
 columns:
   - "[[date_updated]]"
   - "[[sample_group_description]]"
