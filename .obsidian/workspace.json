@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Structure of SEAD/Tables/Site/tbl_property_type.md",
+                "file": "content/Example dataset mapping/Strucke Data mapping/Entity biblio.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tbl_property_type"
-            }
-          },
-          {
-            "id": "09f337fa3fc5eeeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/SEAD Shape Shifter User Manual/2.1.6 Extra Columns Tab.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2.1.6 Extra Columns Tab"
+              "title": "Entity biblio"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/SEAD Shape Shifter User Manual/2.1.6 Extra Columns Tab.md"
+                "file": "content/Example dataset mapping/Strucke Data mapping/index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2.1.6 Extra Columns Tab"
+              "title": "File properties for index"
             }
           }
         ],
@@ -236,20 +211,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "13b63d40aaf6d2b9",
+        "id": "76b7a9af99ffaa22",
         "type": "window",
         "children": [
           {
-            "id": "39537bcc7c5bb62d",
+            "id": "6262ca5a41814e48",
             "type": "tabs",
             "children": [
               {
-                "id": "0be07fcfdde11672",
+                "id": "09f337fa3fc5eeeb",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "content/Example dataset mapping/Strucke Data mapping/Entity site_property_types.md",
+                    "file": "content/Example dataset mapping/Strucke Data mapping/index.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -264,50 +239,50 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Entity site_property_types"
+                  "title": "index"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 118,
+        "x": 1720,
         "y": 0,
-        "width": 1138,
-        "height": 752,
-        "maximize": true,
+        "width": 1720,
+        "height": 1392,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
   "active": "09f337fa3fc5eeeb",
   "lastOpenFiles": [
-    "content/SEAD Shape Shifter User Manual/2.1.5 Append Tab.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity site_property.md",
-    "content/Structure of SEAD/Columns/property_type_id.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity site_property_types.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity biblio.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity location.md",
     "content/Example dataset mapping/Strucke Data mapping/index.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity taxon_common_name.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site_location.md",
+    "content/Structure of SEAD/Tables/Location/tbl_location_types.md",
+    "content/Structure of SEAD/Tables/Location/tbl_locations.md",
+    "content/Structure of SEAD/Tables/Site/tbl_site_locations.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site_property.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site_property_types.md",
+    "content/Structure of SEAD/Tables/Site/tbl_property_type.md",
+    "content/Structure of SEAD/Columns/site_id.md",
+    "content/Structure of SEAD/Tables/Site/tbl_sites.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity site.md",
+    "content/SEAD Shape Shifter User Manual/2.1.6 Extra Columns Tab.md",
+    "content/SEAD Shape Shifter User Manual/2.1.5 Append Tab.md",
+    "content/Structure of SEAD/Columns/property_type_id.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity taxon_common_name.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity sample_groups.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity physical_samples.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity methods.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity location.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity feature_types.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity dating_material.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity datasheet.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity biblio.md",
     "content/Structure of SEAD/Tables/Site/tbl_site_properties.md",
-    "content/Structure of SEAD/Tables/Site/tbl_property_type.md",
     "content/Structure of SEAD/Columns/site_property_id.md",
     "content/Structure of SEAD/Tables/Site/tbl_property_type 1.md",
-    "content/Structure of SEAD/Tables/Site/tbl_sites.md",
-    "content/Structure of SEAD/Columns/site_preservation_status_id.md",
-    "content/Structure of SEAD/Columns/national_site_identifier.md",
-    "content/Structure of SEAD/Columns/site_name.md",
-    "content/Structure of SEAD/Columns/site_id.md",
-    "content/Structure of SEAD/Tables/Ages/tbl_analysis_entity_ages.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity site_location.md",
     "content/Example dataset mapping/Strucke Data mapping/Strucke list of entities.base",
     "content/images/2026-02-26 left wall.jpg",
     "content/images/2026-02-26 art idea.jpg",
