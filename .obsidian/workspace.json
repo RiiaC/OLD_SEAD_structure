@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 326.5
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/Example dataset mapping/Strucke Data mapping/index.md"
+                "file": "content/Example dataset mapping/Strucke Data mapping/Entity biblio.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for index"
+              "title": "File properties for Entity biblio"
             }
           }
         ],
@@ -255,34 +255,34 @@
       }
     ]
   },
-  "active": "09f337fa3fc5eeeb",
+  "active": "df53cfe50f44656a",
   "lastOpenFiles": [
+    "content/Structure of SEAD/Columns/full_reference.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity biblio.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity location.md",
+    "content/Structure of SEAD/Tables/Bibliography/tbl_biblio.md",
+    "content/Structure of SEAD/Tables/Ungrouped/tbl_features.md",
+    "content/Structure of SEAD/Columns/feature_id.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity feature_types.md",
+    "content/Structure of SEAD/Columns/national_site_identifier.md",
+    "content/Structure of SEAD/Tables/Site/tbl_sites.md",
+    "content/Structure of SEAD/Columns/site_id.md",
+    "content/Structure of SEAD/Tables/Site/tbl_property_type.md",
+    "content/Structure of SEAD/Columns/property_type_id.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site_property_types.md",
     "content/Example dataset mapping/Strucke Data mapping/index.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity location.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity site_location.md",
     "content/Structure of SEAD/Tables/Location/tbl_location_types.md",
     "content/Structure of SEAD/Tables/Location/tbl_locations.md",
     "content/Structure of SEAD/Tables/Site/tbl_site_locations.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity site_property.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity site_property_types.md",
-    "content/Structure of SEAD/Tables/Site/tbl_property_type.md",
-    "content/Structure of SEAD/Columns/site_id.md",
-    "content/Structure of SEAD/Tables/Site/tbl_sites.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity site.md",
     "content/SEAD Shape Shifter User Manual/2.1.6 Extra Columns Tab.md",
     "content/SEAD Shape Shifter User Manual/2.1.5 Append Tab.md",
-    "content/Structure of SEAD/Columns/property_type_id.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity taxon_common_name.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity sample_groups.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity physical_samples.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity methods.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity feature_types.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity dating_material.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity datasheet.md",
-    "content/Structure of SEAD/Tables/Site/tbl_site_properties.md",
-    "content/Structure of SEAD/Columns/site_property_id.md",
-    "content/Structure of SEAD/Tables/Site/tbl_property_type 1.md",
     "content/Example dataset mapping/Strucke Data mapping/Strucke list of entities.base",
     "content/images/2026-02-26 left wall.jpg",
     "content/images/2026-02-26 art idea.jpg",
