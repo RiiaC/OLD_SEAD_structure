@@ -206,59 +206,11 @@
       "templates:Insert template": false
     }
   },
-  "floating": {
-    "id": "6a7c608fbf87e1dc",
-    "type": "floating",
-    "children": [
-      {
-        "id": "76b7a9af99ffaa22",
-        "type": "window",
-        "children": [
-          {
-            "id": "6262ca5a41814e48",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "09f337fa3fc5eeeb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "content/Example dataset mapping/Strucke Data mapping/index.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "index"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1720,
-        "y": 0,
-        "width": 1720,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "df53cfe50f44656a",
   "lastOpenFiles": [
-    "content/Structure of SEAD/Columns/full_reference.md",
+    "content/Example dataset mapping/Strucke Data mapping/index.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity biblio.md",
+    "content/Structure of SEAD/Columns/full_reference.md",
     "content/Structure of SEAD/Tables/Bibliography/tbl_biblio.md",
     "content/Structure of SEAD/Tables/Ungrouped/tbl_features.md",
     "content/Structure of SEAD/Columns/feature_id.md",
@@ -269,7 +221,6 @@
     "content/Structure of SEAD/Tables/Site/tbl_property_type.md",
     "content/Structure of SEAD/Columns/property_type_id.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity site_property_types.md",
-    "content/Example dataset mapping/Strucke Data mapping/index.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity location.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity site_location.md",
     "content/Structure of SEAD/Tables/Location/tbl_location_types.md",
