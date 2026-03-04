@@ -3,8 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "best matched column": "multitext",
     "example_data": "multitext",
-    "date_created": "text"
+    "date_created": "text",
+    "best_matched_column": "multitext"
   }
 }

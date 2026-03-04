@@ -53,12 +53,12 @@
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "table_name\nprimary_key\nforeign_keys\ncolumns\ncolumn_name\ndata_type\nconnected_tables\nexample data\nbest matched column\nEntity_Name\nType\nPublic_ID\nTarget_Entity\nLocal_Keys\nRemote_Keys\nSEAD_table\nTarget_Entity_2\nLocal_Keys_2\nRemote_Keys_2\nSEAD_table_2",
+      "yaml-key-priority-sort-order": "table_name\nprimary_key\nforeign_keys\ncolumns\ncolumn_name\ndata_type\nconnected_tables\nexample data\nbest_matched_column\nEntity_Name\nType\nPublic_ID\nTarget_Entity\nLocal_Keys\nRemote_Keys\nSEAD_table\nTarget_Entity_2\nLocal_Keys_2\nRemote_Keys_2",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
     "yaml-timestamp": {
-      "enabled": true,
+      "enabled": false,
       "date-created": false,
       "date-created-key": "date created",
       "date-created-source-of-truth": "file system",
@@ -277,7 +277,13 @@
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [],
-  "filesToIgnore": [],
+  "filesToIgnore": [
+    {
+      "label": "",
+      "match": "",
+      "flags": "i"
+    }
+  ],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
   "lintCommands": [],

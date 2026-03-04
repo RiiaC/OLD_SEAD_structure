@@ -1,10 +1,11 @@
 ---
 Entity_Name: sample_group
-Type: "[[content/Example dataset mapping/Strucke Data mapping/Entity datasheet|Entity datasheet]]"
+Type: Data (Derived)
 Public_ID: "[[sample_group_id]]"
 Target_Entity: "[[content/Example dataset mapping/Strucke Data mapping/Entity site|Entity site]]"
 Local_Keys:
   - site
+  - 
 Remote_Keys:
   - system_id
 SEAD_table: "[[tbl_sample_groups]]"
@@ -15,4 +16,17 @@ status: needs creating
 > 
 > use Labnr as the sample number for joins
 
+needs connections to:
+- [ ] [[content/Example dataset mapping/Strucke Data mapping/Entity site|Entity site]]
+- [ ] [[content/Example dataset mapping/Strucke Data mapping/Entity methods|Entity methods]]
+needs connections from 
+- [ ] [[content/Example dataset mapping/Strucke Data mapping/Entity physical_samples|Entity physical_samples]]
 ![[Entity sample_groups schema.png]]
+
+
+
+
+
+![[Entity Sample Groups.png]]
+
+

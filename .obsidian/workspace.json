@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c49dee2f3439b196",
+        "id": "e571ba978370cdf7",
         "type": "tabs",
         "children": [
           {
-            "id": "0be07fcfdde11672",
+            "id": "df53cfe50f44656a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Example dataset mapping/Strucke Data mapping/Entity abundance_element.md",
+                "file": "content/Structure of SEAD/Tables/Site/tbl_property_type.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Entity abundance_element"
+              "title": "tbl_property_type"
             }
           },
           {
-            "id": "6a65f0a2a0ae8820",
+            "id": "09f337fa3fc5eeeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/D. Site.md",
+                "file": "content/SEAD Shape Shifter User Manual/2.1.6 Extra Columns Tab.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "D. Site"
+              "title": "2.1.6 Extra Columns Tab"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:tbl_locations",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,12 +109,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 330.5
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -178,7 +177,7 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -207,10 +206,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/D. Site.md"
+                "file": "content/SEAD Shape Shifter User Manual/2.1.6 Extra Columns Tab.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for D. Site"
+              "title": "File properties for 2.1.6 Extra Columns Tab"
             }
           }
         ],
@@ -218,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 460.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,50 +231,99 @@
       "templates:Insert template": false
     }
   },
-  "active": "a0b5dfdb96bf0407",
+  "floating": {
+    "id": "6a7c608fbf87e1dc",
+    "type": "floating",
+    "children": [
+      {
+        "id": "13b63d40aaf6d2b9",
+        "type": "window",
+        "children": [
+          {
+            "id": "39537bcc7c5bb62d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0be07fcfdde11672",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/Example dataset mapping/Strucke Data mapping/Entity site_property_types.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Entity site_property_types"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 118,
+        "y": 0,
+        "width": 1138,
+        "height": 752,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "09f337fa3fc5eeeb",
   "lastOpenFiles": [
-    "SEAD/Columns/tbl_locations.md",
-    "Not_plotted/date_updated.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/D. Site.md",
-    "content/Structure of SEAD/Columns/location_name.md",
-    "content/Structure of SEAD/Columns/location_id.md",
-    "content/Structure of SEAD/Columns/default_long_dd.md",
-    "content/Structure of SEAD/Columns/location_type_id.md",
-    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_seasonality.md",
-    "content/Structure of SEAD/Tables/Site/tbl_site_references.md",
-    "content/Structure of SEAD/Tables/Site/tbl_site_preservation_status.md",
+    "content/SEAD Shape Shifter User Manual/2.1.5 Append Tab.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site_property.md",
+    "content/Structure of SEAD/Columns/property_type_id.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site_property_types.md",
+    "content/Example dataset mapping/Strucke Data mapping/index.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity taxon_common_name.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity sample_groups.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity physical_samples.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity methods.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity location.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity feature_types.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity dating_material.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity datasheet.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity biblio.md",
+    "content/Structure of SEAD/Tables/Site/tbl_site_properties.md",
+    "content/Structure of SEAD/Tables/Site/tbl_property_type.md",
+    "content/Structure of SEAD/Columns/site_property_id.md",
+    "content/Structure of SEAD/Tables/Site/tbl_property_type 1.md",
+    "content/Structure of SEAD/Tables/Site/tbl_sites.md",
+    "content/Structure of SEAD/Columns/site_preservation_status_id.md",
+    "content/Structure of SEAD/Columns/national_site_identifier.md",
+    "content/Structure of SEAD/Columns/site_name.md",
+    "content/Structure of SEAD/Columns/site_id.md",
+    "content/Structure of SEAD/Tables/Ages/tbl_analysis_entity_ages.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site_location.md",
+    "content/Example dataset mapping/Strucke Data mapping/Strucke list of entities.base",
+    "content/images/2026-02-26 left wall.jpg",
+    "content/images/2026-02-26 art idea.jpg",
+    "content/images/2026-02-26 attic loo art idea.jpg",
+    "content/images/2026-02-26 attic loo art idea.png",
+    "content/images/Entity Sample Groups.png",
+    "content/images/Entity methods.png",
+    "content/images/Entity record_type.png",
     "SEAD/Columns",
     "SEAD",
-    "content/Structure of SEAD/Tables/Site/tbl_site_other_records.md",
-    "content/Structure of SEAD/Tables/Site/tbl_site_natgridrefs.md",
-    "content/Structure of SEAD/Tables/Site/tbl_site_locations.md",
-    "content/Structure of SEAD/Tables/Site/tbl_site_images.md",
-    "content/Structure of SEAD/Tables/Sample Groups/tbl_sample_groups.md",
-    "content/Structure of SEAD/Tables/Relative Dating/tbl_relative_ages.md",
-    "content/Structure of SEAD/Tables/RDB/tbl_rdb_systems.md",
-    "content/Structure of SEAD/Tables/RDB/tbl_rdb.md",
-    "content/Structure of SEAD/Tables/Location/tbl_locations.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity location.md",
-    "content/Structure of SEAD/Columns/default_lat_dd.md",
-    "content/Structure of SEAD/Columns/site_id.md",
-    "content/Structure of SEAD/Tables/Site/tbl_sites.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity site.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity site_location.md",
-    "content/Structure of SEAD/Columns/site_location_id.md",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/table of entities.base",
-    "content/Example dataset mapping/Strucke Data mapping/Strucke list of entities.base",
     "content/Example dataset mapping/Strucke Data mapping",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping",
     "content/images/Entity method_groups schema.png",
     "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter YAML Window.png",
     "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Window form buttons.png",
-    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Welcome screen.png",
-    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Settings window.png",
-    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Reconcile.png",
-    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Schema Explorer.png",
-    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Project Window.png",
-    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Query Tester Window.png",
-    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Hierarchial Graph.png",
     "content/SEAD Shape Shifter User Manual/images",
     "content/SEAD Shape Shifter User Manual",
     "content/Untitled 2",

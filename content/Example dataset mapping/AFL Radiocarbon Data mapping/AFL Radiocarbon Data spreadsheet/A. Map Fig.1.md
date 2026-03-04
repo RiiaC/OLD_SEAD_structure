@@ -1,5 +1,5 @@
 ---
-best matched column:
+best_matched_column:
   - n/a
 aliases:
   - A.
