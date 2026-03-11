@@ -18,3 +18,8 @@ views:
       - Target_Entity_2
       - Local_Keys_2
       - Remote_Keys_2
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: status
+        direction: DESC

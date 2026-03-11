@@ -11,7 +11,11 @@ Remote_Keys:
 SEAD_table:
 status: needs creating
 ---
-- [ ] needs connection to [[content/Example dataset mapping/Strucke Data mapping/Entity sample_groups]]
+- [ ] needs connection to [[content/Example dataset mapping/Strucke Data mapping/Entity sample_groups|Entity sample_groups]]
+- [ ] needs connections to [[content/Example dataset mapping/Strucke Data mapping/Entity analysis_entities|Entity analysis_entities]]
+- [ ] needs connections to [[Entity physical_sample_features]]
+
+
 
 
 

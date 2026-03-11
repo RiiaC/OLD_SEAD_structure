@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Example dataset mapping/Strucke Data mapping/Entity biblio.md",
+                "file": "content/Example dataset mapping/Strucke Data mapping/Entity taxa_common_names.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Entity biblio"
+              "title": "Entity taxa_common_names"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 251.5
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/Example dataset mapping/Strucke Data mapping/Entity biblio.md"
+                "file": "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity analysis_entities.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Entity biblio"
+              "title": "File properties for Entity analysis_entities"
             }
           }
         ],
@@ -192,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5
+    "width": 460.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,48 +209,47 @@
   },
   "active": "df53cfe50f44656a",
   "lastOpenFiles": [
-    "content/Example dataset mapping/Strucke Data mapping/index.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity biblio.md",
-    "content/Structure of SEAD/Columns/full_reference.md",
-    "content/Structure of SEAD/Tables/Bibliography/tbl_biblio.md",
-    "content/Structure of SEAD/Tables/Ungrouped/tbl_features.md",
-    "content/Structure of SEAD/Columns/feature_id.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity feature_types.md",
-    "content/Structure of SEAD/Columns/national_site_identifier.md",
-    "content/Structure of SEAD/Tables/Site/tbl_sites.md",
-    "content/Structure of SEAD/Columns/site_id.md",
-    "content/Structure of SEAD/Tables/Site/tbl_property_type.md",
-    "content/Structure of SEAD/Columns/property_type_id.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity site_property_types.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity location.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity site_location.md",
-    "content/Structure of SEAD/Tables/Location/tbl_location_types.md",
-    "content/Structure of SEAD/Tables/Location/tbl_locations.md",
-    "content/Structure of SEAD/Tables/Site/tbl_site_locations.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity site_property.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity site.md",
-    "content/SEAD Shape Shifter User Manual/2.1.6 Extra Columns Tab.md",
-    "content/SEAD Shape Shifter User Manual/2.1.5 Append Tab.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity taxon_common_name.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity sample_groups.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity physical_samples.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity methods.md",
-    "content/Example dataset mapping/Strucke Data mapping/Strucke list of entities.base",
+    "content/Example dataset mapping/Strucke Data mapping/Entity languages.md",
+    "content/images/Entity languages schema.png",
+    "content/Structure of SEAD/Tables/Ungrouped/tbl_languages.md",
+    "content/Structure of SEAD/Columns/language_id.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity taxa_common_names.md",
+    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_common_names.md",
+    "content/Structure of SEAD/Columns/taxon_common_name_id.md",
+    "Not_plotted/templates/template Shape Shifter.md",
+    "Not_plotted/templates/template data mapping.md",
     "content/images/2026-02-26 left wall.jpg",
+    "content/images/Entity taxon_common_name schema.png",
+    "content/Example dataset mapping/Strucke Data mapping/Entity dating_material.md",
+    "content/images/Entity dating_material schema.png",
+    "content/Example dataset mapping/Strucke Data mapping/Entity datasets.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity methods.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site_property.md",
+    "content/Example dataset mapping/Strucke Data mapping/Strucke list of entities.base",
+    "content/Example dataset mapping/Strucke Data mapping/Entity biblio.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity geochronology.md",
+    "content/Example dataset mapping/Strucke Data mapping/index.md",
+    "content/images/Entity datasets schema.png",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site_references.md",
+    "content/SEAD Shape Shifter User Manual/2.1.2 Foreign Keys Tab.md",
+    "content/Structure of SEAD/Tables/Site/tbl_site_references.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity property_type.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity datasheet.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site_location.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site.md",
+    "content/Structure of SEAD/Columns/property_type_id.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity sample_groups.md",
+    "content/Structure of SEAD/Tables/Sample Groups/tbl_sample_groups.md",
+    "content/images/Entity physical_sample_features schema.png",
+    "content/images/Entity features schema.png",
+    "content/images/tbl_geochronology schema.png",
     "content/images/2026-02-26 art idea.jpg",
     "content/images/2026-02-26 attic loo art idea.jpg",
-    "content/images/2026-02-26 attic loo art idea.png",
-    "content/images/Entity Sample Groups.png",
-    "content/images/Entity methods.png",
-    "content/images/Entity record_type.png",
     "SEAD/Columns",
     "SEAD",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/table of entities.base",
     "content/Example dataset mapping/Strucke Data mapping",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping",
-    "content/images/Entity method_groups schema.png",
-    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter YAML Window.png",
-    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Window form buttons.png",
     "content/SEAD Shape Shifter User Manual/images",
     "content/SEAD Shape Shifter User Manual",
     "content/Untitled 2",

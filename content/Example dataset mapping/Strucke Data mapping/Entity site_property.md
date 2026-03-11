@@ -1,6 +1,6 @@
 ---
-Entity_Name: site_property
-Type: Data (Derived)
+Entity_Name: property_types
+Type: Fixed Values
 Public_ID: site_property_id
 Target_Entity:
 Local_Keys:
@@ -8,34 +8,42 @@ Local_Keys:
   - 
   - 
 Remote_Keys:
-SEAD_table:
+SEAD_table: "[[tbl_site_properties]]"
 date created: Wednesday, February 18th 2026, 9:38:29 am
-status:
+status: in progress
 ---
-> [!info] this is an Entity Roger created reated 2026-03-03 This one assigns a value of 1 to all rows with a lämningsnummer
-> 
-> He selected the column lmningsnummer from the source datasheet, and under "extra columns" created:
+- [ ] There are now two site property entities, figure out why and which you want
 
-| New Column Name                             | Expression |
-| ------------------------------------------- | ---------- |
-| [[property_type_id\|site_property_type_id]] | 1          |
+> [!info] an entity Roger created 2026-03-03
+>  so that we can have both the RAÄ number and Lämnings number so that both sorts of information can be included as properties of the site
 
-
-
-
-> [!error] Roger will continue to work with this question, in the short term I will use here the entity names he entered into the Shape Shifter Project, and will change here, when that gets updated
-
-> [!warning] Roger says: I gave you wrong tables names yesterday. These two selects works on our staging server. Both tables are new and empty:
-> 
-> select *  
-> from tbl_site_properties
-> 
-> select *  
-> from tbl_property_types
-
-
-
-
-
-
-
+- [x] create entity **site_property**, with a **site_propety_id**
+**in the basic tab:**
+- [x] select the columns **lamningsnummer**, **raanr**, and **socken**
+ **in the UNNEST tab:** 
+- [x] Enable Unnest, 
+- [x] under Value variables choose **lamningsnummer**, **raanr**
+   **under Columns to unpivot:**
+- [x] set Variable name Column to **property_type**
+- [x] set  Name for the new column containing variable names to **property_value**
+- [ ] wait for Roger to figure out how to pull in the **full_raa_nu** instead of the **raanr**, ==then edit this==
+this gives:
+````
+name: site_property
+type: entity
+system_id: system_id
+keys: []
+columns:
+  - lamningsnummer
+  - raanr
+  - socken
+public_id: site_property_id
+source: datasheet
+unnest:
+  id_vars: []
+  value_vars:
+    - lamningsnummer
+    - raanr
+  var_name: property_type
+  value_name: property_value
+```
