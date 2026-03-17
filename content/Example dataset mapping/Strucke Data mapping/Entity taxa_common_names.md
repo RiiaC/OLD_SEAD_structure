@@ -14,7 +14,7 @@ status: needs creating
 > [!info] the art_1 and art_2 columns contain common names of the species that were dated
 
 - [ ] needs connection to [[Entity languages]]
-- [ ] 
+- [ ] needs connection to [[content/Example dataset mapping/Strucke Data mapping/Entity taxa_tree_master|Entity taxa_tree_master]]
 
 
 ![[Entity taxon_common_name schema.png]]

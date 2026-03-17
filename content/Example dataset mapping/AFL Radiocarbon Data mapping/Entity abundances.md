@@ -9,7 +9,7 @@ Local_Keys:
   - element
 Remote_Keys: element
 SEAD_table: "[[tbl_abundances]]"
-Target_Entity_2: "[[Entity taxa_tree_master]]"
+Target_Entity_2: "[[content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity taxa_tree_master]]"
 Local_Keys_2: "[[taxon_id]]"
 publish: publish
 status: needs more connections

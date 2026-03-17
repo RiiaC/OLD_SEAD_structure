@@ -2,7 +2,7 @@
 Entity_Name: taxa_common_names
 Type: Fixed Values
 Public_ID: "[[taxon_common_name_id]]"
-Target_Entity: "[[Entity taxa_tree_master]]"
+Target_Entity: "[[content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity taxa_tree_master]]"
 Local_Keys:
   - "[[taxon_id]]"
 Remote_Keys: system_id
