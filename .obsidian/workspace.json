@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/SEAD Shape Shifter User Manual/2.8 Files.md",
+                "file": "content/Example dataset mapping/Strucke Data mapping/Entity features.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.8 Files"
+              "title": "Entity features"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 264.5
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -209,42 +209,43 @@
   },
   "active": "df53cfe50f44656a",
   "lastOpenFiles": [
-    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Files tab.png",
-    "content/SEAD Shape Shifter User Manual/2.8 Files.md",
-    "content/SEAD Shape Shifter User Manual/2. Projects Window.md",
-    "content/SEAD Shape Shifter User Manual/2.9 YAML.md",
-    "content/SEAD Shape Shifter User Manual/1. Introduction.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity features.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity feature_types.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity biblio.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity analysis_entities.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity abundance_element.md",
+    "content/images/Entity feature_types schema.png",
+    "content/Example dataset mapping/Strucke Data mapping/index.md",
+    "content/Structure of SEAD/Columns/feature_name.md",
+    "content/Structure of SEAD/Tables/Ungrouped/tbl_features.md",
+    "content/Structure of SEAD/Tables/Site/tbl_feature_types.md",
+    "content/Structure of SEAD/Columns/feature_type_name.md",
     "content/SEAD Shape Shifter User Manual/7. Glossary.md",
+    "content/SEAD Shape Shifter User Manual/2.9 YAML.md",
+    "content/SEAD Shape Shifter User Manual/2.8 Files.md",
+    "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Files tab.png",
+    "content/SEAD Shape Shifter User Manual/2. Projects Window.md",
+    "content/SEAD Shape Shifter User Manual/1. Introduction.md",
     "content/SEAD Shape Shifter User Manual/2.6 Data Sources.md",
     "content/SEAD Shape Shifter User Manual/4. Schema Explorer Window.md",
     "content/images/Shape Shifter Schema Explorer window.png",
     "content/Structure of SEAD/Tables/Ungrouped/tbl_record_types.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity site_property.md",
     "content/Structure of SEAD/Columns/record_type_id.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity abundance_element.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity record_type.md",
-    "content/Example dataset mapping/Strucke Data mapping/index.md",
     "content/Example dataset mapping/index.md",
     "content/Structure of SEAD/Columns/abundance_element_id.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity taxa_common_names.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity taxa_tree_master.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity languages.md",
     "content/images/Entity languages schema.png",
-    "content/Structure of SEAD/Tables/Ungrouped/tbl_languages.md",
-    "content/Structure of SEAD/Columns/language_id.md",
-    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_common_names.md",
-    "content/Structure of SEAD/Columns/taxon_common_name_id.md",
-    "Not_plotted/templates/template Shape Shifter.md",
-    "Not_plotted/templates/template data mapping.md",
     "content/images/2026-02-26 left wall.jpg",
     "content/images/Entity taxon_common_name schema.png",
-    "content/Example dataset mapping/Strucke Data mapping/Entity dating_material.md",
     "content/images/Entity dating_material schema.png",
     "content/Example dataset mapping/Strucke Data mapping/Strucke list of entities.base",
     "content/images/Entity datasets schema.png",
     "content/images/Entity physical_sample_features schema.png",
     "content/images/Entity features schema.png",
-    "content/images/tbl_geochronology schema.png",
     "SEAD/Columns",
     "SEAD",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/table of entities.base",

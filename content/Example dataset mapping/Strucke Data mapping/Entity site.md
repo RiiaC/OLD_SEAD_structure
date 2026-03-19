@@ -17,5 +17,7 @@ status: in progress
 > -  [[latitude_dd]] 
 > - [[longitude_dd]]
 
+- [ ] create a data-derived entity sites
+- [ ] 
 
 ![[Entity site schema.png]]
