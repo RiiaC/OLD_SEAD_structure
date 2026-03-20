@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Example dataset mapping/Strucke Data mapping/Entity features.md",
+                "file": "content/SEAD Shape Shifter User Manual/2.1.1 Basic Tab.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Entity features"
+              "title": "2.1.1 Basic Tab"
             }
           }
         ]
@@ -209,8 +209,12 @@
   },
   "active": "df53cfe50f44656a",
   "lastOpenFiles": [
-    "content/Example dataset mapping/Strucke Data mapping/Entity site.md",
+    "content/SEAD Shape Shifter User Manual/7. Glossary.md",
+    "content/SEAD Shape Shifter User Manual/2.1.1 Basic Tab.md",
+    "content/SEAD Glossary.md",
+    "content/SEAD Shape Shifter User Manual/2.1 Entities Pop-up Dialogue box.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity features.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity feature_types.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity biblio.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity analysis_entities.md",
@@ -221,7 +225,6 @@
     "content/Structure of SEAD/Tables/Ungrouped/tbl_features.md",
     "content/Structure of SEAD/Tables/Site/tbl_feature_types.md",
     "content/Structure of SEAD/Columns/feature_type_name.md",
-    "content/SEAD Shape Shifter User Manual/7. Glossary.md",
     "content/SEAD Shape Shifter User Manual/2.9 YAML.md",
     "content/SEAD Shape Shifter User Manual/2.8 Files.md",
     "content/SEAD Shape Shifter User Manual/images/SEAD Shape Shifter Files tab.png",
@@ -235,9 +238,6 @@
     "content/Structure of SEAD/Columns/record_type_id.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity record_type.md",
     "content/Example dataset mapping/index.md",
-    "content/Structure of SEAD/Columns/abundance_element_id.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity taxa_common_names.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity taxa_tree_master.md",
     "content/images/Entity languages schema.png",
     "content/images/2026-02-26 left wall.jpg",
     "content/images/Entity taxon_common_name schema.png",
