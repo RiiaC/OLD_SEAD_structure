@@ -1,6 +1,6 @@
 ---
 Entity_Name: biblio
-Type: "[[content/Example dataset mapping/Strucke Data mapping/Entity datasheet|Entity datasheet]]"
+Type: Data (Derived)
 Public_ID: "[[biblio_id]]"
 SEAD_table: "[[tbl_biblio]]"
 publish: publish

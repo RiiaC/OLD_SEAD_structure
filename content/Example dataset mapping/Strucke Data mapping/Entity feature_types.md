@@ -1,7 +1,7 @@
 ---
 Entity_Name: feature_types
 Type: Data (Derived)
-Public_ID: feature_type_id
+Public_ID: "[[feature_type_id]]"
 SEAD_table: "[[tbl_feature_types]]"
 status: complete
 ---

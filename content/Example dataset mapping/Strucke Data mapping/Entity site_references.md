@@ -1,6 +1,6 @@
 ---
 Entity_Name: site_references
-Type: "[[content/Example dataset mapping/Strucke Data mapping/Entity datasheet|Entity datasheet]]"
+Type: Data (Derived)
 Public_ID: "[[site_reference_id]]"
 Target_Entity: "[[content/Example dataset mapping/Strucke Data mapping/Entity site|Entity site]]"
 Local_Keys:

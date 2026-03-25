@@ -1,18 +1,27 @@
 ---
+foreign_keys:
+  - "[[Entity record_type]]"
 Entity_Name: abundance_element
-Type: "[[content/Example dataset mapping/Strucke Data mapping/Entity datasheet|Entity datasheet]]"
+Type: Data (Derived)
 Public_ID: "[[abundance_element_id]]"
 SEAD_table: "[[tbl_abundance_elements]]"
 publish: publish
-status: needs creating
+status: complete
 ---
 > [!info] the columns that have to do with abundance_element are 
-> - Sort
-> -  Art_1
-> - Art_2
+> `Sort` 
+> `Art_1`
+> `Art_2` 
 
-this table has the following foreign key that will also need dealing with before this mapping is complete:
-- [ ] [[record_type_id]] *Note: there are lots of different types of things being dated in the Strucke Data--talk with Roger, Rebecka and/or Phil about how we handel* this
+- [ ] create a data-derived entity for `abundance_element`
+- [ ] add the columns `labnr`, `sort`, `art_1`, `art_2` 
+- [ ] drop duplicates for the column `sort`
+- [ ] create an extra column [[element_name]] and fill it with the data from `sort` 
+      (Or, perhaps from a combination of `sort`and `art_1`? *Ask the expert you consult with to determine species from common names*)
+- [ ] determine what terms in `art_2` are not common names, extract those to another column called [[element_description]]
+- [ ] create a Foreign Key join to the [[Entity record_type]] joined on `art_1`
+
+
 
 
  ![[Entity abundance_element schema.png|800]]

@@ -1,7 +1,7 @@
 ---
 Entity_Name: property_type
 Type: Fixed Values
-Public_ID: property_type_id
+Public_ID: "[[property_type_id]]"
 Target_Entity:
 Local_Keys:
   - 

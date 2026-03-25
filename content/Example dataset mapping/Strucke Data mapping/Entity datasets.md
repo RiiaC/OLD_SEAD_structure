@@ -1,7 +1,7 @@
 ---
 Entity_Name: datasets
 Type:
-Public_ID: dataset_id
+Public_ID: "[[dataset_id]]"
 SEAD_table: "[[tbl_datasets]]"
 status: in progress
 ---

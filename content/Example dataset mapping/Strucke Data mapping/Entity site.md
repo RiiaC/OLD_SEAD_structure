@@ -1,6 +1,6 @@
 ---
 Entity_Name: site
-Type: "[[content/Example dataset mapping/Strucke Data mapping/Entity datasheet|Entity datasheet]]"
+Type: Data (Derived)
 Public_ID: "[[site_id]]"
 SEAD_table: "[[tbl_sites]]"
 publish: publish

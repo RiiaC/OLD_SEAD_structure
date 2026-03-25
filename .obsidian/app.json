@@ -1,5 +1,9 @@
 {
   "livePreview": true,
   "alwaysUpdateLinks": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "userIgnoreFilters": [
+    "content/Example dataset mapping/Strucke Data mapping/index",
+    "content/Example dataset mapping/Strucke Data mapping/Strucke list of entities.base"
+  ]
 }

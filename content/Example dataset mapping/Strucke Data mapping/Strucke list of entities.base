@@ -22,4 +22,4 @@ views:
       - property: file.name
         direction: ASC
       - property: status
-        direction: DESC
+        direction: ASC

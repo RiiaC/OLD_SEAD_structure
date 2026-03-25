@@ -5,6 +5,7 @@
     "tags": "tags",
     "example_data": "multitext",
     "date_created": "text",
-    "best_matched_column": "multitext"
+    "best_matched_column": "multitext",
+    "Remote_Keys": "multitext"
   }
 }

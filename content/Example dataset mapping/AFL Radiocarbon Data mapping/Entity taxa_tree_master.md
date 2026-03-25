@@ -18,3 +18,24 @@ Since this is fixed values, I just created these extra columns:
 > Therefore, this key is used to associate the species with the genus.
 
 ![[Entity taxa_tree_master schema.png]]
+
+---
+# YAML
+as of 2026-03-23:
+````
+  name: taxa_tree_master
+type: fixed
+public_id: taxon_id
+keys: []
+columns:
+  - system_id
+  - taxon_id
+  - species
+  - common_name
+  - taxon_common_name_id
+values:
+  - - 1
+    - null
+    - null
+    - null
+    - null

@@ -1,7 +1,7 @@
 ---
 Entity_Name: geochronology
 Type: Data (Derived)
-Public_ID: geochronology_id
+Public_ID: "[[geochron_id]]"
 Target_Entity:
 Local_Keys:
   - 

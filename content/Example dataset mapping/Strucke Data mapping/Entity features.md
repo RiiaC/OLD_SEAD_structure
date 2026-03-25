@@ -1,7 +1,7 @@
 ---
 Entity_Name: features
 Type: Data (Derived)
-Public_ID: feature_id
+Public_ID: "[[feature_id]]"
 Target_Entity: "[[Entity feature_types]]"
 Local_Keys:
   - system_id

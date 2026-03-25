@@ -9,7 +9,7 @@ Local_Keys:
   - 
 Remote_Keys:
 SEAD_table:
-status: needs creating
+status: in progress
 ---
 - [ ] needs connection to [[content/Example dataset mapping/Strucke Data mapping/Entity sample_groups|Entity sample_groups]]
 - [ ] needs connections to [[content/Example dataset mapping/Strucke Data mapping/Entity analysis_entities|Entity analysis_entities]]

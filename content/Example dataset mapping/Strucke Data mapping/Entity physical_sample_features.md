@@ -1,7 +1,7 @@
 ---
 Entity_Name:
 Type:
-Public_ID: physical_sample_features_id
+Public_ID: "[[physical_sample_id]]"
 Target_Entity:
 Local_Keys:
   - 

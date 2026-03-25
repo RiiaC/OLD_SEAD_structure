@@ -1,24 +1,17 @@
 {
   "collapse-filter": false,
-  "search": "path:\"content/AFL Radiocarbon Data Mapping via SEAD ShapeShifter\"  ",
+  "search": "path:\"content/Example dataset mapping/Strucke Data mapping\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Radiocarbon Data mapping\"  ",
+      "query": "path:\"content/Example dataset mapping/Strucke Data mapping\"  ",
       "color": {
         "a": 1,
-        "rgb": 15741747
-      }
-    },
-    {
-      "query": "path:content/SEAD  ",
-      "color": {
-        "a": 1,
-        "rgb": 3358423
+        "rgb": 14048348
       }
     }
   ],

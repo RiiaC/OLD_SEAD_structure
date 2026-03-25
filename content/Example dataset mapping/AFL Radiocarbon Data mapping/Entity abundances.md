@@ -24,4 +24,4 @@ Assuming there is one bone for each sample, and all bones are from harp seals, I
 The first join join fills the [[abundance_element_id]] column of this entity with the appropriate numbers for each bone from the system_id row of the [[content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity abundance_element]] sheet.
 The second join links the various taxa information to the abundances
 
-![[Entity abundances schema.png|1000]]
+![[content/images/Entity abundances schema.png|1000]]
