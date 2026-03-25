@@ -9,7 +9,7 @@ Local_Keys:
   - 
 Remote_Keys:
 SEAD_table: "[[tbl_analysis_entities]]"
-status: inn progress
+status: in progress
 ---
 > [!info]  The table that records what is actually analysed. 
 > In this dataset, perhaps we can simply attach an analysis_entities_id to every row by `labnr` and call it good?
