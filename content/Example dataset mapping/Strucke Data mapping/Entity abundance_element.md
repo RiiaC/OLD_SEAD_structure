@@ -8,7 +8,12 @@ SEAD_table: "[[tbl_abundance_elements]]"
 publish: publish
 status: complete
 ---
-> [!info] the columns that have to do with abundance_element are 
+> [!comment] The [[abundance_element_id]]  foreign key can be null for both of the children tables, [[tbl_abundances]]  and [[tbl_dating_material]]. Therefore, this is an optional table. 
+- [ ] check the data in `Sort`,  `Art_1`, and  `Art_2` carefully, to see if any of it points to an abundance element, rather than the the presence or absence of a species. If so, we want this table, and that subset of the column will need to be extracted.
+
+
+
+> [!info] the columns that might have to do with abundance_element are 
 > `Sort` 
 > `Art_1`
 > `Art_2` 

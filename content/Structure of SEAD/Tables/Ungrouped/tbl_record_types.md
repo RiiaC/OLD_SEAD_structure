@@ -8,6 +8,9 @@ columns:
 date created: Friday, September 19th 2025, 3:37:16 pm
 publish: publish
 ---
+> [!comment] This table is both optional and discouraged.
+> The [[record_type_id]] foreign key can be null for all four of the children tables, [[tbl_abundance_elements]], [[tbl_methods]], [[tbl_site_other_records]], and [[tbl_taxa_tree_orders]]. Furthermore, Phil has said of this table *"Record types is a workaround for grouping taxa and methods in a way that methods do not allow. We have tried to avoid using it as much as possible, so no important data should go in there. If possible, we use other tables, but fill record types for backwards compatibility with interface elements."*. Therefore, I will remove it from the Strucke data mapping, and just keep this note with the table itself.
+
 
 Categorizes biological proxies based on their general usage or origin, enabling the creation of meaningful subsets from the complete taxonomic index and associated abundance elements. It ensures relevance by excluding options like 'seed' from datasets related to insects. The classification is primarily at the 'Order' level in the taxonomic hierarchy. For example, 'Insects & similar' includes insects, arthropods, and other related animals, while 'Plants & pollen' groups entities with shared ecological significance, such as plant presence.
 

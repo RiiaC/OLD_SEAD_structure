@@ -15,17 +15,17 @@ publish: publish
 Contains reference data that defines the type of element, part, or unit being counted, as indicated by the values in tbl_abundances. For insects, this is often the Minimum Number of Individuals (MNI), but it can also include individual body parts such as wings, shells, or leg segments. For plant remains (macrofossils), it generally represents specific plant parts like seeds, leaves, or bud scales.
 # 1: Insects & similar (Insect and other arthropod taxa, along with other remains commonly extracted when analysing insect samples)
 
-| abundance_element_id | record_type_id | element_name                |
-| -------------------- | -------------- | --------------------------- |
-| 1                    | 1              | Whole arthropod             |
-| 5                    | 1              | MNI                         |
-| 6                    | 1              | Left elytron                |
-| 7                    | 1              | Right elytron               |
-| 8                    | 1              | Thorax                      |
-| 9                    | 1              | Head                        |
-| 10                   | 1              | Body segment (other)        |
-| 11                   | 1              | Leg                         |
-| 17                   | 1              | Aedeagus                    |
+| abundance_element_id | record_type_id | element_name         |
+| -------------------- | -------------- | -------------------- |
+| 1                    | 1              | Whole arthropod      |
+| 5                    | 1              | MNI                  |
+| 6                    | 1              | Left elytron         |
+| 7                    | 1              | Right elytron        |
+| 8                    | 1              | Thorax               |
+| 9                    | 1              | Head                 |
+| 10                   | 1              | Body segment (other) |
+| 11                   | 1              | Leg                  |
+| 17                   | 1              | Aedeagus             |
 # 2: Plants & pollen (Plants taxa and their pollen. Also includes non-pollen palynomorphs commonly counted and included in pollen analyses)
 
 | abundance_element_id | record_type_id | element_name                |

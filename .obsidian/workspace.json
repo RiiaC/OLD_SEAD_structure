@@ -113,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 200
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -234,18 +234,19 @@
   },
   "active": "c60c1356d2a9296e",
   "lastOpenFiles": [
-    "content/Example dataset mapping/Strucke Data mapping/Entity physical_samples.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity analysis_entities.md",
-    "content/Structure of SEAD/Tables/Dataset/tbl_analysis_entities.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity abundances.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity abundance_element.md",
     "content/Structure of SEAD/Tables/Taxa Counts/tbl_abundances.md",
+    "content/Structure of SEAD/Columns/abundance_element_id.md",
     "content/Structure of SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity taxa_common_names.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity taxa_tree_master.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity record_type.md",
     "content/Structure of SEAD/Columns/record_type_id.md",
     "content/Structure of SEAD/Tables/Ungrouped/tbl_record_types.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity taxa_tree_master.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity analysis_entities.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity record_type.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity physical_samples.md",
+    "content/Structure of SEAD/Tables/Dataset/tbl_analysis_entities.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity taxa_common_names.md",
     "content/Structure of SEAD/Columns/element_name.md",
     "content/Structure of SEAD/Columns/element_description.md",
     "content/Structure of SEAD/Columns/taxon_id.md",
@@ -259,7 +260,6 @@
     "content/Example dataset mapping/Strucke Data mapping/Entity datasheet.md",
     "content/Structure of SEAD/Columns/abundance_id.md",
     "content/Structure of SEAD/Columns/genus_id.md",
-    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_genera.md",
     "content/images/Entity abundances schema 1.png",
     "content/Example dataset mapping/Strucke Data mapping/Strucke list of entities.base",
     "content/images/Entity feature_types schema.png",
