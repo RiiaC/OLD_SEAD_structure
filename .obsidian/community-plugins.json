@@ -1,6 +1,5 @@
 [
   "local-backup",
-  "colored-text",
   "dataview",
   "dataview-serializer",
   "obsidian-linter",

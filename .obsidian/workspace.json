@@ -37,6 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "content/Example dataset mapping/Strucke Data mapping/Entity dating_material.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Entity dating_material"
+            }
+          },
+          {
+            "id": "b8a53d9361ba3255",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "content/Example dataset mapping/AFL Radiocarbon Data mapping/index.md",
                 "mode": "source",
                 "source": false,
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 335.5
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -232,34 +256,39 @@
       "templates:Insert template": false
     }
   },
-  "active": "c60c1356d2a9296e",
+  "active": "b8a53d9361ba3255",
   "lastOpenFiles": [
+    "content/Structure of SEAD/Tables/Provenance/tbl_methods.md",
+    "content/Structure of SEAD/Tables/Ungrouped/tbl_dating_material.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity dating_material.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/E. Lab nr.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/index.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity abundance_modifications.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity dating_material.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/C. Biological Age.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/B. Element.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/A. Map Fig.1.md",
+    "Pasted image 20260331130210.png",
+    "Pasted image 20260331125842.png",
+    "Pasted image 20260331130343.png",
+    "Pasted image 20260331130251.png",
+    "content/Example dataset mapping/Strucke Data mapping/index.md",
+    "content/Example dataset mapping/index.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/0. Datset.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/Entity geochronology.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity analysis_entities.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/table of entities.base",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity abundances.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/index.md",
+    "content/Structure of SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
+    "content/Structure of SEAD/Columns/record_type_id.md",
+    "content/Structure of SEAD/Tables/Ungrouped/tbl_record_types.md",
     "Not_plotted/index.md",
     "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_master.md",
     "content/Structure of SEAD/Columns/taxon_id.md",
     "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_authors.md",
     "content/Structure of SEAD/Tables/Taxa Counts/tbl_abundances.md",
     "content/Structure of SEAD/Columns/abundance_id.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity abundances.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity analysis_entities.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity abundance_element.md",
-    "content/Structure of SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
-    "content/Example dataset mapping/Strucke Data mapping/index.md",
-    "content/Structure of SEAD/Columns/biblio_id.md",
-    "content/Structure of SEAD/Tables/Dataset/tbl_datasets.md",
-    "content/Structure of SEAD/Tables/Bibliography/tbl_biblio.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity biblio.md",
-    "content/Structure of SEAD/Columns/abundance_element_id.md",
-    "content/Structure of SEAD/Columns/record_type_id.md",
-    "content/Structure of SEAD/Tables/Ungrouped/tbl_record_types.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity taxa_tree_master.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity record_type.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity physical_samples.md",
-    "content/Structure of SEAD/Tables/Dataset/tbl_analysis_entities.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity taxa_common_names.md",
-    "content/Structure of SEAD/Columns/element_name.md",
-    "content/Structure of SEAD/Columns/element_description.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity taxa_tree_master.md",
     "content/images/Entity abundances schema 1.png",
     "content/Example dataset mapping/Strucke Data mapping/Strucke list of entities.base",
     "content/images/Entity feature_types schema.png",
@@ -267,13 +296,8 @@
     "content/images/Shape Shifter Schema Explorer window.png",
     "content/images/Entity languages schema.png",
     "content/images/2026-02-26 left wall.jpg",
-    "content/images/Entity taxon_common_name schema.png",
-    "content/images/Entity dating_material schema.png",
-    "content/images/Entity datasets schema.png",
-    "content/images/Entity physical_sample_features schema.png",
     "SEAD/Columns",
     "SEAD",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/table of entities.base",
     "content/Example dataset mapping/Strucke Data mapping",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping",
     "content/SEAD Shape Shifter User Manual/images",
