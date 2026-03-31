@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Not_plotted/index.md",
+                "file": "content/Example dataset mapping/AFL Radiocarbon Data mapping/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -234,10 +234,10 @@
   },
   "active": "c60c1356d2a9296e",
   "lastOpenFiles": [
+    "Not_plotted/index.md",
     "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_master.md",
     "content/Structure of SEAD/Columns/taxon_id.md",
     "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_authors.md",
-    "Not_plotted/index.md",
     "content/Structure of SEAD/Tables/Taxa Counts/tbl_abundances.md",
     "content/Structure of SEAD/Columns/abundance_id.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity abundances.md",
