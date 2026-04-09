@@ -7,7 +7,6 @@ columns:
   - "[[value]]"
 connected_tables:
   - "[[tbl_analysis_values]]"
-publish: publish
 ---
 
 Storage for notes associated to an analysis value.

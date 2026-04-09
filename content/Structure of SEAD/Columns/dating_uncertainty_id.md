@@ -9,7 +9,6 @@ connected_tables:
   - "[[tbl_relative_dates]]"
   - "[[tbl_tephra_dates]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Specifies the uncertainty category related to the dating method used.

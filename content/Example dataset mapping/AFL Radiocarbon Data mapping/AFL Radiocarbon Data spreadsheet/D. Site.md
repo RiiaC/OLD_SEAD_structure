@@ -7,7 +7,6 @@ example_data:
   - Neustadt LA 156
   - Hemmor
   - Trørød
-publish: publish
 ---
 > [!info] The Site column 
 > Contains the names of the archaeological sites which contributed samples to the project. 

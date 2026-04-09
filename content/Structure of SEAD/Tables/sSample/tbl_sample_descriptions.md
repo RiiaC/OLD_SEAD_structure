@@ -11,7 +11,6 @@ connected_tables:
   - "[[tbl_physical_samples]]"
   - "[[tbl_sample_description_types]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Contains detailed descriptions of samples categorized by different description types.

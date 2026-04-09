@@ -7,7 +7,6 @@ columns:
   - "[[date_updated]]"
 connected_tables:
   - "[[tbl_methods]]"
-publish: publish
 ---
 
 Contains measurements from ceramic analysis processes.

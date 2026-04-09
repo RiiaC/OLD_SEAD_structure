@@ -4,7 +4,6 @@ data_type: int4range
 connected_tables:
   - "[[tbl_analysis_entity_ages]]"
   - "[[tbl_dendro_dates]]"
-publish: publish
 ---
 
 The range as a tyed (int4range) value.

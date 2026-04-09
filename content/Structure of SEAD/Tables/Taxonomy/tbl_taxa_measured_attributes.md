@@ -11,7 +11,6 @@ columns:
   - "[[date_updated]]"
 connected_tables:
   - "[[tbl_taxa_tree_master]]"
-publish: publish
 ---
 
 Contains measurements related to the size of organisms, such as maximum length.

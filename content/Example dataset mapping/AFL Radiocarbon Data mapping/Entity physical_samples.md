@@ -7,7 +7,6 @@ Local_Keys:
   - lab_nr
 Remote_Keys: lab-nr
 SEAD_table: "[[tbl_physical_samples]]"
-publish: publish
 status: complete
 ---
 > [!info] This join assigns each sample number to a sample group of one item.

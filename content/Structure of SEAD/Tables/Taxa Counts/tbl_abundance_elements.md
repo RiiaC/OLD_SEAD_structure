@@ -10,7 +10,6 @@ columns:
 connected_tables:
   - "[[tbl_record_types]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 > [!warning] The [[abundance_element_id]]  foreign key can be null for both of the children tables, [[tbl_abundances]]  and [[tbl_dating_material]]. Therefore, this is an optional table. 
 > - We do not appear to have any information in the [[content/Example dataset mapping/Strucke Data mapping/index|Strucke data ]] that counts as an "element" to count, so the abundance can simply be tied to species

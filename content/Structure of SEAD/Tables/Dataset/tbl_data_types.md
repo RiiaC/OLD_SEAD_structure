@@ -10,7 +10,6 @@ columns:
 connected_tables:
   - "[[tbl_data_type_groups]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 > [!info] Specifies the types of quantification methods used in datasets, including definitions of each classification system.

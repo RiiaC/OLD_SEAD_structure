@@ -13,7 +13,6 @@ columns:
 connected_tables:
   - "[[tbl_analysis_values]]"
   - "[[tbl_value_qualifier_symbols]]"
-publish: publish
 ---
 
 Storage for analysis values that represents a numerical range.

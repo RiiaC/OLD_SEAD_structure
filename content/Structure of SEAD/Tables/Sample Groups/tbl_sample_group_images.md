@@ -12,7 +12,6 @@ columns:
 connected_tables:
   - "[[tbl_image_types]]"
   - "[[tbl_sample_groups]]"
-publish: publish
 ---
 
 Contains images related to sample groups, such as photographs or annotated sketches of cores.

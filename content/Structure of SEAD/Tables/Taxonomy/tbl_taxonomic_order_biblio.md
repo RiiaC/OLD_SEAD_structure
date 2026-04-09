@@ -9,7 +9,6 @@ columns:
 connected_tables:
   - "[[tbl_biblio]]"
   - "[[tbl_taxonomic_order_systems]]"
-publish: publish
 ---
 
 Contains bibliographic references related to the taxonomic ordering or numbering systems. Multiple references may be associated.

@@ -13,7 +13,6 @@ connected_tables:
   - "[[tbl_method_groups]]"
   - "[[tbl_units]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Contains definitions of various measurement types, such as sample weight and core length, categorized by method group.

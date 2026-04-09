@@ -10,7 +10,6 @@ connected_tables:
   - "[[tbl_biblio]]"
   - "[[tbl_geochronology]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Contains references for geochronological (radiometric) dating of samples.

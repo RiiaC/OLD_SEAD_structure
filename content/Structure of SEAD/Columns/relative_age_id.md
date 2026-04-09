@@ -5,7 +5,6 @@ connected_tables:
   - "[[tbl_relative_age_refs]]"
   - "[[tbl_relative_ages]]"
   - "[[tbl_relative_dates]]"
-publish: publish
 ---
 
 Specifies the the relative age defined by this reference.

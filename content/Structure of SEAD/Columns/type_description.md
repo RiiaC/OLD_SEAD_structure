@@ -4,7 +4,6 @@ data_type: text
 connected_tables:
   - "[[tbl_sample_description_types]]"
   - "[[tbl_sample_group_description_types]]"
-publish: publish
 ---
 
 Detailed description of the sample type.

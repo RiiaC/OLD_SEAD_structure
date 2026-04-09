@@ -8,7 +8,6 @@ columns:
   - "[[symbol]]"
 connected_tables:
   - "[[tbl_value_qualifiers]]"
-publish: publish
 ---
 
 Specifies alternative symbols for value qualifiers

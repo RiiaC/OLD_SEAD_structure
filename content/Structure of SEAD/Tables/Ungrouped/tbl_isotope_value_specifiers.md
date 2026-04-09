@@ -5,7 +5,6 @@ columns:
   - "[[date_updated]]"
   - "[[source/docs/plugins/Description]]"
   - "[[name]]"
-publish: publish
 ---
 
 nan

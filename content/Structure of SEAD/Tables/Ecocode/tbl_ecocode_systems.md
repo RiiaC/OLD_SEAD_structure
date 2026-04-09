@@ -11,7 +11,6 @@ columns:
   - "[[notes]]"
 connected_tables:
   - "[[tbl_biblio]]"
-publish: publish
 ---
 
 Defines various systems used for classifying specific attributes of taxa, including habitat preferences, food types, and cultural uses.

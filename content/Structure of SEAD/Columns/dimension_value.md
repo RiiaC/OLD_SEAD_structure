@@ -6,7 +6,6 @@ connected_tables:
   - "[[tbl_measured_value_dimensions]]"
   - "[[tbl_sample_dimensions]]"
   - "[[tbl_sample_group_dimensions]]"
-publish: publish
 ---
 
 The quantified value of the measured dimension.

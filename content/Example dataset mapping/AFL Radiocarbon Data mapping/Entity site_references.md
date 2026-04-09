@@ -11,7 +11,6 @@ Target_Entity_2: "[[content/Example dataset mapping/AFL Radiocarbon Data mapping
 Local_Keys_2: "[[biblio_id]]"
 Remote_Keys_2: system_id
 date created: Wednesday, February 18th 2026, 10:19:01 am
-publish: publish
 status: complete
 ---
 ![[Entity biblio schema.png]]

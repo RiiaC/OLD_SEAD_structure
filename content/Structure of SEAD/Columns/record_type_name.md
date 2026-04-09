@@ -4,7 +4,6 @@ data_type: character varying
 connected_tables:
   - "[[tbl_record_types]]"
 date created: Friday, September 19th 2025, 3:37:17 pm
-publish: publish
 ---
 
 Concise name representing the proxy or proxies within the group.

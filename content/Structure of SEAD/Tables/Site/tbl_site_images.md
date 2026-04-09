@@ -17,7 +17,6 @@ connected_tables:
   - "[[tbl_contacts]]"
   - "[[tbl_image_types]]"
   - "[[tbl_sites]]"
-publish: publish
 ---
 
 Contains images related to a site, such as site photographs, aerial images, or location maps.

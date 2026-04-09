@@ -20,7 +20,6 @@ connected_tables:
   - "[[tbl_projects]]"
   - "[[tbl_datasets]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Organizes collections of analysis entities into datasets, which are structured collections relevant to the specific proxy being studied. For biological proxies, a dataset typically corresponds to a spreadsheet containing samples and taxa for a single analysis method, such as phosphates through citric acid extraction.

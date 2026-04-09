@@ -9,7 +9,6 @@ columns:
 connected_tables:
   - "[[tbl_colours]]"
   - "[[tbl_physical_samples]]"
-publish: publish
 ---
 
 Contains information about the colors related to physical samples.

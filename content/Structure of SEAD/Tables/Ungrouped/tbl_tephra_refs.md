@@ -9,7 +9,6 @@ columns:
 connected_tables:
   - "[[tbl_biblio]]"
   - "[[tbl_tephras]]"
-publish: publish
 ---
 
 Contains bibliographic information related to the identification and description of tephra layers (volcanic ash deposits).

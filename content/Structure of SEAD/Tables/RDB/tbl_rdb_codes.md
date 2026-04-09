@@ -9,7 +9,6 @@ columns:
   - "[[rdb_definition]]"
 connected_tables:
   - "[[tbl_rdb_systems]]"
-publish: publish
 ---
 
 Definitions of rarity categories across various systems, as specified in tbl_rdb_systems.

@@ -11,7 +11,6 @@ connected_tables:
   - "[[tbl_taxa_tree_authors]]"
   - "[[tbl_taxa_tree_genera]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 url: https://humlab-sead.github.io/sead-schema/tables/tbl_taxa_tree_master.html
 ---
 

@@ -10,7 +10,6 @@ SEAD_table: "[[tbl_site_references]]"
 Target_Entity_2: "[[content/Example dataset mapping/Strucke Data mapping/Entity biblio|Entity biblio]]"
 Local_Keys_2: "[[biblio_id]]"
 Remote_Keys_2: system_id
-publish: publish
 status: in progress
 ---
 - [ ] create a data-derived (from [[content/Example dataset mapping/Strucke Data mapping/Entity datasheet|Entity datasheet]] ) entity **site_references** with **site_references_id**

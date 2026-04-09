@@ -4,7 +4,6 @@ data_type: integer
 connected_tables:
   - "[[tbl_analysis_categorical_values]]"
   - "[[tbl_value_type_items]]"
-publish: publish
 ---
 
 References the predefined category type.

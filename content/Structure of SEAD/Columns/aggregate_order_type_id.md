@@ -4,7 +4,6 @@ data_type: integer
 connected_tables:
   - "[[tbl_aggregate_datasets]]"
   - "[[tbl_aggregate_order_types]]"
-publish: publish
 ---
 
 nan

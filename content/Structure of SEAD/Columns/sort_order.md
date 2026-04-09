@@ -6,7 +6,6 @@ connected_tables:
   - "[[tbl_sample_group_sampling_contexts]]"
   - "[[tbl_seasons]]"
   - "[[tbl_taxa_tree_orders]]"
-publish: publish
 ---
 
 Indicates the display order of ecocode definitions.

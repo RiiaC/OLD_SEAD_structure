@@ -1,6 +1,5 @@
 ---
 date created: Monday, September 22nd 2025, 2:09:42 pm
-publish: publish
 title: Radiocarbon Data mapping
 ---
 

@@ -2,7 +2,6 @@
 Entity_Name: site
 Type: Data (Derived)
 Public_ID: "[[location_id]]"
-publish: publish
 status: in progress
 ---
 > [!to do] The relevant columns for this dataset relating to location include:

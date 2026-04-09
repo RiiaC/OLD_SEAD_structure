@@ -5,7 +5,6 @@ columns:
   - "[[aggregate_order_type]]"
   - "[[date_updated]]"
   - "[[source/docs/plugins/Description]]"
-publish: publish
 ---
 
 20120504pib: drop this? or replace with alternative?

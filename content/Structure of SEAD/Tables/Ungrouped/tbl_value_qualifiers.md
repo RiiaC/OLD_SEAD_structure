@@ -5,7 +5,6 @@ columns:
   - "[[source/docs/plugins/Description]]"
   - "[[qualifier_uuid]]"
   - "[[symbol]]"
-publish: publish
 ---
 
 List of base value qualifiers such as '>', '<' etc

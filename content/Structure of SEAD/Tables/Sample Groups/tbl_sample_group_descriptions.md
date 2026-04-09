@@ -11,7 +11,6 @@ connected_tables:
   - "[[tbl_sample_group_description_types]]"
   - "[[tbl_sample_groups]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Contains definitions or descriptions of groups of samples, categorized by a specific description type.

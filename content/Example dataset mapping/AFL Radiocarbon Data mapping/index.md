@@ -1,6 +1,5 @@
 ---
 date created: Wednesday, February 18th 2026, 7:54:12 am
-publish: publish
 ---
 
 # Welcome to The AFL Radiocarbon Dataset Mapping via SEAD Shape Shifter section of this web page

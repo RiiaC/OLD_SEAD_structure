@@ -8,7 +8,6 @@ columns:
   - "[[imported_name_replaced]]"
 connected_tables:
   - "[[tbl_taxa_tree_master]]"
-publish: publish
 ---
 
 nan

@@ -5,7 +5,6 @@ connected_tables:
   - "[[tbl_taxa_synonyms]]"
   - "[[tbl_taxa_tree_genera]]"
   - "[[tbl_taxa_tree_master]]"
-publish: publish
 ---
 
 Specifies the genus related to the taxon synonym.

@@ -3,7 +3,6 @@ Entity_Name: biblio
 Type: Excel File(OpenPyXL)
 Public_ID: "[[biblio_id]]"
 SEAD_table: "[[tbl_biblio]]"
-publish: publish
 status: complete
 ---
 Since I had already compiled the bibliographic information into the biblio sheet of the radiocarbon_Glykou_etal_2021_input.xlsx this entity simply accesses that sheet and imports the columns.

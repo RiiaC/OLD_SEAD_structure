@@ -3,7 +3,6 @@ Entity_Name: site
 Type: Data (Derived)
 Public_ID: "[[site_id]]"
 SEAD_table: "[[tbl_sites]]"
-publish: publish
 status: in progress
 ---
 > [!to do] The relevant columns for this dataset relating to site and location include

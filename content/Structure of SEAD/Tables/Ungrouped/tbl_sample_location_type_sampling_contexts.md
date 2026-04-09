@@ -9,7 +9,6 @@ columns:
 connected_tables:
   - "[[tbl_sample_location_types]]"
   - "[[tbl_sample_group_sampling_contexts]]"
-publish: publish
 ---
 
 Gives the relationship between sample location types and their respective sampling contexts.

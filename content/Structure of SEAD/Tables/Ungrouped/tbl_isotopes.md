@@ -16,7 +16,6 @@ connected_tables:
   - "[[tbl_isotope_standards]]"
   - "[[tbl_isotope_value_specifiers]]"
   - "[[tbl_units]]"
-publish: publish
 ---
 
 nan

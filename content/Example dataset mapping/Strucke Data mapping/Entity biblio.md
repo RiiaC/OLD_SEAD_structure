@@ -3,7 +3,6 @@ Entity_Name: biblio
 Type: Data (Derived)
 Public_ID: "[[biblio_id]]"
 SEAD_table: "[[tbl_biblio]]"
-publish: publish
 status: in progress
 ---
 > [!to do] The relevant columns for this dataset relating to publications for each sample are

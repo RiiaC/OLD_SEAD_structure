@@ -6,7 +6,6 @@ columns:
   - "[[identification_level_abbrev]]"
   - "[[identification_level_name]]"
   - "[[notes]]"
-publish: publish
 ---
 
 Serves as a lookup for taxonomic identification levels, detailing the resolution or uncertainty in identification, such as 'cf. Family', 'cf. Genus', or 'cf. Species'.

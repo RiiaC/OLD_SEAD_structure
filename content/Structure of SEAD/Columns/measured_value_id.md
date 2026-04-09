@@ -5,7 +5,6 @@ connected_tables:
   - "[[tbl_measured_value_dimensions]]"
   - "[[tbl_measured_values]]"
 date created: Friday, September 19th 2025, 3:37:17 pm
-publish: publish
 ---
 
 Specifies the measured value to which this dimension belongs.

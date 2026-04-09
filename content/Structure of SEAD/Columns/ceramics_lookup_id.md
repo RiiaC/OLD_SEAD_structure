@@ -4,7 +4,6 @@ data_type: integer
 connected_tables:
   - "[[tbl_ceramics]]"
   - "[[tbl_ceramics_lookup]]"
-publish: publish
 ---
 
 Specifies the detailed ceramic type or classification information.

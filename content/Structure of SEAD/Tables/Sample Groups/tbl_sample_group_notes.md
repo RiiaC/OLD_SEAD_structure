@@ -8,7 +8,6 @@ columns:
   - "[[note]]"
 connected_tables:
   - "[[tbl_sample_groups]]"
-publish: publish
 ---
 
 Contains notes pertaining to groups of samples.

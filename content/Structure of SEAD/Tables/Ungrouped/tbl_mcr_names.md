@@ -11,7 +11,6 @@ columns:
   - "[[mcr_species_name]]"
 connected_tables:
   - "[[tbl_taxa_tree_master]]"
-publish: publish
 ---
 
 Contains the original taxon names utilized in the Birmingham MCR calculation system for climate reconstruction. It ensures the reproducibility of results and facilitates comparison with historical data.

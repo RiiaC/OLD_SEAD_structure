@@ -5,7 +5,6 @@ connected_tables:
   - "[[tbl_ceramics]]"
   - "[[tbl_dendro]]"
   - "[[tbl_isotopes]]"
-publish: publish
 ---
 
 Numeric value representing the measurement obtained from the ceramic analysis.

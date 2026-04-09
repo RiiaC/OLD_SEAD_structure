@@ -14,7 +14,6 @@ connected_tables:
   - "[[tbl_analysis_taxon_counts]]"
   - "[[tbl_analysis_value_dimensions]]"
   - "[[tbl_analysis_values]]"
-publish: publish
 ---
 
 Identifies the specific analysis value associated with this data.

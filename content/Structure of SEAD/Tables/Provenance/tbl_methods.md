@@ -18,7 +18,6 @@ connected_tables:
   - "[[tbl_record_types]]"
   - "[[tbl_units]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 Contains definitions and details of various analysis methods.
 

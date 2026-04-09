@@ -4,7 +4,6 @@ data_type: integer
 connected_tables:
   - "[[tbl_ecocode_definitions]]"
   - "[[tbl_ecocodes]]"
-publish: publish
 ---
 
 Primary key (automatically incremented).

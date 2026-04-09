@@ -18,7 +18,6 @@ connected_tables:
   - "[[tbl_relative_dates]]"
   - "[[tbl_tephra_dates]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Identifies the specific analysis entity associated with this record.

@@ -6,7 +6,6 @@ columns:
   - "[[date_updated]]"
   - "[[source/docs/plugins/Description]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Contains classifications for various data types, such as relative scale and semi-quantitative.

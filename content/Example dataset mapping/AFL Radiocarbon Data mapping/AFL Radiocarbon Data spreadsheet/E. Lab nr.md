@@ -8,7 +8,6 @@ example_data:
   - Hela-1329
   - Ua-50229
   - LuS-6133
-publish: publish
 ---
 > [!info]  The Lab nr column 
 > Contains a combination of letters and numbers, each of which is unique, and appears to be the sample designation used by the laboratory for analysis. Therefore, it is a good match for [[sample_name]]. However, in SEAD every sample must be part of a sample group, therefore, before entering the [[sample_name]] it is first necessary to set up the corresponding sample group information and its link back to the site from which the sample was obtained.

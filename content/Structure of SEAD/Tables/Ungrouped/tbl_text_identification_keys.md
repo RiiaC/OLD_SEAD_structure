@@ -11,7 +11,6 @@ columns:
 connected_tables:
   - "[[tbl_biblio]]"
   - "[[tbl_taxa_tree_master]]"
-publish: publish
 ---
 
 Stores identification key extracts along with their bibliographic sources.

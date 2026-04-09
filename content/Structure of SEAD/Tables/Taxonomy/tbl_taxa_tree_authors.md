@@ -5,7 +5,6 @@ columns:
   - "[[author_name]]"
   - "[[date_updated]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Specifies authoritative information for species names or synonyms.

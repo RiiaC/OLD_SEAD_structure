@@ -11,7 +11,6 @@ connected_tables:
   - "[[tbl_isotope_standards]]"
   - "[[tbl_isotope_types]]"
   - "[[tbl_methods]]"
-publish: publish
 ---
 
 nan

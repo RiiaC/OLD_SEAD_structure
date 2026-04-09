@@ -11,7 +11,6 @@ connected_tables:
   - "[[tbl_site_images]]"
   - "[[tbl_taxa_reference_specimens]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Identifies the contact person or organization for the chronology.

@@ -15,7 +15,6 @@ connected_tables:
   - "[[tbl_biblio]]"
   - "[[tbl_taxa_tree_master]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Represents the relationships between different taxa, including interactions such as predation, parasitism, shared habitats, and synonym links. The directionality of the association (e.g., 'x preys on y') is crucial.

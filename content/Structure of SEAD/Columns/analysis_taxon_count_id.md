@@ -4,7 +4,6 @@ data_type: integer
 connected_tables:
   - "[[tbl_analysis_taxon_counts]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Primary key (automatically incremented).

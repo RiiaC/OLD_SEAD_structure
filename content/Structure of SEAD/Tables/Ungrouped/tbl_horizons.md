@@ -9,7 +9,6 @@ columns:
   - "[[horizon_name]]"
 connected_tables:
   - "[[tbl_methods]]"
-publish: publish
 ---
 
 Represents the layer of soil from which samples are taken, classified according to a recognized standard (e.g., FAO A horizon).

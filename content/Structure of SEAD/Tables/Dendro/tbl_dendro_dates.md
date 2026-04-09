@@ -18,7 +18,6 @@ connected_tables:
   - "[[tbl_dating_uncertainty]]"
   - "[[tbl_dendro_lookup]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 20130722PIB: Added field dating_uncertainty_id to cater for >< etc. 20130722pib: prefixed fieldnames age_younger and age_older with "cal_" to conform with equivalent names in other tables

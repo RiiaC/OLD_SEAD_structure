@@ -12,7 +12,6 @@ connected_tables:
   - "[[tbl_coordinate_method_dimensions]]"
   - "[[tbl_sample_groups]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Contains coordinates related to sample groups, such as the top of a core, the top of a profile, or specific locations on dendrochronological or ceramic objects.

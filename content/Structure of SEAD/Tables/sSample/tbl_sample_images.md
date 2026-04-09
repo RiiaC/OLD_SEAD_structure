@@ -12,7 +12,6 @@ columns:
 connected_tables:
   - "[[tbl_image_types]]"
   - "[[tbl_physical_samples]]"
-publish: publish
 ---
 
 Contains images related to samples, including site photographs, lab processing images, and microscope images.

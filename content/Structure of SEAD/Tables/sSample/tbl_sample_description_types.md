@@ -6,7 +6,6 @@ columns:
   - "[[type_description]]"
   - "[[type_name]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 > [!info] Specifies various types of sample descriptions used in the database.

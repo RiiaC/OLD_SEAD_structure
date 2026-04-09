@@ -44,7 +44,6 @@ connected_tables:
   - "[[tbl_value_types]]"
   - "[[tbl_years_types]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Detailed description of the organism's state during the specified time, such as 'adult' or 'flowering'.

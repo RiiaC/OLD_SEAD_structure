@@ -15,7 +15,6 @@ columns:
 connected_tables:
   - "[[tbl_site_preservation_status]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 url: https://humlab-sead.github.io/sead-schema/tables/tbl_sites.html
 ---
 xxxxxxxxcRecords detailed information about each excavation or sampling location i.e. a defined location where samples have been collected through excavation.

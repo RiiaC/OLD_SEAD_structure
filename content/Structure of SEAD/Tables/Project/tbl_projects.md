@@ -13,7 +13,6 @@ connected_tables:
   - "[[tbl_project_stages]]"
   - "[[tbl_project_types]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Contains information about projects, including their names and descriptions, pertinent to datasets for specific sites.

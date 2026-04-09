@@ -13,7 +13,6 @@ connected_tables:
   - "[[tbl_coordinate_method_dimensions]]"
   - "[[tbl_physical_samples]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Specifies the physical location data of samples. This includes both local grid references and standardized global coordinates, such as latitude and longitude. References a methods that determines the type of grid used, facilitating the plotting of samples on large-scale maps or site-specific projects.

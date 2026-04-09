@@ -10,7 +10,6 @@ connected_tables:
   - "[[tbl_taxa_seasonality]]"
   - "[[tbl_locations]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Specifies to a location, associating the contact with a specific geographic or organizational location.

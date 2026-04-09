@@ -12,7 +12,6 @@ columns:
 connected_tables:
   - "[[tbl_image_types]]"
   - "[[tbl_taxa_tree_master]]"
-publish: publish
 ---
 
 Contains references to images of taxa, stored either in external databases or available online.

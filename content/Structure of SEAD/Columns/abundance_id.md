@@ -6,7 +6,6 @@ connected_tables:
   - "[[tbl_abundance_modifications]]"
   - "[[tbl_abundances]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Specifies the related abundance record.

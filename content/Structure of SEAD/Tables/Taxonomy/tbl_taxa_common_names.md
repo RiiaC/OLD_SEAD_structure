@@ -11,7 +11,6 @@ connected_tables:
   - "[[tbl_languages]]"
   - "[[tbl_taxa_tree_master]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Stores vernacular or common names of organisms, such as 'bluebottle'.

@@ -5,7 +5,6 @@ connected_tables:
   - "[[tbl_taxonomic_order]]"
   - "[[tbl_taxonomic_order_biblio]]"
   - "[[tbl_taxonomic_order_systems]]"
-publish: publish
 ---
 
 Specifies the taxonomic ordering system.

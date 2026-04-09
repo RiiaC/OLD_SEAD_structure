@@ -4,7 +4,6 @@ data_type: integer
 connected_tables:
   - "[[tbl_features]]"
   - "[[tbl_physical_sample_features]]"
-publish: publish
 ---
 
 Primary key (automatically incremented).

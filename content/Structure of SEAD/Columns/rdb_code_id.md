@@ -4,7 +4,6 @@ data_type: integer
 connected_tables:
   - "[[tbl_rdb]]"
   - "[[tbl_rdb_codes]]"
-publish: publish
 ---
 
 Specifies the the specific rarity designation or classification code.

@@ -6,7 +6,6 @@ connected_tables:
   - "[[tbl_sample_description_types]]"
   - "[[tbl_sample_descriptions]]"
 date created: Friday, September 19th 2025, 3:37:17 pm
-publish: publish
 ---
 
 Specifies the sample description type, indicating the type of sample described.

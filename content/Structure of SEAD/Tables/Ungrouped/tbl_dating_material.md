@@ -14,7 +14,6 @@ connected_tables:
   - "[[tbl_geochronology]]"
   - "[[tbl_taxa_tree_master]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Contains information about materials used for dating processes. Materials can be linked to a specific taxon, pseudotaxon, or described in the 'material_dated' field. Specific components of abundance, such as seeds or elytrons, can also be indicated. A single dating instance may involve multiple materials.

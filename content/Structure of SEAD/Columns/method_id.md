@@ -19,7 +19,6 @@ connected_tables:
   - "[[tbl_site_natgridrefs]]"
   - "[[tbl_value_classes]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Specifies the preparation method related to the analysis entity.

@@ -3,7 +3,6 @@ column_name: uncertainty
 data_type: character varying
 connected_tables:
   - "[[tbl_dating_uncertainty]]"
-publish: publish
 ---
 
 A brief code or label showing the type of dating uncertainty, such as 'from', 'to', or 'Ca.'.

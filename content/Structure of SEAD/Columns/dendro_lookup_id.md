@@ -5,7 +5,6 @@ connected_tables:
   - "[[tbl_dendro]]"
   - "[[tbl_dendro_dates]]"
   - "[[tbl_dendro_lookup]]"
-publish: publish
 ---
 
 nan

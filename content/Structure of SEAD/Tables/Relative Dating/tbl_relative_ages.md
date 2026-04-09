@@ -19,7 +19,6 @@ connected_tables:
   - "[[tbl_relative_age_types]]"
   - "[[tbl_locations]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 > [!info] Contains definitions of ages based on historical periods or calendar events, including age ranges and geographical relevance (e.g., Mesolithic in Sweden).

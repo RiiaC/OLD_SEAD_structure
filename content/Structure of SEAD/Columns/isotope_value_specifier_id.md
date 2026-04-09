@@ -4,7 +4,6 @@ data_type: integer
 connected_tables:
   - "[[tbl_isotope_value_specifiers]]"
   - "[[tbl_isotopes]]"
-publish: publish
 ---
 
 nan

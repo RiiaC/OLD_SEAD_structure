@@ -6,7 +6,6 @@ connected_tables:
   - "[[tbl_contacts]]"
   - "[[tbl_dataset_masters]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Online link to the bibliographic resource, if available.

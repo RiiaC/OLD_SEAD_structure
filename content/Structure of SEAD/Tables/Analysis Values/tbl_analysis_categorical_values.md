@@ -10,7 +10,6 @@ columns:
 connected_tables:
   - "[[tbl_analysis_values]]"
   - "[[tbl_value_type_items]]"
-publish: publish
 ---
 
 Storage for analysis values that represents a categorical value.

@@ -6,7 +6,6 @@ columns:
   - "[[source/docs/plugins/Description]]"
   - "[[type_name]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
-publish: publish
 ---
 
 Defines the physical form or category of a sample. This can include specific sub-samples related to the sampling method of a sample group, or general bulk samples. Examples include 'Core Subsample', 'Grab Sample', and 'Bulk (Bag) Sample'.

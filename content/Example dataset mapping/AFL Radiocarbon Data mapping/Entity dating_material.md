@@ -3,7 +3,6 @@ Entity_Name: abundance_element
 Type: Data (Derived)
 Public_ID: "[[dating_material_id]]"
 SEAD_table: "[[tbl_dating_material]]"
-publish: publish
 status: add more corrections?
 ---
 This entity corresponds to the [[B. Element]] column in the original source data file, which lists which sort of bone underwent Radiocarbon dating. 

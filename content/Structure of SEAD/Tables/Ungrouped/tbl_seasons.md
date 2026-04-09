@@ -10,7 +10,6 @@ columns:
   - "[[sort_order]]"
 connected_tables:
   - "[[tbl_season_types]]"
-publish: publish
 ---
 
 Contains information about different seasons and their associated months for categorizing activities.

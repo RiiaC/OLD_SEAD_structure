@@ -20,7 +20,6 @@ connected_tables:
   - "[[tbl_dating_uncertainty]]"
   - "[[tbl_value_qualifier_symbols]]"
   - "[[tbl_seasons]]"
-publish: publish
 ---
 
 Storage for analysis values that represents a dating range.

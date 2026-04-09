@@ -5,7 +5,6 @@ columns:
   - "[[date_updated]]"
   - "[[language_name_english]]"
   - "[[language_name_native]]"
-publish: publish
 ---
 
 Specifies human languages used for the common names of taxa.

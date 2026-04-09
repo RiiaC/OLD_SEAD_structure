@@ -13,7 +13,6 @@ connected_tables:
   - "[[tbl_methods]]"
   - "[[tbl_value_classes]]"
   - "[[tbl_value_types]]"
-publish: publish
 ---
 
 Specifies a value class describing e.g. a data column

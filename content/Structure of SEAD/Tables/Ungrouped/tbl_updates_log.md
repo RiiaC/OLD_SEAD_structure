@@ -4,7 +4,6 @@ primary_key: "[[updates_log_id]]"
 columns:
   - "[[last_updated]]"
   - "[[table_name]]"
-publish: publish
 ---
 
 nan

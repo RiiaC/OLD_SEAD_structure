@@ -4,7 +4,6 @@ data_type: integer
 connected_tables:
   - "[[tbl_abundance_modifications]]"
   - "[[tbl_modification_types]]"
-publish: publish
 ---
 
 Specifies the type of modification applied.
