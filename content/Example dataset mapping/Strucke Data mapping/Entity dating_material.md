@@ -13,7 +13,7 @@ status: needs creating
 ---
 > [!info]
 
-- [ ] needs connection to [[content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity dating_material|Entity]]
+- [ ] needs connection to [[Entity abundance_element|Entity]]
 - [ ] needs connection to 
 
 ![[Entity dating_material schema.png]]
