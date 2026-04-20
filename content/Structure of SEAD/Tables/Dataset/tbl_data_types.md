@@ -11,7 +11,6 @@ connected_tables:
   - "[[tbl_data_type_groups]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
 ---
-
 > [!info] Specifies the types of quantification methods used in datasets, including definitions of each classification system.
 
 The below list of data types is sorted by groups, as defined by the **data_type_group_id**

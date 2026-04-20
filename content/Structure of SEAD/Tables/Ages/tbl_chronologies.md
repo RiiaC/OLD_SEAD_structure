@@ -14,5 +14,4 @@ connected_tables:
   - "[[tbl_contacts]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
 ---
-
-Represents a collection of dated samples grouped for specific purposes, such as assigning a unified age range to samples in a master dataset or developing an age-depth model for a lake. These chronologies may also be used to integrate with external services that limit the scope of dating evidence, such as GBIF or SBDI.
+> [!info] Represents a collection of dated samples grouped for specific purposes, such as assigning a unified age range to samples in a master dataset or developing an age-depth model for a lake. These chronologies may also be used to integrate with external services that limit the scope of dating evidence, such as GBIF or SBDI.

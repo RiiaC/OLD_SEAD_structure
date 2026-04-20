@@ -15,5 +15,4 @@ connected_tables:
   - "[[tbl_contacts]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
 ---
-
-Represents a major grouping identifier for datasets, typically indicating a contributing database, project, user, or laboratory (e.g., BugsCEP, MAL, Lund Dendro Lab).
+> [!info] Represents a major grouping identifier for datasets, typically indicating a contributing database, project, user, or laboratory (e.g., BugsCEP, MAL, Lund Dendro Lab).

@@ -19,7 +19,7 @@ connected_tables:
   - "[[tbl_units]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
 ---
-> [! info] Contains definitions and details of various analysis methods.
+> [!info] Contains definitions and details of various analysis methods.
 
 # The full list of methods
 (Sorted by [[tbl_method_groups]], as of **2026-04-20**, copied from https://browser.sead.se/postgrest/tbl_methods)

@@ -8,7 +8,9 @@ columns:
 date created: Friday, September 19th 2025, 3:37:16 pm
 ---
 
-Categorizes various analysis methods into groups based on their similarities, such as dating methods, isotope analyses, palaeoentomology, or geographic location.
+> [!info] Categorizes various analysis methods into groups based on their similarities, such as dating methods, isotope analyses, palaeoentomology, or geographic location.
+
+List copied **2026-04-20** from [https://browser.sead.se/postgrest/tbl_methods](https://browser.sead.se/postgrest/tbl_method_groups))
 
 | method group | group name                           |
 | ------------ | ------------------------------------ |

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Structure of SEAD/Tables/Provenance/tbl_methods.md",
+                "file": "content/Structure of SEAD/Tables/Ages/tbl_analysis_entity_ages.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tbl_methods"
+              "title": "tbl_analysis_entity_ages"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "method_gr",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -284,33 +283,33 @@
   },
   "active": "c60c1356d2a9296e",
   "lastOpenFiles": [
-    "content/Structure of SEAD/Tables/Provenance/tbl_method_groups.md",
+    "content/Structure of SEAD/Tables/Dataset/tbl_dataset_methods.md",
+    "Not_plotted/date_updated.md",
+    "content/Structure of SEAD/Columns/method_id.md",
+    "content/Structure of SEAD/Columns/dataset_method_id.md",
+    "content/Structure of SEAD/Columns/dataset_id.md",
+    "content/Structure of SEAD/Tables/Ages/tbl_analysis_entity_ages.md",
+    "content/Structure of SEAD/Tables/Ages/tbl_chronologies.md",
+    "content/Structure of SEAD/Tables/Analysis Values/tbl_analysis_dating_ranges.md",
     "content/Structure of SEAD/Tables/Provenance/tbl_methods.md",
+    "content/Structure of SEAD/Tables/Dataset/tbl_analysis_entities.md",
+    "content/Structure of SEAD/Tables/Dataset/tbl_dataset_submission_types.md",
+    "content/index.md",
+    "content/Structure of SEAD/Tables/Dataset/tbl_datasets.md",
+    "content/Structure of SEAD/Tables/Dataset/tbl_dataset_masters.md",
+    "content/Structure of SEAD/Tables/Dataset/tbl_dataset_contacts.md",
+    "content/Structure of SEAD/Tables/Dataset/tbl_data_types.md",
+    "content/Structure of SEAD/Tables/Bibliography/tbl_biblio.md",
+    "content/Structure of SEAD/Columns/method_group_id.md",
+    "content/Structure of SEAD/Tables/Provenance/tbl_method_groups.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/0. Datset.md",
     "content/Structure of SEAD/Columns/group_name.md",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/Carbon data spreadsheet/index.md",
     "content/Structure of SEAD/Columns/record_type_id.md",
-    "content/Structure of SEAD/Columns/method_group_id.md",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity method_groups.md",
-    "content/Structure of SEAD/Tables/Dataset/tbl_dataset_methods.md",
-    "content/Structure of SEAD/Columns/method_id.md",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity abundance_element.md",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity dating_material.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/index.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity site_references.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity taxa_common_names.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity sample_groups.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity sample_descriptions.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity taxa_tree_master.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity tbl_taxa_tree_genera.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity datasheet.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity measured_values.md",
-    "content/Structure of SEAD/Tables/Measured Value/tbl_measured_values.md",
-    "content/Structure of SEAD/Tables/Dataset/tbl_analysis_entities.md",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entities inherent to the dataset",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity relative_ages.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity abundances.md",
-    "content/Structure of SEAD/Tables/Taxa Counts/tbl_abundances.md",
-    "content/Structure of SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
     "content/images/Entity Geochronology schema.png",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/table of entities.base",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/Carbon data spreadsheet",

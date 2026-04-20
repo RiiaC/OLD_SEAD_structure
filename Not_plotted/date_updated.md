@@ -30,7 +30,6 @@ connected_tables:
   - "[[tbl_data_types]]"
   - "[[tbl_dataset_contacts]]"
   - "[[tbl_dataset_masters]]"
-  - "[[tbl_dataset_methods]]"
   - "[[tbl_dataset_submission_types]]"
   - "[[tbl_dataset_submisssion]]"
   - "[[tbl_datasets]]"

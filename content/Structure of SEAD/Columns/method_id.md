@@ -7,7 +7,6 @@ connected_tables:
   - "[[tbl_ceramics_measurements]]"
   - "[[tbl_colours]]"
   - "[[tbl_coordinate_method_dimensions]]"
-  - "[[tbl_dataset_methods]]"
   - "[[tbl_datasets]]"
   - "[[tbl_dendro_lookup]]"
   - "[[tbl_horizons]]"
