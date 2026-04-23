@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/SEAD Shape Shifter User Manual/7. Glossary.md",
+                "file": "content/How to get your data into SEAD/Domain-specific informaiton/Palaeoentomology (Insect analysis)/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7. Glossary"
+              "title": "index"
+            }
+          },
+          {
+            "id": "e43a9cdd15bd59d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/How to get your data into SEAD/Domain-specific informaiton/Ceramic (Petrographic Microscopy)/index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -233,10 +256,27 @@
       "templates:Insert template": false
     }
   },
-  "active": "a0b5dfdb96bf0407",
+  "active": "e43a9cdd15bd59d9",
   "lastOpenFiles": [
-    "content/SEAD Shape Shifter User Manual/2.4 Validate.md",
+    "content/How to get your data into SEAD/index.md",
+    "content/How to get your data into SEAD/Domain-specific informaiton/Ceramic (Petrographic Microscopy)/index.md",
+    "content/How to get your data into SEAD/Domain-specific informaiton/Ceramic (Petrographic Microscopy)",
+    "content/How to get your data into SEAD/Domain-specific informaiton/Geoarchaeology (Soil analyses)/index.md",
+    "content/How to get your data into SEAD/Domain-specific informaiton/index.md",
+    "content/How to get your data into SEAD/Domain-specific informaiton/Geoarchaeology (Soil analyses)",
+    "content/How to get your data into SEAD/Domain-specific informaiton/Palynology (Pollen analysis)/index.md",
+    "content/How to get your data into SEAD/Domain-specific informaiton/Palynology (Pollen analysis)",
+    "content/How to get your data into SEAD/Domain-specific informaiton/Archaeobotany-Palaeobotany (Plant macrofossil analysis)/index.md",
+    "content/How to get your data into SEAD/Domain-specific informaiton/Archaeobotany-Palaeobotany (Plant macrofossil analysis)",
+    "content/How to get your data into SEAD/Domain-specific informaiton/Palaeoentomology (Insect analysis)/index.md",
+    "content/How to get your data into SEAD/Domain-specific informaiton/Dendrochronology and wood analyses/index.md",
+    "content/How to get your data into SEAD/Domain-specific informaiton/Palaeoentomology (Insect analysis)",
+    "content/How to get your data into SEAD/Domain-specific informaiton/Dendrochronology and wood analyses",
+    "content/How to get your data into SEAD/Domain-specific informaiton",
+    "content/index.md",
     "content/SEAD Shape Shifter User Manual/7. Glossary.md",
+    "content/How to get your data into SEAD",
+    "content/SEAD Shape Shifter User Manual/2.4 Validate.md",
     "content/SEAD Shape Shifter User Manual/2.3.2 YAML.md",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity analysis_entities.md",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity abundances.md",
@@ -254,32 +294,14 @@
     "content/images/Entity modification_types schema.png",
     "content/images/Entity methods_schema.png",
     "content/Structure of SEAD/Tables/Ungrouped/tbl_modification_types.md",
-    "content/Structure of SEAD/Tables/Taxa Counts/tbl_abundance_modifications.md",
-    "content/Structure of SEAD/Columns/modification_type_id.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/index.md",
-    "content/Structure of SEAD/Columns/element_name.md",
-    "content/Structure of SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/I. R(t).md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity Geochronology.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/AFL Radiocarbon Data spreadsheet/E. Lab nr.md",
-    "content/Structure of SEAD/Columns/sample_name.md",
-    "content/Structure of SEAD/Tables/sSample/tbl_physical_samples.md",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entities inherent to the dataset",
     "content/images/Entity Geochronology schema.png",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/table of entities.base",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Carbon data spreadsheet",
     "Pasted image 20260331130210.png",
     "Pasted image 20260331125842.png",
     "Pasted image 20260331130343.png",
     "Pasted image 20260331130251.png",
     "content/images/Entity abundances schema 1.png",
-    "content/Example dataset mapping/Strucke Data mapping/Strucke list of entities.base",
-    "content/images/Entity feature_types schema.png",
-    "SEAD/Columns",
-    "SEAD",
-    "content/Example dataset mapping/Strucke Data mapping",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping",
-    "content/SEAD Shape Shifter User Manual/images",
-    "content/SEAD Shape Shifter User Manual"
+    "content/images/Entity feature_types schema.png"
   ]
 }
