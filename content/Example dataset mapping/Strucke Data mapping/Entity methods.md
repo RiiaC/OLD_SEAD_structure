@@ -22,6 +22,6 @@ may need connections from
 
 
 
-![[Entity methods.png]]
+![[Entity methods_schema.png]]
 
 

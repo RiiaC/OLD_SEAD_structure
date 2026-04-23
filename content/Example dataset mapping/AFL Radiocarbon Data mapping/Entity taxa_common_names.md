@@ -8,7 +8,7 @@ Local_Keys:
 Remote_Keys: system_id
 status: complete
 ---
-Since this is fixed values, I just created these extra columns:
+Since this is fixed values, I just created these extra columns, using an internal to this dataset holding value of 1 for the taxon_id
 
 | New Column Name | Source Column |
 | --------------- | ------------- |

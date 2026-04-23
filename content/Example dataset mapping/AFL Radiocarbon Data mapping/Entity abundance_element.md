@@ -2,16 +2,10 @@
 Entity_Name: abundance_element
 Type: Data (Derived)
 Public_ID: "[[abundance_element_id]]"
-Target_Entity:
-Local_Keys:
-  - 
-  - 
-  - 
-Remote_Keys:
 SEAD_table: "[[tbl_abundance_elements]]"
-status: in progress
+status: complete
 ---
-- [ ] remove the entity for dating material, it isn't actually needed for this dataset
+- [x] remove the entity for dating material, it isn't actually needed for this dataset
 
 > [!info] specifies the sort of bone analysed
 
@@ -36,23 +30,20 @@ There are 12 types of bones in the raidocarbon data set. Use the *Drop Duplicate
 # YAML
 
 ````
-name: dating_material
+name: abundance_element
 type: entity
 system_id: system_id
 keys: []
 columns:
   - element
-  - site
   - lab_nr
-public_id: dating_material_id
+public_id: abundance_element_id
 source: datasheet
 drop_duplicates:
   - element
-check_functional_dependency: true
+check_functional_dependency: false
 drop_empty_rows:
   - element
-extra_columns:
-  dating_material: element
 `````
 
 

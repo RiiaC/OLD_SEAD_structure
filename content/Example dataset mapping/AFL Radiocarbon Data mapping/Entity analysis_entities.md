@@ -11,7 +11,7 @@ Remote_Keys:
 SEAD_table:
 status: needs creating
 ---
-> [!info]
+> [!info] This table may not be needed, as it might all fit under the geochronology table?
 
 
 
