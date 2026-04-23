@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/SEAD Shape Shifter User Manual/2.4 Validate.md",
+                "file": "content/SEAD Shape Shifter User Manual/7. Glossary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.4 Validate"
+              "title": "7. Glossary"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "materalize",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,10 +233,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "c60c1356d2a9296e",
+  "active": "a0b5dfdb96bf0407",
   "lastOpenFiles": [
-    "content/SEAD Shape Shifter User Manual/7. Glossary.md",
     "content/SEAD Shape Shifter User Manual/2.4 Validate.md",
+    "content/SEAD Shape Shifter User Manual/7. Glossary.md",
     "content/SEAD Shape Shifter User Manual/2.3.2 YAML.md",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity analysis_entities.md",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity abundances.md",
