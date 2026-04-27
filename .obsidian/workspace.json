@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/How to get your data into SEAD/Domain-specific informaiton/Dendrochronology and wood analyses/index.md",
+                "file": "content/How to get your data into SEAD/Data categories and templates.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Data categories and templates"
             }
           }
         ],
@@ -256,11 +256,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "0591dbc0f0571636",
+  "active": "e43a9cdd15bd59d9",
   "lastOpenFiles": [
+    "content/How to get your data into SEAD/Domain-specific informaiton/Dendrochronology and wood analyses/index.md",
     "content/images/tree rings.png",
     "content/images/thin section.png",
-    "content/How to get your data into SEAD/Domain-specific informaiton/Dendrochronology and wood analyses/index.md",
     "content/How to get your data into SEAD/Domain-specific informaiton/Ceramic (Petrographic Microscopy)/index.md",
     "content/images/Ceramics.png",
     "content/images/Dendrochronology.png",
@@ -276,7 +276,7 @@
     "Pasted image 20260424083300.png",
     "content/How to get your data into SEAD/index.md",
     "content/How to get your data into SEAD/Three steps to data importation.md",
-    "content/How to get your data into SEAD/Data types and templates.md",
+    "content/How to get your data into SEAD/Data categories and templates.md",
     "content/How to get your data into SEAD/Domain-specific informaiton/index.md",
     "content/index.md",
     "content/Example dataset mapping/index.md",

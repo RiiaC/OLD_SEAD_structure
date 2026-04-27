@@ -6,7 +6,7 @@ The first step in data mapping is to check that your project metadata informatio
 # 2. Quality Control
 Double check the data itself for typos, missing information, and data entry errors. Is there any data that landed in the wrong column? Do you have text where there should be a number? Did you record everything needed to uniquely identify and locate each site, context or sample?
 # 3. Mapping
-Work with SEAD’s data-mapping team to determine which SEAD tables and columns correspond to your data. See our list of [[Data types and templates]] to make this easier.
+Work with SEAD’s data-mapping team to determine which SEAD tables and columns correspond to your data. See our list of [[Data categories and templates]] to make this easier.
 In the unlikely event that your dataset contains an information type that is not yet present in the database we will work with you to design any new SEAD tables needed to correspond with that portion of your data.
 
 ![[data import flowchart.png|600]]
