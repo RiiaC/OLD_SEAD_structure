@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/How to get your data into SEAD/Data categories and templates.md",
+                "file": "content/How to get your data into SEAD/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data categories and templates"
+              "title": "index"
             }
           }
         ],
@@ -258,7 +258,10 @@
   },
   "active": "e43a9cdd15bd59d9",
   "lastOpenFiles": [
+    "content/How to get your data into SEAD/Domain-specific informaiton/index.md",
     "content/How to get your data into SEAD/Domain-specific informaiton/Dendrochronology and wood analyses/index.md",
+    "content/How to get your data into SEAD/index.md",
+    "content/How to get your data into SEAD/Data categories and templates.md",
     "content/images/tree rings.png",
     "content/images/thin section.png",
     "content/How to get your data into SEAD/Domain-specific informaiton/Ceramic (Petrographic Microscopy)/index.md",
@@ -274,10 +277,7 @@
     "content/How to get your data into SEAD/Domain-specific informaiton/Palaeoentomology (Insect analysis)/index.md",
     "content/images/Palaeoentomology.png",
     "Pasted image 20260424083300.png",
-    "content/How to get your data into SEAD/index.md",
     "content/How to get your data into SEAD/Three steps to data importation.md",
-    "content/How to get your data into SEAD/Data categories and templates.md",
-    "content/How to get your data into SEAD/Domain-specific informaiton/index.md",
     "content/index.md",
     "content/Example dataset mapping/index.md",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity modification_types.md",
