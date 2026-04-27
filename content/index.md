@@ -3,10 +3,10 @@ date created: Wednesday, December 3rd 2025, 6:46:13 pm
 title: SEAD Structure
 ---
 # Welcome to a compilation of resources for SEAD data mapping
-
+![[SEAD logo.png]]
 
 >[!info] What is SEAD? The Strategic Environmental Archaeology Database 
->is a part of [Swedigarch](https://swedigarch.se/), the Swedish national research infrastructure for Digital Archaeology. SEAD is our resource for environmental archaeology data. It is developed and managed at the Environmental Archaeology Lab (MAL) in collaboration with Humlab at Umeå University, Sweden. For more information, check out the [SEAD web page](https://www.sead.se/), or check out the [SEAD Browser](https://browser.sead.se/) to explore the data itself.
+>is a part of [Swedigarch](https://swedigarch.se/), the Swedish national research infrastructure for Digital Archaeology. SEAD is our resource for environmental archaeology data. It is developed and managed at the Environmental Archaeology Lab (MAL) in collaboration with Humlab at Umeå University, Sweden. For more information, see the [SEAD web page](https://www.sead.se/), or check out the [SEAD Browser](https://browser.sead.se/) to explore the data itself.
 
 This web page was developed as a tool to assist with mapping new datasets to the SEAD structure, and is made publicly available for anyone who wishes to better understand the processes used for mapping a new data set to SEAD. Each section of the web page has different purposes:
 
