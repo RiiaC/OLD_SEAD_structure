@@ -1,3 +1,6 @@
+---
+title: Ceramic (Petrographic Microscopy)
+---
 ![[SEAD logo.png]]
 >[!info] Ceramic (Petrographic Microscopy)
 >![[Ceramics.png]]

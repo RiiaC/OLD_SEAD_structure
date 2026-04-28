@@ -1,3 +1,6 @@
+---
+title: Domain-specific information
+---
 ![[SEAD logo.png]]
 >[!info] SEAD contains a variety of different data types, or domains. These include:  
 >- Archaeobotany-Palaeobotany

@@ -1,3 +1,6 @@
+---
+title: Dendrochronology and wood analyses
+---
 ![[SEAD logo.png]]
 > [!info] Dendrochronology and wood analyses
 >  Identification of the tree species found at an archaeological site can give valuable information on resource utilisation, trade and climate. It is also essential if the wood is to be carbon dated. Wood macrofossils can also be vital in identifying the presence of trees when pollen production has been limited by environmental stress, including climatic conditions. 
