@@ -1,3 +1,6 @@
+---
+title: Strucke data mapping
+---
 > [!info] This folder contains my notes from working with the **C14_Strucke_merge_2026_02_02.csv** document in SEAD Shape Shifter. 
 > That file is not the final, complete version of the Strucke collection of radiocarbon data, but it is close enough to the final form to begin doing serious mapping work with it, in preparation for receipt of the final document. This folder will contains one page for each entity created in the mapping process in Shape Shifter, plus any explications or questions encountered in the process.
 > **As of 2026-03-10** these notes will be implemented in the [SEAD Shape Shifter project riia-strucke-excelfil-test](https://shape-shifter.sead.se/projects/riia-strucke-excelfil-test), which has a datasheet made from an excel version of the above named document, in which the column names were edited to remove non-English characters and capital letters. See below table for the edited column names.

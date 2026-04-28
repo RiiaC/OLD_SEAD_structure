@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/How to get your data into SEAD/index.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -230,7 +230,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/How to get your data into SEAD/index.md"
+                "file": "content/index.md"
               },
               "icon": "lucide-info",
               "title": "File properties for index"
@@ -241,8 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5,
-    "collapsed": true
+    "width": 460.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,6 +257,37 @@
   },
   "active": "e43a9cdd15bd59d9",
   "lastOpenFiles": [
+    "content/SEAD Shape Shifter User Manual/index.md",
+    "content/Example dataset mapping/Strucke Data mapping/index.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/index.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Carbon data spreadsheet/index.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Carbon data spreadsheet/AFL Radiocarbon Data spreadsheet/index.md",
+    "content/Example dataset mapping/index.md",
+    "README.md",
+    "public/index-og-image.webp",
+    "public/Structure-of-SEAD/index-og-image.webp",
+    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_types-og-image.webp",
+    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_notes-og-image.webp",
+    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_locations-og-image.webp",
+    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_location_types-og-image.webp",
+    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_images-og-image.webp",
+    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_horizons-og-image.webp",
+    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_dimensions-og-image.webp",
+    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_descriptions-og-image.webp",
+    "public/index.html",
+    "public/Example-dataset-mapping/AFL-Radiocarbon-Data-mapping/Entity-relative_ages.html",
+    "public/Example-dataset-mapping/AFL-Radiocarbon-Data-mapping/Entity-method_groups.html",
+    "public/Example-dataset-mapping/AFL-Radiocarbon-Data-mapping/Entity-measured_values.html",
+    "public/Example-dataset-mapping/AFL-Radiocarbon-Data-mapping/Entity-location_type.html",
+    "public/Example-dataset-mapping/AFL-Radiocarbon-Data-mapping/AFL-Radiocarbon-Data-spreadsheet/M.from-2σ.html",
+    "public/O..html",
+    "public/L..html",
+    "public/Example-dataset-mapping/AFL-Radiocarbon-Data-mapping/AFL-Radiocarbon-Data-spreadsheet/J.-±.html",
+    "public/K..html",
+    "Not_plotted/date_updated.md",
+    "Not_plotted/index.md",
+    "Not_plotted/testing callout types.md",
+    "content/How to get your data into SEAD/index.md",
     "content/How to get your data into SEAD/Domain-specific information/index.md",
     "content/How to get your data into SEAD/Domain-specific information/Palynology (Pollen analysis)/index.md",
     "content/How to get your data into SEAD/Domain-specific information/Palaeoentomology (Insect analysis)/index.md",
@@ -265,43 +295,13 @@
     "content/How to get your data into SEAD/Domain-specific information/Dendrochronology and wood analyses/index.md",
     "content/How to get your data into SEAD/Domain-specific information/Ceramic (Petrographic Microscopy)/index.md",
     "content/How to get your data into SEAD/Domain-specific information/Archaeobotany-Palaeobotany (Plant macrofossil analysis)/index.md",
-    "content/How to get your data into SEAD/index.md",
     "content/How to get your data into SEAD/Data categories and templates.md",
     "content/How to get your data into SEAD/Three steps to data importation.md",
-    "content/images/tree rings.png",
-    "content/images/thin section.png",
-    "content/images/Ceramics.png",
-    "content/images/Dendrochronology.png",
-    "content/images/soil chemistry.png",
-    "content/images/Soil analyses.png",
-    "content/images/Palynology.png",
-    "content/images/Archaeobotany.png",
-    "content/images/Palaeoentomology.png",
-    "Pasted image 20260424083300.png",
     "content/index.md",
-    "content/Example dataset mapping/index.md",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity modification_types.md",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity abundance_modifications.md",
-    "content/How to get your data into SEAD/Domain-specific information/Ceramic (Petrographic Microscopy)",
-    "content/How to get your data into SEAD/Domain-specific information/Geoarchaeology (Soil analyses)",
-    "content/How to get your data into SEAD/Domain-specific information/Palynology (Pollen analysis)",
-    "content/How to get your data into SEAD/Domain-specific information/Archaeobotany-Palaeobotany (Plant macrofossil analysis)",
-    "content/How to get your data into SEAD/Domain-specific information/Palaeoentomology (Insect analysis)",
-    "content/How to get your data into SEAD/Domain-specific information/Dendrochronology and wood analyses",
-    "content/How to get your data into SEAD/Domain-specific information",
     "content/SEAD Shape Shifter User Manual/7. Glossary.md",
-    "content/How to get your data into SEAD",
     "content/SEAD Shape Shifter User Manual/2.4 Validate.md",
-    "content/SEAD Shape Shifter User Manual/2.3.2 YAML.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity analysis_entities.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity abundances.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity abundance_element.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity taxa_common_names.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity taxa_tree_master.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity tbl_taxa_tree_genera.md",
-    "content/Structure of SEAD/Columns/taxon_id.md",
-    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_master.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entities inherent to the dataset",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/table of entities.base"
+    "content/SEAD Shape Shifter User Manual/2.3.2 YAML.md"
   ]
 }
