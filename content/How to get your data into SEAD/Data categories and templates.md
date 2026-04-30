@@ -41,7 +41,6 @@ The sample group is a required category for SEAD because it is the level to whic
 
 # Physical Samples
 This table records information about physical samples collected from specific sites. Each sample is characterised by its location within the site, its physical properties measured in specific units (e.g., liters, kilograms), and its context within its sample group. Additionally, samples may have descriptive information, notes, and external identifiers linked to other systems.
-- [ ] ==finish editing these based on https://humlab-sead.github.io/sead-schema/index.html and then go on to the next tab of [Metadata_mall.xlsx](obsidian://open?vault=UmUArkeologi_Obsidian&file=Z.%20External%20documents%2Fspreadsheets%2FMetadata_mall.xlsx)==
 
 | Column name         | Description                                                                                                                                                                                                                                            |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -59,6 +58,24 @@ This table records information about physical samples collected from specific si
 | Volume before float | Volume of the sample prior to flotation, expressed in litres.                                                                                                                                                                                          |
 | Volume after float  | Volume of the sample remaining after flotation, expressed in litres.                                                                                                                                                                                   |
 | Sample note         | Free‑text notes providing additional information about the sample, such as preservation, deviations from standard procedures, or contextual observations.                                                                                              |
+# Work progress
+| Column name | Description |
+| ----------- | ----------- |
+| Status      |             |
+| Subsample   |             |
+| Floterat    |             |
+| Sållat      |             |
+| CitP        |             |
+| CitPOI      |             |
+| MS          |             |
+| MS550       |             |
+| LOI         |             |
+# Publication
+| Column name | Description                                                                                                               |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Publication | The full citation information for publications relevant to a full dataset, method, sample, or other aspect of the dataset |
+| Authors     | The authors of the paper                                                                                                  |
+| Year        | The publication year                                                                                                      |
 
 # Soil Chemistry: Geochemical, Physical, and Sediment Properties
 This section documents laboratory measurements of sediment and soil properties, including phosphorus fractions, magnetic susceptibility, loss‑on‑ignition, pH, electrical conductivity, and grain size distribution. Together, these variables characterise the chemical composition, physical structure, and depositional or anthropogenic influences affecting the sampled material.
