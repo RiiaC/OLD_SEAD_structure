@@ -12,7 +12,7 @@ connected_tables:
 date created: Friday, September 19th 2025, 3:37:16 pm
 ---
 > [!warning] The [[abundance_element_id]]  foreign key can be null for both of the children tables, [[tbl_abundances]]  and [[tbl_dating_material]]. Therefore, this is an optional table. 
-> - We do not appear to have any information in the [[content/Example dataset mapping/Strucke Data mapping/index|Strucke data ]] that counts as an "element" to count, so the abundance can simply be tied to species
+> - We do not appear to have any information in the [[content/Example dataset mapping/Strucke Data mapping/first draft of dataset/index|Strucke data ]] that counts as an "element" to count, so the abundance can simply be tied to species
 
 > [!abstract] Contains reference data that defines the type of element, part, or unit being counted, as indicated by the values in tbl_abundances. 
 > For insects, this is often the Minimum Number of Individuals (MNI), but it can also include individual body parts such as wings, shells, or leg segments. For plant remains (macrofossils), it generally represents specific plant parts like seeds, leaves, or bud scales.

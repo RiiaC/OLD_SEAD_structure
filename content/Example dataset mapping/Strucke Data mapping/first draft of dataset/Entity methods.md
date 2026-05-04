@@ -14,7 +14,7 @@ status: needs creating
 ---
 
 may need connections to:
-- [ ] [[content/Example dataset mapping/Strucke Data mapping/Entity biblio|Entity biblio]]
+- [ ] [[content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity biblio|Entity biblio]]
 - [ ] [[Entity record_type]]
 may need connections from
 

@@ -15,7 +15,7 @@ status: in progress
 > In this dataset, perhaps we can simply attach an analysis_entities_id to every row by `labnr` and call it good?
 
 - [ ] create the data-derived analysis_entities and select `labnr
-- [ ] create a join with [[content/Example dataset mapping/Strucke Data mapping/Entity physical_samples|Entity physical_samples]] on `labnr`
+- [ ] create a join with [[content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity physical_samples|Entity physical_samples]] on `labnr`
 
 > [!warning] Do not set either of the joined entities to "drop duplicates", or you will get an error message on the join.
 

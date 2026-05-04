@@ -18,9 +18,9 @@ status: needs creating
 
 needs connections to:
 - [ ] [[content/Example dataset mapping/Strucke Data mapping/Entity site|Entity site]]
-- [ ] [[content/Example dataset mapping/Strucke Data mapping/Entity methods|Entity methods]]
+- [ ] [[content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity methods|Entity methods]]
 needs connections from 
-- [ ] [[content/Example dataset mapping/Strucke Data mapping/Entity physical_samples|Entity physical_samples]]
+- [ ] [[content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity physical_samples|Entity physical_samples]]
 ![[Entity sample_groups schema.png]]
 
 

@@ -38,7 +38,7 @@ extra_columns:
   full_reference: '{forfattare} {tryckar} {titel} {tidskrift} {forlagsort}'
 `````
 
-- [ ] create the [[content/Example dataset mapping/Strucke Data mapping/Entity site_references|Entity site_references]] and do the joins
+- [ ] create the [[content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity site_references|Entity site_references]] and do the joins
 
 
 

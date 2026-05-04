@@ -2,7 +2,7 @@
 Entity_Name: abundances
 Type:
 Public_ID: "[[abundance_id]]"
-Target_Entity: "[[content/Example dataset mapping/Strucke Data mapping/Entity analysis_entities|Entity analysis_entities]]"
+Target_Entity: "[[content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity analysis_entities|Entity analysis_entities]]"
 Local_Keys:
   - labnr
 Remote_Keys: labnr

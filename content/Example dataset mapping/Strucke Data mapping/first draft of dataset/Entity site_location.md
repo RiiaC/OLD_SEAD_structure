@@ -7,7 +7,7 @@ Local_Keys:
   - "[[site_id]]"
 Remote_Keys: system_id
 SEAD_table: "[[tbl_site_locations]]"
-Target_Entity_2: "[[content/Example dataset mapping/Strucke Data mapping/Entity location|Entity location]]"
+Target_Entity_2: "[[content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity location|Entity location]]"
 Local_Keys_2: "[[location_id]]"
 Remote_Keys_2: system_id
 status: needs creating

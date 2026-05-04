@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/How to get your data into SEAD/Data categories and templates.md",
+                "file": "content/Structure of SEAD/Tables/Site/tbl_site_locations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data categories and templates"
+              "title": "tbl_site_locations"
+            }
+          },
+          {
+            "id": "bb058c202346a1e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -112,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "materalize",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 355.5
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -230,10 +240,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/How to get your data into SEAD/Data categories and templates.md"
+                "file": "content/Structure of SEAD/Tables/Site/tbl_site_locations.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Data categories and templates"
+              "title": "File properties for tbl_site_locations"
             }
           }
         ],
@@ -241,7 +251,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5
+    "width": 460.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,15 +268,35 @@
   },
   "active": "e43a9cdd15bd59d9",
   "lastOpenFiles": [
-    "content/How to get your data into SEAD/Three steps to data importation.md",
-    "content/index.md",
-    "content/SEAD Shape Shifter User Manual/index.md",
+    "content/Structure of SEAD/Columns/site_location_id.md",
+    "content/Structure of SEAD/Tables/Site/tbl_site_locations.md",
+    "content/Structure of SEAD/Columns/location_id.md",
+    "content/Structure of SEAD/Tables/Location/tbl_locations.md",
+    "content/Structure of SEAD/Columns/location_name.md",
+    "content/Structure of SEAD/Columns/location_type_id.md",
+    "content/Structure of SEAD/Tables/Location/tbl_location_types.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity location type.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity site_location.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity location.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity location_type.md",
+    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity site_location.md",
+    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity location.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity datasets.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity datasheet.md",
     "content/Example dataset mapping/Strucke Data mapping/index.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/index.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Carbon data spreadsheet/index.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Carbon data spreadsheet/AFL Radiocarbon Data spreadsheet/index.md",
+    "content/SEAD Shape Shifter User Manual/7. Glossary.md",
+    "content/SEAD Shape Shifter User Manual/2.7 Metadata.md",
+    "content/images/SEAD Shape Shifter  Metadata Window.png",
+    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/index.md",
+    "Untitled.md",
     "content/Example dataset mapping/index.md",
-    "README.md",
+    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Strucke list of entities.base",
+    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity abundances.md",
+    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity taxa_tree_master.md",
+    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset",
+    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity taxa_common_names.md",
+    "content/How to get your data into SEAD/Data categories and templates.md",
     "public/index-og-image.webp",
     "public/Structure-of-SEAD/index-og-image.webp",
     "public/Structure-of-SEAD/Tables/sSample/tbl_sample_types-og-image.webp",
@@ -275,7 +306,6 @@
     "public/Structure-of-SEAD/Tables/sSample/tbl_sample_images-og-image.webp",
     "public/Structure-of-SEAD/Tables/sSample/tbl_sample_horizons-og-image.webp",
     "public/Structure-of-SEAD/Tables/sSample/tbl_sample_dimensions-og-image.webp",
-    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_descriptions-og-image.webp",
     "public/index.html",
     "public/Example-dataset-mapping/AFL-Radiocarbon-Data-mapping/Entity-relative_ages.html",
     "public/Example-dataset-mapping/AFL-Radiocarbon-Data-mapping/Entity-method_groups.html",
@@ -283,25 +313,6 @@
     "public/Example-dataset-mapping/AFL-Radiocarbon-Data-mapping/Entity-location_type.html",
     "public/Example-dataset-mapping/AFL-Radiocarbon-Data-mapping/AFL-Radiocarbon-Data-spreadsheet/M.from-2σ.html",
     "public/O..html",
-    "public/L..html",
-    "public/Example-dataset-mapping/AFL-Radiocarbon-Data-mapping/AFL-Radiocarbon-Data-spreadsheet/J.-±.html",
-    "public/K..html",
-    "Not_plotted/date_updated.md",
-    "Not_plotted/index.md",
-    "Not_plotted/testing callout types.md",
-    "content/How to get your data into SEAD/index.md",
-    "content/How to get your data into SEAD/Domain-specific information/index.md",
-    "content/How to get your data into SEAD/Domain-specific information/Palynology (Pollen analysis)/index.md",
-    "content/How to get your data into SEAD/Domain-specific information/Palaeoentomology (Insect analysis)/index.md",
-    "content/How to get your data into SEAD/Domain-specific information/Geoarchaeology (Soil analyses)/index.md",
-    "content/How to get your data into SEAD/Domain-specific information/Dendrochronology and wood analyses/index.md",
-    "content/How to get your data into SEAD/Domain-specific information/Ceramic (Petrographic Microscopy)/index.md",
-    "content/How to get your data into SEAD/Domain-specific information/Archaeobotany-Palaeobotany (Plant macrofossil analysis)/index.md",
-    "content/How to get your data into SEAD/Data categories and templates.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity modification_types.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity abundance_modifications.md",
-    "content/SEAD Shape Shifter User Manual/7. Glossary.md",
-    "content/SEAD Shape Shifter User Manual/2.4 Validate.md",
-    "content/SEAD Shape Shifter User Manual/2.3.2 YAML.md"
+    "public/L..html"
   ]
 }
