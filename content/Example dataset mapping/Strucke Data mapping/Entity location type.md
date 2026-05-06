@@ -1,7 +1,7 @@
 ---
-Entity_Name:
-Type:
-Public_ID:
+Entity_Name: location_type
+Type: Data (Derived)
+Public_ID: "[[location_type_id]]"
 Target_Entity:
 Local_Keys:
   - 
@@ -9,7 +9,7 @@ Local_Keys:
   - 
 Remote_Keys:
 SEAD_table: "[[tbl_location_types]]"
-status:
+status: needs creating
 ---
 > [!info] the types of locations present in this data set are:
 > 

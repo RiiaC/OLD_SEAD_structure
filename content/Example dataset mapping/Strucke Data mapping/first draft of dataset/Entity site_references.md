@@ -7,7 +7,7 @@ Local_Keys:
   - "[[site_id]]"
 Remote_Keys: system_id
 SEAD_table: "[[tbl_site_references]]"
-Target_Entity_2: "[[content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity biblio|Entity biblio]]"
+Target_Entity_2: "[[content/Example dataset mapping/Strucke Data mapping/Entity biblio|Entity biblio]]"
 Local_Keys_2: "[[biblio_id]]"
 Remote_Keys_2: system_id
 status: in progress
