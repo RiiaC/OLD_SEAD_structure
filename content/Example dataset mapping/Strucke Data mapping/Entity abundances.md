@@ -16,7 +16,7 @@ status: in progress
 - [x] select `lab_no`, `material`,  `species_1` and `species_2`
 `
 - [x] add an extra column, [[abundance]] and give it always a value of 1, now we have "counted" one for each row
-- [ ] Ask Phil if we should also count `species_2` separately. If so, discuss with Roger how to make it happen
+
 
 
 ![[Entity abundances schema 1.png]]

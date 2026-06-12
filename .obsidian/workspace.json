@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Structure of SEAD/Tables/Ungrouped/tbl_record_types.md",
+                "file": "content/Example dataset mapping/Strucke Data mapping/Entity common_names.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tbl_record_types"
+              "title": "Entity common_names"
             }
           },
           {
@@ -122,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "record_type",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,12 +143,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 308.5
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -269,34 +268,34 @@
   },
   "active": "e43a9cdd15bd59d9",
   "lastOpenFiles": [
-    "content/Structure of SEAD/Columns/record_type_id.md",
-    "Entity record_type.md",
-    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity methods.md",
-    "Not_plotted/date_updated.md",
-    "content/Structure of SEAD/Columns/abundance_element_id.md",
-    "content/Structure of SEAD/Tables/Ungrouped/tbl_dating_material.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity abundances.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity biblio.md",
-    "content/Structure of SEAD/Columns/biblio_id.md",
-    "content/Structure of SEAD/Columns/authors.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity analysis_entities.md",
-    "content/Structure of SEAD/Columns/analysis_entity_id.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity physical_samples.md",
-    "content/Structure of SEAD/Columns/physical_sample_id.md",
-    "content/Structure of SEAD/Tables/Dataset/tbl_analysis_entities.md",
-    "content/Example dataset mapping/Strucke Data mapping/List of Strucke Entities.base",
-    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Strucke list of entities.base",
-    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/index.md",
+    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_common_names.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity common_names.md",
+    "content/Structure of SEAD/Columns/taxon_id.md",
+    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_master.md",
+    "content/Structure of SEAD/Columns/taxon_common_name_id.md",
+    "content/Structure of SEAD/Columns/common_name.md",
     "content/Example dataset mapping/Strucke Data mapping/index.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity location type.md",
-    "content/Structure of SEAD/Tables/Site/tbl_site_locations.md",
-    "content/Structure of SEAD/Columns/site_location_id.md",
-    "content/Structure of SEAD/Columns/location_id.md",
+    "content/Structure of SEAD/Columns/family_id.md",
+    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_genera.md",
+    "content/Structure of SEAD/Columns/genus_id.md",
+    "content/Structure of SEAD/Columns/species.md",
+    "content/Structure of SEAD/Tables/Dataset/tbl_analysis_entities.md",
     "content/Structure of SEAD/Tables/Location/tbl_locations.md",
-    "content/Structure of SEAD/Columns/location_name.md",
     "content/Structure of SEAD/Columns/location_type_id.md",
     "content/Structure of SEAD/Tables/Location/tbl_location_types.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity site_location.md",
+    "content/Structure of SEAD/Tables/Site/tbl_site_locations.md",
+    "content/Structure of SEAD/Columns/location_id.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Carbon data spreadsheet/AFL Radiocarbon Data spreadsheet/0. Datset.md",
+    "content/Structure of SEAD/Tables/Provenance/tbl_methods.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity abundance_element.md",
+    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity dating_material.md",
+    "content/Structure of SEAD/Columns/material_dated.md",
+    "content/Structure of SEAD/Tables/Ungrouped/tbl_dating_material.md",
+    "content/Structure of SEAD/Columns/abundance_element_id.md",
+    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity methods.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity datasets.md",
+    "content/Example dataset mapping/Strucke Data mapping/List of Strucke Entities.base",
+    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Strucke list of entities.base",
     "content/images/SEAD Shape Shifter  Metadata Window.png",
     "content/Example dataset mapping/Strucke Data mapping/first draft of dataset",
     "public/index-og-image.webp",

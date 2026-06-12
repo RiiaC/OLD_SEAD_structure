@@ -8,7 +8,7 @@ Local_Keys:
   - 
   - 
 Remote_Keys:
-SEAD_table:
+SEAD_table: "[[tbl_physical_samples]]"
 status: in progress
 ---
 - [ ] needs connection to [[content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity sample_groups|Entity sample_groups]]
