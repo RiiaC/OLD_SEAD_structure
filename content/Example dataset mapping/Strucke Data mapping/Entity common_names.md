@@ -103,8 +103,17 @@ When I was done, the columns looked like this:
 Since the sheet had been sorted as above, I pulled out the various sections to their own sheets and cleaned them up as follows:
 ### not species
 This sheet contains all of the terms that occurs in the `Species` column that are not, in fact a species term. Some of them are a specification of what part of the plant, animal, or thing was dated (ben, kotte, etc.) Others specify the size (litet, stor, etc.)
-These terms often occur in conjunction with other terms in the same cell, sometimes as compound words. Therefore, the first column of this sheet contains the root form of the word, the second column gives a count of of the number of cells in the species column of [[c14_master_v08.xlsx]] in which that root appears. The remaining columns contain the various full forms of the word or phrase in which the root word appears. In theory, this information will help with normalisation. 
+These terms often occur in conjunction with other terms in the same cell, sometimes as compound words. Therefore, the first column of this sheet contains the root form of the word, the second column gives a count of of the number of cells in the species column of the `c14_master_v08.xlsx` spreadsheet  in which that root appears. The remaining columns contain the various full forms of the word or phrase in which the root word appears. In theory, this information will help with normalisation. 
 It is recommended that all of the non-species terms be removed from the species column and put into either a new column, or one of the existing columns, as appropriate, so that the species column contains only species.
+#### workflow to get this sheet in the above format
+1. take the list of "not species" found in [[Entity common_names#workflow to create report, part 1, generating the first draft|part 1]] above and pull them to their own sheet.
+2. for each term do a "find all" for the `species` column of the `c14_master_v08.xlsx` spreadsheet
+3. make a note in the second column of this report sheet of the number of occurrences of this term
+4. return to the the `c14_master_v08.xlsx` spreadsheet, click on one of the occurrences in the "find all" window, then hit cntrl-A to select all occurrences.
+5. close the "find all" window and press cntrl-C to copy them 
+6. paste them into an unused corner of a spreadsheet, remove duplicates, and sort the remaining cells containing the root term
+7. copy them, and paste them, transposed, into the columns next to the count of the term. 
+8. Repeat for all terms of the list, deleting any compound versions of terms that appear elsewhere on the list
 ### the other sheets 
 The other sheets will get their own write-ups when I get far enough along as to create them. In the short term, the other sheet, called "species" still contains:
 - the list of species which are present in SEAD with the name recorded in Swedish (black text)
