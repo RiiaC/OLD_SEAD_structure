@@ -60,7 +60,26 @@ I prepared a quick first draft of a list of the terms in the "species" column th
 
 Johan shared the result of that first attempt with me. We discussed it, and AI was re-set the task, but this time to include the corresponding SEAD id numbers for each of the taxon/species/etc levels for each of these that already exists in the database. The revised version ran overnight, and got stuck in the process whilst unattended, so it was re-run with OpenAI to create a the document **Strucke-species-openai-output 1.csv**.
 # processing the results
-I then created a **strucke common names report.xls** and copied over, one row at a time, the information from the AI output file next to the corresponding information from the original file:
+The above `species-openai-output 1.csv` document was used to create a spreadsheet, `strucke common names report.xlsx`, using the following workflows:
+## workflow to create report, part 1, generating the first draft
+- create [[Strucke-species-openai-output 1.csv]] as described in the notes for the [[2026-06-11 common names mapping meeting]] and save to a scrap paper document (no changes to the original). Re-arrange the column order to group the columns showing if each level matches with SEAD, the Taxonomic names, and their corosponding SEAD id numbers. This results in a sequence of columns for 
+	- Common name DB match
+	- Species DB match
+	- Genus DB match
+	- Family DB match
+	- Order DB match
+- for every row in edited output document, compare with the corresponding row of this document, and either
+	- If it matches to SEAD, copy-paste the results to the appropriate columns
+	- If it is not a SEAD match, but AI could determine taxonomic name(s), copy them over to the appropriate columns of this spreadsheet, and turn the row red to flag it as new. 
+	- If it is not a match, and AI did not suggest a taxonomic name, either move the term to the "probably not a species" column, or to the "latin" row (if it looks like a latin term), or turn the row red and leave it where it is (if it is a general common name that needs to be considered for inclusion in SEAD even though it doesn't correspond to a specific taxa (dagdjur, fisk, etc))
+	- Note: if there are multiple spellings of the same term in the Strucke data, consolidate them all to the same row, moving the variants to the "similar term/spelling" column, so that this report contains only one row for each term. Usually the AI flags these by putting the same term in the "inferred common name" column, and using the same set of taxonomic names for the full set of variations.
+> [!abstract] at regular intervals as I worked I applied the following sort rules:
+> - sort by "probably not a species" A - Z
+> - then by "original term" by font colour, red on top
+> - then by "original term" A - Z
+> - then by Latin A-Z
+
+When I was done, the columns looked like this:
 
 | column name            | description                                                                                                                                                                                                                                                                                                                                        |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -71,17 +90,25 @@ I then created a **strucke common names report.xls** and copied over, one row at
 | similar spellings      | Some terms used appear to be misspellings of others in the list. In these cases, they have been consolidated to a single row                                                                                                                                                                                                                       |
 | suggested form         | If a term was a compound word, only one of which was a species, that species common name is listed here. Since SEAD's common names seem to be recorded in lower case, the lower case version of the term is listed here. *Do we wish to edit the term to this version?*                                                                            |
 | SEAD common name       | If this term, or a reasonable variant thereof, already exists in SEAD's `tbl_taxa_common_names, it is recorded here                                                                                                                                                                                                                                |
-| taxon_common_name_id   | If this term, or a reasonable variant thereof, already exists in SEAD's `tbl_taxa_common_names`, its corresponding `taxon_common_name_id` is recorded here                                                                                                                                                                                         |
 | species                | The species name as suggested by AI, in black text if this species name already exists in SEAD, and in red if it does not.                                                                                                                                                                                                                         |
-| taxon_id  <br>         | The SEAD `taxon_id` corresponding to the above species                                                                                                                                                                                                                                                                                             |
 | genus                  | The genus name as suggested by AI, in black text if this species name already exists in SEAD, and in red if it does not.                                                                                                                                                                                                                           |
-| genus_id               | If this term, or a reasonable variant thereof, already exists in SEAD's `tbl_taxa_tree_genera`, its corresponding `genus_id` is recorded here                                                                                                                                                                                                      |
 | family                 | The family name as suggested by AI, in black text if this species name already exists in SEAD, and in red if it does not.                                                                                                                                                                                                                          |
-| family_id              | If this term, or a reasonable variant thereof, already exists in SEAD's `tbl_taxa_tree_families`, its corresponding `family_id` is recorded here                                                                                                                                                                                                   |
 | order                  | The order name as suggested by AI, in black text if this species name already exists in SEAD, and in red if it does not.                                                                                                                                                                                                                           |
+| taxon_common_name_id   | If this term, or a reasonable variant thereof, already exists in SEAD's `tbl_taxa_common_names`, its corresponding `taxon_common_name_id` is recorded here                                                                                                                                                                                         |
+| taxon_id  <br>         | The SEAD `taxon_id` corresponding to the above species. In some cases the AI tagged the taxon as ambiguous, and gave two alternatives, in which case these are in red.                                                                                                                                                                             |
+| genus_id               | If this term, or a reasonable variant thereof, already exists in SEAD's `tbl_taxa_tree_genera`, its corresponding `genus_id` is recorded here                                                                                                                                                                                                      |
+| family_id              | If this term, or a reasonable variant thereof, already exists in SEAD's `tbl_taxa_tree_families`, its corresponding `family_id` is recorded here                                                                                                                                                                                                   |
 | taxonomic_order_id     | If this term, or a reasonable variant thereof, already exists in SEAD's `tbl_taxa_tree_orders`, its corresponding `order_id` is recorded here                                                                                                                                                                                                      |
-
-
-
-
+## workflow to create report, part 2, making the draft easier to read
+Since the sheet had been sorted as above, I pulled out the various sections to their own sheets and cleaned them up as follows:
+### not species
+This sheet contains all of the terms that occurs in the `Species` column that are not, in fact a species term. Some of them are a specification of what part of the plant, animal, or thing was dated (ben, kotte, etc.) Others specify the size (litet, stor, etc.)
+These terms often occur in conjunction with other terms in the same cell, sometimes as compound words. Therefore, the first column of this sheet contains the root form of the word, the second column gives a count of of the number of cells in the species column of [[c14_master_v08.xlsx]] in which that root appears. The remaining columns contain the various full forms of the word or phrase in which the root word appears. In theory, this information will help with normalisation. 
+It is recommended that all of the non-species terms be removed from the species column and put into either a new column, or one of the existing columns, as appropriate, so that the species column contains only species.
+### the other sheets 
+The other sheets will get their own write-ups when I get far enough along as to create them. In the short term, the other sheet, called "species" still contains:
+- the list of species which are present in SEAD with the name recorded in Swedish (black text)
+- those species, with Swedish names, which are not present in SEAD (red text)
+- those species for which the Latin names were given instead of a Swedish name (its own column)
+- and those terms which are general terms for a group of plants or animals (Däggdjur, Fisk, Fågel etc.) (pink text)
 
