@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity taxa_tree_master.md",
+                "file": "content/Descriptions of files in the SEAD Teams folder/SEAD species-genus to  family-order miss-matches.xlsx.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Entity taxa_tree_master"
+              "title": "SEAD species-genus to  family-order miss-matches.xlsx"
             }
           },
           {
@@ -89,8 +89,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 307.5
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -266,18 +265,24 @@
       "templates:Insert template": false
     }
   },
-  "active": "e43a9cdd15bd59d9",
+  "active": "df53cfe50f44656a",
   "lastOpenFiles": [
-    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_common_names.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity common_names.md",
-    "content/Structure of SEAD/Columns/taxon_id.md",
     "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_master.md",
+    "content/Descriptions of files in the SEAD Teams folder/SEAD species-genus to  family-order miss-matches.xlsx.md",
+    "content/Descriptions of files in the SEAD Teams folder",
+    "content/Structure of SEAD/Columns/taxon_id.md",
+    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_common_names.md",
     "content/Structure of SEAD/Columns/taxon_common_name_id.md",
     "content/Structure of SEAD/Columns/common_name.md",
+    "content/Structure of SEAD/Columns/genus_id.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity tbl_taxa_tree_genera.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity taxa_tree_master.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity common_names.md",
+    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_genera.md",
+    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_families.md",
+    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_orders.md",
     "content/Example dataset mapping/Strucke Data mapping/index.md",
     "content/Structure of SEAD/Columns/family_id.md",
-    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_genera.md",
-    "content/Structure of SEAD/Columns/genus_id.md",
     "content/Structure of SEAD/Columns/species.md",
     "content/Structure of SEAD/Tables/Dataset/tbl_analysis_entities.md",
     "content/Structure of SEAD/Tables/Location/tbl_locations.md",
@@ -289,11 +294,6 @@
     "content/Structure of SEAD/Tables/Provenance/tbl_methods.md",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity abundance_element.md",
     "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity dating_material.md",
-    "content/Structure of SEAD/Columns/material_dated.md",
-    "content/Structure of SEAD/Tables/Ungrouped/tbl_dating_material.md",
-    "content/Structure of SEAD/Columns/abundance_element_id.md",
-    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity methods.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity datasets.md",
     "content/Example dataset mapping/Strucke Data mapping/List of Strucke Entities.base",
     "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Strucke list of entities.base",
     "content/images/SEAD Shape Shifter  Metadata Window.png",
@@ -312,7 +312,6 @@
     "public/Example-dataset-mapping/AFL-Radiocarbon-Data-mapping/Entity-method_groups.html",
     "public/Example-dataset-mapping/AFL-Radiocarbon-Data-mapping/Entity-measured_values.html",
     "public/Example-dataset-mapping/AFL-Radiocarbon-Data-mapping/Entity-location_type.html",
-    "public/Example-dataset-mapping/AFL-Radiocarbon-Data-mapping/AFL-Radiocarbon-Data-spreadsheet/M.from-2σ.html",
-    "public/O..html"
+    "public/Example-dataset-mapping/AFL-Radiocarbon-Data-mapping/AFL-Radiocarbon-Data-spreadsheet/M.from-2σ.html"
   ]
 }

@@ -68,6 +68,13 @@ The above `species-openai-output 1.csv` document was used to create a spreadshee
 	- Genus DB match
 	- Family DB match
 	- Order DB match
+> [!note]+ to look up names or numbers at any of these levels in SEAD, use:
+> - https://browser.sead.se/postgrest/tbl_taxa_common_names
+> - https://browser.sead.se/postgrest/tbl_taxa_tree_master
+> - https://browser.sead.se/postgrest/tbl_taxa_tree_genera
+> - https://browser.sead.se/postgrest/tbl_taxa_tree_families
+> - https://browser.sead.se/postgrest/tbl_taxa_tree_orders
+
 - for every row in edited output document, compare with the corresponding row of this document, and either
 	- If it matches to SEAD, copy-paste the results to the appropriate columns
 	- If it is not a SEAD match, but AI could determine taxonomic name(s), copy them over to the appropriate columns of this spreadsheet, and turn the row red to flag it as new. 
