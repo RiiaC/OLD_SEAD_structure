@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Descriptions of files in the SEAD Teams folder/index.md",
+                "file": "content/Descriptions of files in the SEAD Teams folder/GitHub SEAD_change_control issue 434.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "GitHub SEAD_change_control issue 434"
             }
           },
           {
@@ -239,10 +239,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/Descriptions of files in the SEAD Teams folder/index.md"
+                "file": "content/Descriptions of files in the SEAD Teams folder/GitHub SEAD_change_control issue 434.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for index"
+              "title": "File properties for GitHub SEAD_change_control issue 434"
             }
           }
         ],
@@ -267,8 +267,8 @@
   },
   "active": "df53cfe50f44656a",
   "lastOpenFiles": [
-    "content/Descriptions of files in the SEAD Teams folder/SEAD species-genus to  family-order miss-matches.md",
     "content/Descriptions of files in the SEAD Teams folder/index.md",
+    "content/Descriptions of files in the SEAD Teams folder/SEAD species-genus to  family-order miss-matches.md",
     "content/Descriptions of files in the SEAD Teams folder/GitHub SEAD_change_control issue 434.md",
     "content/Structure of SEAD/Columns/family_id.md",
     "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_families.md",
