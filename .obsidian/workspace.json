@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Descriptions of files in the SEAD Teams folder/SEAD species-genus to  family-order miss-matches.xlsx.md",
+                "file": "content/Descriptions of files in the SEAD Teams folder/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SEAD species-genus to  family-order miss-matches.xlsx"
+              "title": "index"
             }
           },
           {
@@ -239,10 +239,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/Structure of SEAD/Tables/Site/tbl_site_locations.md"
+                "file": "content/Descriptions of files in the SEAD Teams folder/index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for tbl_site_locations"
+              "title": "File properties for index"
             }
           }
         ],
@@ -267,9 +267,11 @@
   },
   "active": "df53cfe50f44656a",
   "lastOpenFiles": [
+    "content/Descriptions of files in the SEAD Teams folder/SEAD species-genus to  family-order miss-matches.md",
+    "content/Descriptions of files in the SEAD Teams folder/index.md",
+    "content/Descriptions of files in the SEAD Teams folder/GitHub SEAD_change_control issue 434.md",
     "content/Structure of SEAD/Columns/family_id.md",
     "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_families.md",
-    "content/Descriptions of files in the SEAD Teams folder/SEAD species-genus to  family-order miss-matches.xlsx.md",
     "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_master.md",
     "content/images/2026-06-23 family-genus miss-match report.png",
     "content/Descriptions of files in the SEAD Teams folder",
@@ -293,7 +295,6 @@
     "content/Structure of SEAD/Columns/location_id.md",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/Carbon data spreadsheet/AFL Radiocarbon Data spreadsheet/0. Datset.md",
     "content/Structure of SEAD/Tables/Provenance/tbl_methods.md",
-    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity abundance_element.md",
     "content/Example dataset mapping/Strucke Data mapping/List of Strucke Entities.base",
     "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Strucke list of entities.base",
     "content/images/SEAD Shape Shifter  Metadata Window.png",

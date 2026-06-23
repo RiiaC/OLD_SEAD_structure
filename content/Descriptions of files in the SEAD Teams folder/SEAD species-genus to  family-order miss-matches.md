@@ -1,4 +1,6 @@
-> [!info]+ This is an adaption of the information obtained while creating my [[strucke common names report.xlsx]], but taken into the full [[SEAD complete Taxa info.xlsx]] spreadsheet in the form of some new columns, and a filtered pivot table to report the results.
+> [!info]+ The spreadsheet described in this document was created as documentation to accompany https://github.com/humlab-sead/sead_change_control/issues/434
+> A copy of the github issue is available in this folder
+This is an adaption of the information obtained while creating my [[strucke common names report.xlsx]], but taken into the full [[SEAD complete Taxa info.xlsx]] spreadsheet in the form of some new columns, and a filtered pivot table to report the results.
 
 # the columns in this spreadsheet
 
