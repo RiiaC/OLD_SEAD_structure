@@ -10,7 +10,7 @@ In the course of working with the list of Strucke "species" (really common names
 see [Teams > SEAD > SEAD issues > Missmatches between SEAD species-genra and family-order.xlsx](https://umeauniversity.sharepoint.com/:x:/r/sites/SEAD72/Shared%20Documents/SEAD%20issues/Missmatches%20between%20SEAD%20species-genra%20and%20family-order.xlsx?d=wc10966ba6b994c7e99845d31aad0a018&csf=1&web=1&e=dxIHiy)  
 for details.
 
-There were only a handful of miss-matches between genus-family that had been flagged by the AI, and they are now entered into the report. However, they apply to all data that shares the genus, so if each of them:
+There were only a handful of miss-matches between genus-family that had been flagged by the AI. I have checked these, and they are now entered into the report.
 
 |genus_name|probably incorrect family_name|suggested family name for this genus|
 |---|---|---|
@@ -26,5 +26,6 @@ For a description of the column names in that table, and how the pivot table sho
 
 ### What needs to happen
 
-1. Edit the marked genus entries in SEAD to re-assign them to the correct family based on the information in this report.
-2. Longer term: Check all of the rest of the linkages between the various taxa levels to see if there are more errors than just the ones found in the course of working with the Strucke Data.
+1. Edit the marked genus entries in SEAD to re-assign them to the correct family based on the information in this report (Or, if it turns out that any of these marked genus-family matches are correct due to being official synonyms, then leave a note of that here and don't change anything in SEAD.)
+2. Let me know when this happens, I would appreciate it if we know that these are correct before we ingest the Strucke data.
+3. Longer term: Check all of the rest of the linkages between the various taxa levels to see if there are more errors than just the ones found in the course of working with the Strucke Data?
