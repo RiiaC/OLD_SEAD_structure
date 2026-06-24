@@ -5,13 +5,21 @@
 
 In the course of working with the list of Strucke "species" (really common names) I discovered that somewhere along the line data entry errors have crept into SEAD's taxonmy, with a few genus/species being attached to the wrong family/order.
 
-### A report is being compiled
+### A report has been compiled
 
 see [Teams > SEAD > SEAD issues > Missmatches between SEAD species-genra and family-order.xlsx](https://umeauniversity.sharepoint.com/:x:/r/sites/SEAD72/Shared%20Documents/SEAD%20issues/Missmatches%20between%20SEAD%20species-genra%20and%20family-order.xlsx?d=wc10966ba6b994c7e99845d31aad0a018&csf=1&web=1&e=dxIHiy)  
 for details.
 
-Note that as of the creation of this issue, I have not yet gone through all of the miss-matches between genus and family that were flagged as a result of compiling the report of the Strucke data common names. However, as I work through that list the above linked report spreadsheet will be updated, and will likely be complete before anyone returns from vacation and has time to solve this issue.
+There were only a handful of miss-matches between genus-family that had been flagged by the AI, and they are now entered into the report. However, they apply to all data that shares the genus, so if each of them:
 
+|genus_name|probably incorrect family_name|suggested family name for this genus|
+|---|---|---|
+|Acer|Acoraceae|Sapindaceae|
+|Sambucus|Alismataceae|Viburnaceae|
+|Viburnum|Alliaceae|Viburnaceae|
+|Allium|Araliaceae|Amaryllidaceae|
+
+If I encounter any other similar problems while working with the Strucke taxa lists, I will return to this and edit it further.
 #### Report contents
 
 For a description of the column names in that table, and how the pivot table should be read, see the documentation here: [[SEAD species-genus to  family-order miss-matches]]
