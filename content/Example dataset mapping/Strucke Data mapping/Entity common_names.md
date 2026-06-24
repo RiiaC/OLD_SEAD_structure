@@ -78,7 +78,7 @@ Johan shared the result of that first attempt with me. We discussed it, and AI w
 # processing the results
 The above `species-openai-output 1.csv` document was used to create a spreadsheet, `strucke common names report.xlsx`, using the following workflows:
 ## workflow to create report, part 1, generating the first draft
-- create [[Strucke-species-openai-output 1.csv]] as described in the notes for the [[2026-06-11 common names mapping meeting]] and save to a scrap paper document (no changes to the original). Re-arrange the column order to group the columns showing if each level matches with SEAD, the Taxonomic names, and their corresponding SEAD id numbers. This results in a sequence of columns for 
+- create `Strucke-species-openai-output 1.csv` as described in my notes for the 2026-06-11 common names mapping meeting, and save to a scrap paper document (no changes to the original). Re-arrange the column order to group the columns showing if each level matches with SEAD, the Taxonomic names, and their corresponding SEAD id numbers. This results in a sequence of columns for 
 	- Common name DB match
 	- Species DB match
 	- Genus DB match

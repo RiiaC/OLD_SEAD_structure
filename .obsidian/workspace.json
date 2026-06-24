@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Descriptions of files in the SEAD Teams folder/GitHub SEAD_change_control issue 434.md",
+                "file": "content/Example dataset mapping/Strucke Data mapping/Entity common_names.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GitHub SEAD_change_control issue 434"
+              "title": "Entity common_names"
             }
           },
           {
@@ -253,17 +253,28 @@
   },
   "active": "df53cfe50f44656a",
   "lastOpenFiles": [
-    "node_modules/pixi.js/lib/scene/text/canvas/utils/types.d.ts",
-    "node_modules/pixi.js/lib/rendering/mask/stencil/StencilMaskTypes.d.ts",
-    "node_modules/pixi.js/lib/scene/text/canvas/utils/measureTaggedText.d.ts",
-    "node_modules/pixi.js/lib/rendering/renderers/gl/texture/utils/mapViewDimensionToGlTarget.d.ts",
-    "node_modules/pixi.js/lib/rendering/renderers/gpu/texture/uploaders/gpuUploadCubeTextureResource.d.ts",
-    "node_modules/pixi.js/lib/scene/text-bitmap/GpuBitmapTextPipe.d.ts",
-    "node_modules/pixi.js/lib/rendering/renderers/gl/texture/uploaders/glUploadCubeTextureResource.d.ts",
-    "node_modules/pixi.js/lib/rendering/renderers/shared/texture/sources/ExternalSource.d.ts",
-    "node_modules/pixi.js/lib/rendering/mask/color/CanvasColorMaskPipe.d.ts",
-    "node_modules/pixi.js/lib/scene/text-bitmap/CanvasBitmapTextPipe.d.ts",
-    "node_modules/pixi.js/lib/scene/text-bitmap/AbstractBitmapTextPipe.d.ts",
+    "public/index-og-image.webp",
+    "public/Structure-of-SEAD/index-og-image.webp",
+    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_types-og-image.webp",
+    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_notes-og-image.webp",
+    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_locations-og-image.webp",
+    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_location_types-og-image.webp",
+    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_images-og-image.webp",
+    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_horizons-og-image.webp",
+    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_dimensions-og-image.webp",
+    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_descriptions-og-image.webp",
+    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_description_types-og-image.webp",
+    "public/Structure-of-SEAD/Columns/measurement_value.html",
+    "public/Structure-of-SEAD/Columns/method_group_id.html",
+    "public/Structure-of-SEAD/Columns/method_abbrev_or_alt_name.html",
+    "public/Structure-of-SEAD/Columns/measured_value_id.html",
+    "public/Structure-of-SEAD/Columns/measurement.html",
+    "public/Structure-of-SEAD/Columns/measured_value_dimension_id.html",
+    "public/Structure-of-SEAD/Columns/measured_value.html",
+    "public/Structure-of-SEAD/Columns/mcrdata_birmbeetledat_id.html",
+    "public/Structure-of-SEAD/Columns/measured_attribute_id.html",
+    "public/Structure-of-SEAD/Columns/mcr_species_name.html",
+    "content/Descriptions of files in the SEAD Teams folder/GitHub SEAD_change_control issue 434.md",
     "node_modules/rehype-citation/node_modules/entities/readme.md",
     "node_modules/brace-expansion/node_modules/balanced-match/LICENSE.md",
     "node_modules/brace-expansion/node_modules/balanced-match/README.md",
@@ -284,20 +295,9 @@
     "node_modules/webidl-conversions/README.md",
     "content/Example dataset mapping/Strucke Data mapping/Entity common_names.md",
     "2026-06-10 Wednesday.md",
-    "content/Descriptions of files in the SEAD Teams folder/GitHub SEAD_change_control issue 434.md",
     "content/Descriptions of files in the SEAD Teams folder/index.md",
     "content/Descriptions of files in the SEAD Teams folder/SEAD species-genus to  family-order miss-matches.md",
     "content/Structure of SEAD/Columns/family_id.md",
-    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_families.md",
-    "content/images/2026-06-23 family-genus miss-match report.png",
-    "content/images/SEAD Shape Shifter  Metadata Window.png",
-    "public/index-og-image.webp",
-    "public/Structure-of-SEAD/index-og-image.webp",
-    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_types-og-image.webp",
-    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_notes-og-image.webp",
-    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_locations-og-image.webp",
-    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_location_types-og-image.webp",
-    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_images-og-image.webp",
-    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_horizons-og-image.webp"
+    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_families.md"
   ]
 }

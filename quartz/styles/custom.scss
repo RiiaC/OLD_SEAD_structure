@@ -41,3 +41,21 @@
   margin-top: 1.25em;
   margin-bottom: 0.5em;
 }
+/* code added 2026-06-24 with the goal to make inline code look subtle, as it does on sreen in Obsidian */
+
+p code,
+li code {
+  font-size: 1.05em;
+  background-color: transparent;
+  font-family: monospace;
+}
+/* code added 2026-06-24 to remove the padding and background-color from links */
+a,
+a.internal,
+a.external,
+.internal-link,
+.external-link {
+  background-color: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+}
