@@ -16,12 +16,28 @@ status: needs creating
 > 
 > Therefore, a necessary part of the mapping process is to: 
 > 1. Create a complete list of all of the common names of plants and animals used in this dataset
-> 2. Determine the corresponding order/family/genus/species name, as appropriate
-> 3. For each of these that is already present in SEAD, determine the corresponding `taxon_id`, `genus_id`, `family_id`, and `taxonomic_order_id`
+> 2. ~~Determine the corresponding order/family/genus/species name, as appropriate~~ Determine the corresponding species
+> 3. For each of these that is already present in SEAD, determine the corresponding `taxon_id`~~, `genus_id`, `family_id`, and `taxonomic_order_id`~~ (given the way SEAD is set up, matching the `taxon_id`is good enough, and the rest of the matches will propagate from there. However, see [[GitHub SEAD_change_control issue 434]] for notes on places where that propagation may be in error and probably should be fixed)
 
 # First try, mapping "species" to SEAD's `tbl_taxa_common_names` etc.
 I prepared a quick first draft of a list of the terms in the "species" column thusly:
-1. Use Excel's pivot table function to determine the count of each unique string in the `species` column. The table of the ten most popular is recorded here: [[2026-06-10 Wednesday#Species distribution in the Strucke data]]
+1. Use Excel's pivot table function to determine the count of each unique string in the `species` column. The table of the ten most popular is:
+
+| species                         | count      |
+| ------------------------------- | ---------- |
+| Tall                            | 2,929      |
+| Björk                           | 1,953      |
+| Ek                              | 1,736      |
+| Hassel                          | 1,649      |
+| Al                              | 1,213      |
+| Människa                        | 1,160      |
+| Gran                            | 1,098      |
+| Skalkorn                        | 865        |
+| Korn                            | 416        |
+| Salix sp.                       | 412        |
+| blank                           | 12,061     |
+| **total number of data points** | **30,301** |
+
 2. copy the `species` column to a blank spreadsheet
 	1. remove duplicates *(29742 duplicates deleted, 560 unique values remain)*
 	2. use Excel's text to columns function to break the text to a new column at every slash: / 

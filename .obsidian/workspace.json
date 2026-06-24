@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Descriptions of files in the SEAD Teams folder/GitHub SEAD_change_control issue 434.md",
+                "file": "content/Example dataset mapping/Strucke Data mapping/Entity common_names.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GitHub SEAD_change_control issue 434"
+              "title": "Entity common_names"
             }
           },
           {
@@ -267,9 +267,11 @@
   },
   "active": "df53cfe50f44656a",
   "lastOpenFiles": [
+    "2026-06-10 Wednesday.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity common_names.md",
+    "content/Descriptions of files in the SEAD Teams folder/GitHub SEAD_change_control issue 434.md",
     "content/Descriptions of files in the SEAD Teams folder/index.md",
     "content/Descriptions of files in the SEAD Teams folder/SEAD species-genus to  family-order miss-matches.md",
-    "content/Descriptions of files in the SEAD Teams folder/GitHub SEAD_change_control issue 434.md",
     "content/Structure of SEAD/Columns/family_id.md",
     "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_families.md",
     "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_master.md",
@@ -282,7 +284,6 @@
     "content/Structure of SEAD/Columns/genus_id.md",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity tbl_taxa_tree_genera.md",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity taxa_tree_master.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity common_names.md",
     "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_genera.md",
     "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_orders.md",
     "content/Example dataset mapping/Strucke Data mapping/index.md",
@@ -294,7 +295,6 @@
     "content/Structure of SEAD/Tables/Site/tbl_site_locations.md",
     "content/Structure of SEAD/Columns/location_id.md",
     "content/Example dataset mapping/AFL Radiocarbon Data mapping/Carbon data spreadsheet/AFL Radiocarbon Data spreadsheet/0. Datset.md",
-    "content/Structure of SEAD/Tables/Provenance/tbl_methods.md",
     "content/Example dataset mapping/Strucke Data mapping/List of Strucke Entities.base",
     "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Strucke list of entities.base",
     "content/images/SEAD Shape Shifter  Metadata Window.png",
