@@ -16,6 +16,8 @@ status: in progress
 
 > [!info] an entity Roger created 2026-03-03
 >  so that we can have both the RAÄ number and Lämnings number so that both sorts of information can be included as properties of the site
+>
+>*However, Roger later decided that we need a whole new table, so this approach has been abandoned as of 2026-06-29, when the [[content/Example dataset mapping/Strucke Data mapping/Entity site_property|Entity site_property]] was created.*
 
 - [x] create entity **site_property**, with a **site_propety_id**
 **in the basic tab:**

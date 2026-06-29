@@ -5,18 +5,48 @@ Public_ID: "[[site_id]]"
 SEAD_table: "[[tbl_sites]]"
 status: in progress
 ---
-> [!to do] The relevant columns for this dataset relating to site and location include
-> **- By/Gård** = [[site_name]]  
-> - **Socken** + **- RAÄ-nr** =  [[tbl_site_properties]] (where [[tbl_property_type]] = RAÄ nummer)
-> **- Fornlämningstyp** = [[site_description]]
-> - **Lämningsnummer** = [[national_site_identifier]]
-> - **Uppdragsnummer** =  [[tbl_site_properties]] (where [[tbl_property_type]] = RAÄ nummer)
-> 
-> The final version of the file will also have two columns for koordinater (WGS 84), which will be the equivalent to:
-> -  [[latitude_dd]] 
-> - [[longitude_dd]]
+> [!to do] The relevant columns for this dataset relating to site are:
+> - **village_farm** = [[site_name]]  
+> - **longitude** = [[longitude_dd]]
+> - **latitude** = [[latitude_dd]]
+> - **location_precision** **=  [[site_location_accuracy]]
+> - **site_id** = Lämningsnummer= [[national_site_identifier]]
+>   
+>   In addition, we have coordinates in the Swedish system:
+> - **northing_3006** 
+> - **easting_3006**
 
-- [ ] create a data-derived entity sites
-- [ ] 
+****
+
+- [x] create a data-derived entity sites
+- [ ] link to this entity from [[content/Example dataset mapping/Strucke Data mapping/Entity location|Entity location]]
+- [ ] link to this entity from [[content/Example dataset mapping/Strucke Data mapping/Entity site_property|Entity site_property]]
+- [ ] link to this entity from [[Entity tbl_site_natgridrefs]] (or wherever else we wind up putting  **northing_3006** and **easting_3006**
 
 ![[Entity site schema.png]]
+
+# YAML for this entity as of 2026-06-29:
+````
+name: site
+type: entity
+system_id: system_id
+keys: []
+columns:
+  - village_farm
+  - latitude
+  - longitude
+  - location_precision
+  - raa_id
+  - site_type
+  - site_id
+  - uppdragsnummer
+  - northing_3006
+  - easting_3006
+public_id: site_id
+source: datasheet
+drop_duplicates:
+  - site_id
+check_functional_dependency: false
+drop_empty_rows:
+  - site_id
+````

@@ -8,46 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df53cfe50f44656a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Example dataset mapping/Strucke Data mapping/Entity common_names.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Entity common_names"
-            }
-          },
-          {
             "id": "c60c1356d2a9296e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "e43a9cdd15bd59d9",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Example dataset mapping/Strucke Data mapping/Entity common_names.md",
+                "file": "content/Example dataset mapping/Strucke Data mapping/Entity site.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,17 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Entity common_names"
+              "title": "Entity site"
             }
           },
           {
             "id": "bb058c202346a1e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Example dataset mapping/Strucke Data mapping/Entity site.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Entity site"
             }
           }
         ]
@@ -251,8 +231,109 @@
       "templates:Insert template": false
     }
   },
-  "active": "df53cfe50f44656a",
+  "floating": {
+    "id": "12cdc63ce12eca69",
+    "type": "floating",
+    "children": [
+      {
+        "id": "df1328c3579d89c4",
+        "type": "window",
+        "children": [
+          {
+            "id": "86cd52d7165c3f61",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "df53cfe50f44656a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/Structure of SEAD/Tables/Site/tbl_site_properties.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "tbl_site_properties"
+                }
+              },
+              {
+                "id": "e43a9cdd15bd59d9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/Structure of SEAD/Tables/Location/tbl_location_types.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "tbl_location_types"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1720,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c60c1356d2a9296e",
   "lastOpenFiles": [
+    "content/Example dataset mapping/Strucke Data mapping/Entity tbl_site_natgridrefs.md",
+    "content/Structure of SEAD/Tables/Site/tbl_site_properties.md",
+    "content/images/schema site national grid.png",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity location.md",
+    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Entity site_property.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site_property.md",
+    "content/Structure of SEAD/Tables/Site/tbl_property_type.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity biblio.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity analysis_entities.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity abundances.md",
+    "content/Structure of SEAD/Columns/longitude_dd.md",
+    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/index.md",
+    "content/Example dataset mapping/Strucke Data mapping/List of Strucke Entities.base",
+    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/Strucke list of entities.base",
+    "content/Structure of SEAD/Tables/Site/tbl_sites.md",
+    "content/Structure of SEAD/Columns/national_site_identifier.md",
+    "content/Structure of SEAD/Columns/site_property.md",
+    "content/Structure of SEAD/Columns/property_type.md",
+    "content/Structure of SEAD/Columns/property_type_id.md",
+    "content/Structure of SEAD/Columns/property_type_description.md",
+    "content/Structure of SEAD/Columns/site_property_id.md",
+    "content/Structure of SEAD/Columns/site_name.md",
+    "content/Structure of SEAD/Tables/Location/tbl_location_types.md",
+    "content/Structure of SEAD/Columns/location_type_id.md",
+    "content/Example dataset mapping/AFL Radiocarbon Data mapping/Entity location.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity common_names.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity datasheet.md",
     "public/index-og-image.webp",
     "public/Structure-of-SEAD/index-og-image.webp",
     "public/Structure-of-SEAD/Tables/sSample/tbl_sample_types-og-image.webp",
@@ -262,8 +343,6 @@
     "public/Structure-of-SEAD/Tables/sSample/tbl_sample_images-og-image.webp",
     "public/Structure-of-SEAD/Tables/sSample/tbl_sample_horizons-og-image.webp",
     "public/Structure-of-SEAD/Tables/sSample/tbl_sample_dimensions-og-image.webp",
-    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_descriptions-og-image.webp",
-    "public/Structure-of-SEAD/Tables/sSample/tbl_sample_description_types-og-image.webp",
     "public/Structure-of-SEAD/Columns/measurement_value.html",
     "public/Structure-of-SEAD/Columns/method_group_id.html",
     "public/Structure-of-SEAD/Columns/method_abbrev_or_alt_name.html",
@@ -271,33 +350,6 @@
     "public/Structure-of-SEAD/Columns/measurement.html",
     "public/Structure-of-SEAD/Columns/measured_value_dimension_id.html",
     "public/Structure-of-SEAD/Columns/measured_value.html",
-    "public/Structure-of-SEAD/Columns/mcrdata_birmbeetledat_id.html",
-    "public/Structure-of-SEAD/Columns/measured_attribute_id.html",
-    "public/Structure-of-SEAD/Columns/mcr_species_name.html",
-    "content/Descriptions of files in the SEAD Teams folder/GitHub SEAD_change_control issue 434.md",
-    "node_modules/rehype-citation/node_modules/entities/readme.md",
-    "node_modules/brace-expansion/node_modules/balanced-match/LICENSE.md",
-    "node_modules/brace-expansion/node_modules/balanced-match/README.md",
-    "node_modules/brace-expansion/README.md",
-    "node_modules/hastscript/node_modules/property-information/readme.md",
-    "node_modules/hast-util-from-parse5/node_modules/property-information/readme.md",
-    "node_modules/sync-message-port/README.md",
-    "node_modules/oniguruma-parser/README.md",
-    "node_modules/@parcel/watcher/node_modules/picomatch/README.md",
-    "node_modules/@parcel/watcher-win32-x64/README.md",
-    "node_modules/@parcel/watcher/README.md",
-    "node_modules/node-addon-api/tools/README.md",
-    "node_modules/node-addon-api/README.md",
-    "node_modules/node-addon-api/LICENSE.md",
-    "node_modules/sync-child-process/README.md",
-    "node_modules/whatwg-url/README.md",
-    "node_modules/webidl-conversions/LICENSE.md",
-    "node_modules/webidl-conversions/README.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity common_names.md",
-    "2026-06-10 Wednesday.md",
-    "content/Descriptions of files in the SEAD Teams folder/index.md",
-    "content/Descriptions of files in the SEAD Teams folder/SEAD species-genus to  family-order miss-matches.md",
-    "content/Structure of SEAD/Columns/family_id.md",
-    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_families.md"
+    "public/Structure-of-SEAD/Columns/mcrdata_birmbeetledat_id.html"
   ]
 }

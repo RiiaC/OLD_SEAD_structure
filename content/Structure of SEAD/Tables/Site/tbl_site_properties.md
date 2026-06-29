@@ -3,7 +3,9 @@ table_name: tbl_site_properties
 primary_key: "[[site_property_id]]"
 foreign_keys:
   - "[[site_id]]"
+  - "[[property_type_id]]"
 columns:
+  - "[[site_property]]"
 connected_tables:
   - "[[tbl_sites]]"
   - "[[tbl_property_type]]"
@@ -19,4 +21,6 @@ connected_tables:
 >select *
 >from tbl_property_types
 
+
+Therefore, I am suggesting the above columns and keys for this table
 
