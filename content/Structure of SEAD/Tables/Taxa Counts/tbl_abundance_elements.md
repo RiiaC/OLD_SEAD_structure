@@ -89,3 +89,42 @@ date created: Friday, September 19th 2025, 3:37:16 pm
 
  ![[Entity abundance_element schema.png|800]]
  
+| abundance_element_id | element_name                |
+| -------------------- | --------------------------- |
+| 2                    | Pollen grain                |
+| 3                    | Leaf                        |
+| 4                    | Seed grain                  |
+| 12                   | Flower                      |
+| 13                   | Leaf bud                    |
+| 18                   | Needle                      |
+| 19                   | Cone                        |
+| 20                   | Flower bud                  |
+| 21                   | Flower                      |
+| 22                   | Leaf sheath                 |
+| 23                   | Culm node (solid)           |
+| 24                   | Culm node (hollow)          |
+| 25                   | Culm node (undefined)       |
+| 26                   | Ear                         |
+| 27                   | Spikelet                    |
+| 28                   | Chaff                       |
+| 29                   | Awn fragment                |
+| 30                   | Spikelet fork               |
+| 31                   | Rachis fragment             |
+| 32                   | Glume base                  |
+| 33                   | Rachis segment(S)           |
+| 34                   | Palea                       |
+| 35                   | Lemma                       |
+| 36                   | Glume                       |
+| 37                   | Whole plant                 |
+| 39                   | Shell                       |
+| 40                   | Berry                       |
+| 41                   | Stem                        |
+| 42                   | Twig                        |
+| 43                   | Bark                        |
+| 44                   | Wood                        |
+| 45                   | Root                        |
+| 46                   | Corm (Root bulb/root tuber) |
+| 47                   | Cone scale                  |
+| 48                   | Endosperm                   |
+| 49                   | Straw                       |
+# 3:
