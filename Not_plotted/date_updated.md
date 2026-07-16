@@ -67,7 +67,7 @@ connected_tables:
   - "[[tbl_measured_value_dimensions]]"
   - "[[tbl_measured_values]]"
   - "[[tbl_method_groups]]"
-  - "[[tbl_methods]]"
+  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
   - "[[tbl_modification_types]]"
   - "[[tbl_physical_sample_features]]"
   - "[[tbl_physical_samples]]"

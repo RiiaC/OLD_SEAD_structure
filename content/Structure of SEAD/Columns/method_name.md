@@ -2,7 +2,7 @@
 column_name: method_name
 data_type: character varying
 connected_tables:
-  - "[[tbl_methods]]"
+  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
 date created: Friday, September 19th 2025, 3:37:17 pm
 ---
 

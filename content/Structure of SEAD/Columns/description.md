@@ -21,7 +21,7 @@ connected_tables:
   - "[[tbl_lithology]]"
   - "[[tbl_location_types]]"
   - "[[tbl_method_groups]]"
-  - "[[tbl_methods]]"
+  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
   - "[[tbl_project_stages]]"
   - "[[tbl_project_types]]"
   - "[[tbl_projects]]"

@@ -8,7 +8,7 @@ connected_tables:
   - "[[tbl_datasets]]"
   - "[[tbl_ecocode_systems]]"
   - "[[tbl_geochron_refs]]"
-  - "[[tbl_methods]]"
+  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
   - "[[tbl_rdb_systems]]"
   - "[[tbl_relative_age_refs]]"
   - "[[tbl_sample_group_references]]"

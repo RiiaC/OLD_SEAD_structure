@@ -12,7 +12,7 @@ columns:
 connected_tables:
   - "[[tbl_analysis_entities]]"
   - "[[tbl_dating_uncertainty]]"
-  - "[[tbl_methods]]"
+  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
   - "[[tbl_relative_ages]]"
 ---
 

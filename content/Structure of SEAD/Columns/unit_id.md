@@ -4,7 +4,7 @@ data_type: integer
 connected_tables:
   - "[[tbl_dimensions]]"
   - "[[tbl_isotopes]]"
-  - "[[tbl_methods]]"
+  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
   - "[[tbl_units]]"
   - "[[tbl_value_types]]"
 ---

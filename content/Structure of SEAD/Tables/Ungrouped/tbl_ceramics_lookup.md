@@ -8,7 +8,7 @@ columns:
   - "[[source/docs/plugins/Description]]"
   - "[[name]]"
 connected_tables:
-  - "[[tbl_methods]]"
+  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
 ---
 
 Serves as a reference for ceramic types and their associated details.

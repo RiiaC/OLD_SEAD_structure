@@ -11,7 +11,7 @@ columns:
   - "[[dimension_value]]"
 connected_tables:
   - "[[tbl_dimensions]]"
-  - "[[tbl_methods]]"
+  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
   - "[[tbl_physical_samples]]"
   - "[[tbl_value_qualifiers]]"
 ---

@@ -8,7 +8,7 @@ columns:
   - "[[source/docs/plugins/Description]]"
   - "[[name]]"
 connected_tables:
-  - "[[tbl_methods]]"
+  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
 ---
 

@@ -9,7 +9,7 @@ columns:
   - "[[date_updated]]"
   - "[[natgridref]]"
 connected_tables:
-  - "[[tbl_methods]]"
+  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
   - "[[tbl_sites]]"
 ---
 
