@@ -1,5 +1,5 @@
 ---
-table_name: tbl_sample_alt_refs
+table_name: "[[tbl_sample_alt_refs]]"
 primary_key: "[[sample_alt_ref_id]]"
 foreign_keys:
   - "[[alt_ref_type_id]]"

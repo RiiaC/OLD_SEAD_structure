@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Example dataset mapping/New MAL templates mapping/The templates themselves.md",
+                "file": "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The templates themselves"
+              "title": "index"
             }
           },
           {
@@ -39,17 +39,40 @@
               "state": {
                 "file": "content/Structure of SEAD/SEAD Structure.canvas",
                 "viewState": {
-                  "x": 2581.743762946738,
-                  "y": -3067.707191662312,
-                  "zoom": 0.018079116331293443
+                  "x": 881.8769090055681,
+                  "y": -441.0850684932352,
+                  "zoom": -0.16793064778053068
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "SEAD Structure"
             }
+          },
+          {
+            "id": "68dcfe4f00c0f245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Structure of SEAD/Tables/sSample/tbl_sample_alt_refs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "tbl_sample_alt_refs"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 340.5
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -225,17 +248,26 @@
       "templates:Insert template": false
     }
   },
-  "active": "0591dbc0f0571636",
+  "active": "963caaa502e1ffa2",
   "lastOpenFiles": [
-    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_families.md",
+    "content/Structure of SEAD/Tables/Site/tbl_property_type.md",
+    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/index.md",
+    "content/Structure of SEAD/Columns/site_property.md",
+    "content/Structure of SEAD/Columns/property_type.md",
+    "content/Example dataset mapping/Strucke Data mapping/Entity site_property.md",
+    "content/Structure of SEAD/Tables/Dataset/tbl_dataset_submission_types.md",
     "content/Structure of SEAD/SEAD Structure.canvas",
+    "content/Structure of SEAD/Tables/sSample/tbl_sample_alt_refs.md",
+    "content/Structure of SEAD/Columns/sample_alt_ref_id.md",
+    "content/Structure of SEAD/Tables/Dataset/tbl_datasets.md",
+    "content/Example dataset mapping/New MAL templates mapping/The templates themselves.md",
+    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_families.md",
     "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_synonyms.md",
     "content/Structure of SEAD/Tables/Measured Value/tbl_analysis_entity_dimensions.md",
     "content/Structure of SEAD/Tables/sSample/tbl_sample_dimensions.md",
     "content/Structure of SEAD/Tables/sSample/tbl_sample_horizons.md",
     "content/Structure of SEAD/Tables/sSample/tbl_sample_coordinates.md",
     "content/Structure of SEAD/Tables/sSample/tbl_physical_sample_features.md",
-    "content/Structure of SEAD/Tables/sSample/tbl_sample_alt_refs.md",
     "content/Structure of SEAD/Tables/Sample Groups/tbl_sample_group_coordinates.md",
     "content/Structure of SEAD/Tables/Sample Groups/tbl_lithology.md",
     "content/Structure of SEAD/Tables/Site/tbl_site_other_records.md",
@@ -245,15 +277,6 @@
     "content/Structure of SEAD/Columns/value_type_id.md",
     "content/Structure of SEAD/Tables/Analysis Values/tbl_value_classes.md",
     "content/Structure of SEAD/Columns/value_class_id.md",
-    "content/Structure of SEAD/Tables/Analysis Values/tbl_analysis_values.md",
-    "content/Structure of SEAD/Columns/analysis_value_id.md",
-    "content/Structure of SEAD/Columns/method_id.md",
-    "content/Structure of SEAD/Tables/Provenance/tbl_methods.md",
-    "content/Structure of SEAD/Columns/method_abbrev_or_alt_name.md",
-    "content/Example dataset mapping/New MAL templates mapping/The templates themselves.md",
-    "content/Structure of SEAD/Tables/Provenance/tbl_method_groups.md",
-    "content/Structure of SEAD/Columns/dimension_id.md",
-    "content/Structure of SEAD/Tables/Measured Value/tbl_measured_value_dimensions.md",
     "content/Example dataset mapping/New MAL templates mapping",
     "content/images/schema site national grid.png",
     "content/Example dataset mapping/Strucke Data mapping/List of Strucke Entities.base",
