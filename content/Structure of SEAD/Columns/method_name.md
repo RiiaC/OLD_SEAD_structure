@@ -2,11 +2,11 @@
 column_name: method_name
 data_type: character varying
 connected_tables:
-  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
+  - "[[tbl_methods]]"
 date created: Friday, September 19th 2025, 3:37:17 pm
 ---
 
-Full name of the analysis method.
+Full name of the analysis [[tbl_memethod.
 
 method_id	method_name
 3	Palaeoentomology
