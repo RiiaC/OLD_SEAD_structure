@@ -8,7 +8,7 @@ columns:
   - "[[date_updated]]"
   - "[[rgb]]"
 connected_tables:
-  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
+  - "[[tbl_methods]]"
 ---
 
 Contains the names and definitions of colours as classified by specific methods or colour spaces, such as Munsell or 2.5YR.

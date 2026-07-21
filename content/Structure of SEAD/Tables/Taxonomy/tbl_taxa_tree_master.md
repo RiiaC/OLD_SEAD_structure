@@ -1,5 +1,5 @@
 ---
-table_name: tbl_taxa_tree_master
+table_name: "[[tbl_taxa_tree_master]]"
 primary_key: "[[taxon_id]]"
 foreign_keys:
   - "[[author_id]]"

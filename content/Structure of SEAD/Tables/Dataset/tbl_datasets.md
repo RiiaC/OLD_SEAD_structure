@@ -16,7 +16,7 @@ connected_tables:
   - "[[tbl_biblio]]"
   - "[[tbl_data_types]]"
   - "[[tbl_dataset_masters]]"
-  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
+  - "[[tbl_methods]]"
   - "[[tbl_projects]]"
   - "[[tbl_datasets]]"
 date created: Friday, September 19th 2025, 3:37:16 pm

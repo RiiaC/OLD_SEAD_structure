@@ -11,7 +11,7 @@ connected_tables:
   - "[[tbl_dendro_lookup]]"
   - "[[tbl_horizons]]"
   - "[[tbl_isotope_measurements]]"
-  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
+  - "[[tbl_methods]]"
   - "[[tbl_relative_dates]]"
   - "[[tbl_sample_dimensions]]"
   - "[[tbl_sample_groups]]"

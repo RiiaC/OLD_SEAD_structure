@@ -10,7 +10,7 @@ columns:
   - "[[name]]"
   - "[[value_class_uuid]]"
 connected_tables:
-  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
+  - "[[tbl_methods]]"
   - "[[tbl_value_classes]]"
   - "[[tbl_value_types]]"
 ---

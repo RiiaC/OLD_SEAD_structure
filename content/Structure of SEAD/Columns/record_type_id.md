@@ -3,7 +3,7 @@ column_name: record_type_id
 data_type: integer
 connected_tables:
   - "[[tbl_abundance_elements]]"
-  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
+  - "[[tbl_methods]]"
   - "[[tbl_record_types]]"
   - "[[tbl_site_other_records]]"
   - "[[tbl_taxa_tree_orders]]"

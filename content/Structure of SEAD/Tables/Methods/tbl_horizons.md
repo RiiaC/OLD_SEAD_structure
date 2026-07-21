@@ -8,7 +8,7 @@ columns:
   - "[[source/docs/plugins/Description]]"
   - "[[horizon_name]]"
 connected_tables:
-  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
+  - "[[tbl_methods]]"
 ---
 
 Represents the layer of soil from which samples are taken, classified according to a recognized standard (e.g., FAO A horizon).

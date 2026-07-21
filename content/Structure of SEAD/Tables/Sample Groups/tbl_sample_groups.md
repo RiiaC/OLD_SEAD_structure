@@ -12,7 +12,7 @@ columns:
   - "[[sample_group_name]]"
   - "[[sample_group_uuid]]"
 connected_tables:
-  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
+  - "[[tbl_methods]]"
   - "[[tbl_sample_group_sampling_contexts]]"
   - "[[tbl_sites]]"
 date created: Friday, September 19th 2025, 3:37:16 pm

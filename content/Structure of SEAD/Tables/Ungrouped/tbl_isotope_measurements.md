@@ -10,7 +10,7 @@ columns:
 connected_tables:
   - "[[tbl_isotope_standards]]"
   - "[[tbl_isotope_types]]"
-  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
+  - "[[tbl_methods]]"
 ---
 
 nan

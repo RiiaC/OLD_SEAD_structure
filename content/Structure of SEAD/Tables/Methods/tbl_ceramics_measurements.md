@@ -6,7 +6,7 @@ foreign_keys:
 columns:
   - "[[date_updated]]"
 connected_tables:
-  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
+  - "[[tbl_methods]]"
 ---
 
 Contains measurements from ceramic analysis processes.

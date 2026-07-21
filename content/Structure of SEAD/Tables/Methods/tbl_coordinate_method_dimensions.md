@@ -10,7 +10,7 @@ columns:
   - "[[limit_upper]]"
 connected_tables:
   - "[[tbl_dimensions]]"
-  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
+  - "[[tbl_methods]]"
 date created: Friday, September 19th 2025, 3:37:16 pm
 ---
 

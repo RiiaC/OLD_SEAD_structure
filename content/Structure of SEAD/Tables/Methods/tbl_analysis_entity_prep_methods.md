@@ -8,7 +8,7 @@ columns:
   - "[[date_updated]]"
 connected_tables:
   - "[[tbl_analysis_entities]]"
-  - "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
+  - "[[tbl_methods]]"
 ---
 
 Links analysis entities with their respective preparation methods.

@@ -8,7 +8,7 @@ Local_Keys:
   - 
   - 
 Remote_Keys:
-SEAD_table: "[[content/Structure of SEAD/Tables/Provenance/tbl_methods]]"
+SEAD_table: "[[tbl_methods]]"
 date created: Wednesday, February 18th 2026, 9:38:29 am
 status: needs creating
 ---

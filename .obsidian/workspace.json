@@ -39,23 +39,13 @@
               "state": {
                 "file": "content/Structure of SEAD/SEAD Structure.canvas",
                 "viewState": {
-                  "x": 2004.449101796407,
-                  "y": 272.81736526946077,
-                  "zoom": -0.9583703755250861
+                  "x": -3619,
+                  "y": 477,
+                  "zoom": -0.5308220533906614
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "SEAD Structure"
-            }
-          },
-          {
-            "id": "c9ec162d2efafbba",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
             }
           }
         ],
@@ -91,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tbl_method",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,12 +102,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 362.5
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -236,34 +225,79 @@
       "templates:Insert template": false
     }
   },
+  "floating": {
+    "id": "f518ce5c476defde",
+    "type": "floating",
+    "children": [
+      {
+        "id": "bd012e505e9d1440",
+        "type": "window",
+        "children": [
+          {
+            "id": "1d2f9e973a22aba5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c9ec162d2efafbba",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "content/Structure of SEAD/SEAD Structure.canvas",
+                    "viewState": {
+                      "x": -910,
+                      "y": -281.5,
+                      "zoom": -1.356620813053522
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "SEAD Structure"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2396,
+        "y": 40,
+        "width": 945,
+        "height": 1352,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "09cff6c25cdd8d87",
   "lastOpenFiles": [
-    "content/Structure of SEAD/Tables/Provenance/tbl_methods.md",
+    "content/Structure of SEAD/Tables/Dataset/tbl_analysis_entities.md",
+    "content/Structure of SEAD/SEAD Structure.canvas",
+    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_master.md",
+    "content/Structure of SEAD/Tables/Ungrouped/tbl_isotopes.md",
+    "content/Structure of SEAD/Tables/Image Types",
+    "content/Structure of SEAD/Tables/Sample Groups/tbl_sample_groups.md",
+    "content/Structure of SEAD/Tables/Bibliography/tbl_biblio.md",
+    "content/Structure of SEAD/Tables/Methods/tbl_methods.md",
+    "content/Structure of SEAD/Tables/Dataset/tbl_dataset_masters.md",
+    "content/Structure of SEAD/Tables/Dataset/tbl_dataset_submisssion.md",
+    "content/Structure of SEAD/Tables/Dataset/tbl_dataset_contacts.md",
+    "content/Structure of SEAD/Tables/Dataset/tbl_data_types.md",
+    "content/Structure of SEAD/first draft SEAD Structure.canvas",
+    "content/Structure of SEAD/Tables/Measured Value/tbl_analysis_entity_dimensions.md",
+    "content/Structure of SEAD/Tables/Ungrouped/tbl_data_type_groups.md",
+    "content/Structure of SEAD/Columns/data_type_group_id.md",
+    "content/Structure of SEAD/Tables/Analysis Values/tbl_analysis_numerical_ranges.md",
+    "content/index.md",
+    "content/Structure of SEAD/Tables/sSample/tbl_sample_dimensions.md",
     "content/Example dataset mapping/New MAL templates mapping/The templates themselves.md",
     "content/Structure of SEAD/Columns/method_id.md",
-    "content/Structure of SEAD/SEAD Structure.canvas",
-    "content/Structure of SEAD/Tables/Provenance/tbl_method_groups.md",
+    "content/Structure of SEAD/Tables/Methods/tbl_method_groups.md",
     "content/Structure of SEAD/Columns/method_name.md",
     "content/Structure of SEAD/Tables/Ungrouped/tbl_dimensions.md",
     "content/Structure of SEAD/Tables/Measured Value/tbl_measured_value_dimensions.md",
     "content/Structure of SEAD/Columns/measured_value_id.md",
     "content/Structure of SEAD/Tables/Measured Value/tbl_measured_values.md",
     "content/Structure of SEAD/Columns/method_group_id.md",
-    "content/Structure of SEAD/Tables/sSample/tbl_sample_dimensions.md",
     "content/Structure of SEAD/Columns/sample_dimension_id.md",
-    "content/Structure of SEAD/Columns/dimension_id.md",
-    "content/Structure of SEAD/Columns/dimension_value.md",
-    "content/Example dataset mapping/New MAL templates mapping/index.md",
-    "content/Example dataset mapping/Strucke Data mapping/first draft of dataset/index.md",
-    "content/Structure of SEAD/Tables/sSample/tbl_sample_alt_refs.md",
-    "content/Structure of SEAD/Tables/Site/tbl_property_type.md",
-    "content/Structure of SEAD/Columns/site_property.md",
-    "content/Structure of SEAD/Columns/property_type.md",
-    "content/Example dataset mapping/Strucke Data mapping/Entity site_property.md",
-    "content/Structure of SEAD/Tables/Dataset/tbl_dataset_submission_types.md",
-    "content/Structure of SEAD/Columns/sample_alt_ref_id.md",
-    "content/Structure of SEAD/Tables/Dataset/tbl_datasets.md",
-    "content/Structure of SEAD/Tables/Taxonomy/tbl_taxa_tree_families.md",
     "content/Example dataset mapping/New MAL templates mapping",
     "content/images/schema site national grid.png",
     "content/Example dataset mapping/Strucke Data mapping/List of Strucke Entities.base",
@@ -282,7 +316,6 @@
     "public/Structure-of-SEAD/Columns/method_abbrev_or_alt_name.html",
     "public/Structure-of-SEAD/Columns/measured_value_id.html",
     "public/Structure-of-SEAD/Columns/measurement.html",
-    "public/Structure-of-SEAD/Columns/measured_value_dimension_id.html",
-    "public/Structure-of-SEAD/Columns/measured_value.html"
+    "public/Structure-of-SEAD/Columns/measured_value_dimension_id.html"
   ]
 }
