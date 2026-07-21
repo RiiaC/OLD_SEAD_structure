@@ -225,48 +225,6 @@
       "templates:Insert template": false
     }
   },
-  "floating": {
-    "id": "f518ce5c476defde",
-    "type": "floating",
-    "children": [
-      {
-        "id": "bd012e505e9d1440",
-        "type": "window",
-        "children": [
-          {
-            "id": "1d2f9e973a22aba5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c9ec162d2efafbba",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "content/Structure of SEAD/SEAD Structure.canvas",
-                    "viewState": {
-                      "x": -910,
-                      "y": -281.5,
-                      "zoom": -1.356620813053522
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "SEAD Structure"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2396,
-        "y": 40,
-        "width": 945,
-        "height": 1352,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "09cff6c25cdd8d87",
   "lastOpenFiles": [
     "content/Structure of SEAD/Tables/Dataset/tbl_analysis_entities.md",
