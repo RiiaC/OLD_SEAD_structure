@@ -226,8 +226,10 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        SEAD: https://www.sead.se/
+        SEAD Browser: https://browser.sead.se/
+        SEAD Schema: https://humlab-sead.github.io/sead-schema/
+        SEAD Discord Community: https://discord.gg/ux9d8JPDKx
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
