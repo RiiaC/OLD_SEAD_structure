@@ -18,9 +18,9 @@ This web page was developed as a tool to assist with mapping new datasets to the
 If you have any questions, you may contact me directly.
 
 --[Riia ](https://www.umu.se/en/staff/riia-chmielowski/), SEAD Project Assistant/Data Steward
-2026-02-23
+2026-07-22
 
-PS. In the long run it is hoped that the links between the various SEAD tables and columns in their meta data (Properties) will transform into working links between them on this web page. The developers of [Quartz](https://quartz.jzhao.xyz/), the tool with which this page was built, tell me that feature will come in the next release. In the meantime, to follow the links you can copy the name of a table into the search bar for the page.
+
 
 
 
