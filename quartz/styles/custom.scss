@@ -39,8 +39,4 @@
 :where(.page, .content, .content-container) :where(article, .markdown) h2 {
   margin-top: 1.25em;
   margin-bottom: 0.5em;
-  
- /* try to fix appearance of the internal links 2026-07-22, but haven't found one yet */
-
-}
 }

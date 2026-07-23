@@ -12,16 +12,16 @@ status: in progress
 > - **location_precision** **=  [[site_location_accuracy]]
 > - **site_id** = Lämningsnummer= [[national_site_identifier]]
 >   
->   In addition, we have coordinates in the Swedish system:
+>   In addition, we have coordinates in the Swedish system, which likely go under [[tbl_site_natgridrefs]]:
 > - **northing_3006** 
-> - **easting_3006**
+> - **easting_3006** 
 
 ****
 
 - [x] create a data-derived entity sites
 - [ ] link to this entity from [[content/Example dataset mapping/Strucke Data mapping/Entity location|Entity location]]
 - [ ] link to this entity from [[content/Example dataset mapping/Strucke Data mapping/Entity site_property|Entity site_property]]
-- [ ] link to this entity from [[Entity tbl_site_natgridrefs]] (or wherever else we wind up putting  **northing_3006** and **easting_3006**
+- [ ] link to this entity from [[Entity site_natgridrefs]] (or wherever else we wind up putting  **northing_3006** and **easting_3006**
 
 ![[Entity site schema.png]]
 
