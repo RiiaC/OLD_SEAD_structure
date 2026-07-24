@@ -1,7 +1,7 @@
 ---
 Entity_Name: abundance_modifications
 Type: Data (Derived)
-Public_ID: abundance_modification_id
+Public_ID: "[[abundance_modification_id]]"
 Target_Entity:
 Local_Keys:
   - 

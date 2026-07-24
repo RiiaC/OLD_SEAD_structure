@@ -1,7 +1,7 @@
 ---
 Entity_Name: dating_material
 Type: Data (Derived)
-Public_ID: dating_material_id
+Public_ID: "[[dating_material_id]]"
 Target_Entity:
 Local_Keys:
   - 
